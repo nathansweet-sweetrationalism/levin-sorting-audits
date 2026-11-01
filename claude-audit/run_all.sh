@@ -3,7 +3,7 @@
 # Requirements: git; python3 with requirements-audit.txt; node (>=18); Lean 4.35.0 via elan (lean-toolchain).
 # MODE=deterministic runs only the exact, seeded and network checks (used by CI).
 set -euo pipefail
-export PYTHONDONTWRITEBYTECODE=1  # never add bytecode to the upstream clone (f_code_forensics reads it)
+export PYTHONDONTWRITEBYTECODE=1 OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1  # never add bytecode to the upstream clone (f_code_forensics reads it)
 HERE="$(cd "$(dirname "$0")" && pwd)"; cd "$HERE"
 WORK="${WORK:-$HERE/_work}"; mkdir -p "$WORK" results
 # 1. Pinned upstream sources
