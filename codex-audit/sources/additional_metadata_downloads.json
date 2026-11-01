@@ -1,0 +1,122 @@
+[
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1371/journal.pone.0112732",
+    "final_url": "https://api.crossref.org/works/10.1371/journal.pone.0112732",
+    "local_path": "sources\\additional_metadata\\3b163c301504c8f1.json",
+    "sha256": "5a08d08716626f4b6e3efe615a3cda082a675904ec3d698af4ac2695e66b3023",
+    "content_type": "application/json",
+    "doi": "10.1371/journal.pone.0112732"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1098/rspb.2020.1053",
+    "final_url": "https://api.crossref.org/works/10.1098/rspb.2020.1053",
+    "local_path": "sources\\additional_metadata\\1fb35b8b510f3f74.json",
+    "sha256": "409fbfd9caf919d63ed867b2b541f6df20195da0d4c9bf2713c8ba40eb9b3019",
+    "content_type": "application/json",
+    "doi": "10.1098/rspb.2020.1053"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1242/dev.175893",
+    "final_url": "https://api.crossref.org/works/10.1242/dev.175893",
+    "local_path": "sources\\additional_metadata\\86e656e6034f3496.json",
+    "sha256": "7f3a89d6030403c6c9b53a2264a7d1f10ab26738d9f2374fb67905f3bd2f31db",
+    "content_type": "application/json",
+    "doi": "10.1242/dev.175893"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.3389/fbioe.2016.00055",
+    "final_url": "https://api.crossref.org/works/10.3389/fbioe.2016.00055",
+    "local_path": "sources\\additional_metadata\\4ee94181c0946942.json",
+    "sha256": "04f2aea93079ce028e37ad24d4733ecc889cb91ceb6efc1f4598cec6f61c3380",
+    "content_type": "application/json",
+    "doi": "10.3389/fbioe.2016.00055"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1002/reg2.72",
+    "final_url": "https://api.crossref.org/works/10.1002/reg2.72",
+    "local_path": "sources\\additional_metadata\\cc2e65b14fc31ff3.json",
+    "sha256": "58395d5ca90e6f90922a8fd6d18a811c3dad9c99302ad935e162b149204aa0d3",
+    "content_type": "application/json",
+    "doi": "10.1002/reg2.72"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1371/journal.pcbi.1001122",
+    "final_url": "https://api.crossref.org/works/10.1371/journal.pcbi.1001122",
+    "local_path": "sources\\additional_metadata\\09ee49f29063db2b.json",
+    "sha256": "b053b3f66ab463dcfde84c048f1d95a335e7b36a1dfa3d605d1f952560c2c1bc",
+    "content_type": "application/json",
+    "doi": "10.1371/journal.pcbi.1001122"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1371/journal.pcbi.1003285",
+    "final_url": "https://api.crossref.org/works/10.1371/journal.pcbi.1003285",
+    "local_path": "sources\\additional_metadata\\6d851d3415ff0031.json",
+    "sha256": "91b91bce798d0da0ff879750cb71d9d8bbdbaf81955773823711682bbb3255dc",
+    "content_type": "application/json",
+    "doi": "10.1371/journal.pcbi.1003285"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1371/journal.pcbi.1009917",
+    "final_url": "https://api.crossref.org/works/10.1371/journal.pcbi.1009917",
+    "local_path": "sources\\additional_metadata\\266bbb8921bde416.json",
+    "sha256": "465b4290aae660e7a1c2b7a253ba37adf1abcf5cb69e89109723bae5b6c3af76",
+    "content_type": "application/json",
+    "doi": "10.1371/journal.pcbi.1009917"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1038/sdata.2016.18",
+    "final_url": "https://api.crossref.org/works/10.1038/sdata.2016.18",
+    "local_path": "sources\\additional_metadata\\1ab2beba2660439f.json",
+    "sha256": "99d0827a23b3a84f626b973a983b13e015c0efe8a4bd8b0142bca51c6acd71b5",
+    "content_type": "application/json",
+    "doi": "10.1038/sdata.2016.18"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1111/ecog.02881",
+    "final_url": "https://api.crossref.org/works/10.1111/ecog.02881",
+    "local_path": "sources\\additional_metadata\\8ac43feb0ac0398f.json",
+    "sha256": "487d85e8aa93a2f7518da5a460ed0b964f8807bc1aac0db9cf993895d19a936d",
+    "content_type": "application/json",
+    "doi": "10.1111/ecog.02881"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1098/rsif.2007.0231",
+    "final_url": "https://api.crossref.org/works/10.1098/rsif.2007.0231",
+    "local_path": "sources\\additional_metadata\\48d40248a849cd10.json",
+    "sha256": "fdc39e53ab8b1eeacb672e564d1d0d6e5649d9c0e89041bf25b1adcbb6b25497",
+    "content_type": "application/json",
+    "doi": "10.1098/rsif.2007.0231"
+  },
+  {
+    "status": 200,
+    "url": "https://api.crossref.org/works/10.1093/bib/bbn034",
+    "final_url": "https://api.crossref.org/works/10.1093/bib/bbn034",
+    "local_path": "sources\\additional_metadata\\1c08867eef20d8a1.json",
+    "sha256": "a5a6a8746d94ae5feb228f1251c26861ffd4524de6ab2220ca812ee2be638edc",
+    "content_type": "application/json",
+    "doi": "10.1093/bib/bbn034"
+  },
+  {
+    "status": "unavailable",
+    "url": "https://api.crossref.org/works/10.3233/DS-2014-0001",
+    "error": "HTTP Error 404: Not Found",
+    "doi": "10.3233/DS-2014-0001"
+  },
+  {
+    "status": "unavailable",
+    "url": "https://api.crossref.org/works/10.1038/s41597-022-01732-4",
+    "error": "HTTP Error 404: Not Found",
+    "doi": "10.1038/s41597-022-01732-4"
+  }
+]

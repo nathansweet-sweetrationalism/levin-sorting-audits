@@ -1,0 +1,39 @@
+[
+  {
+    "url": "https://doi.pangaea.de/10.1594/PANGAEA.937635?format=textfile",
+    "status": 200,
+    "final_url": "https://doi.pangaea.de/10.1594/PANGAEA.937635?format=textfile",
+    "path": "sources\\primary\\wing_specimens.tab",
+    "bytes": 60353,
+    "sha256": "ecc0d1ad537991c0b6a6cacf53319c51b0d8d30207df64df645ed864c2b8a5b3"
+  },
+  {
+    "url": "https://doi.pangaea.de/10.1594/PANGAEA.937651?format=textfile",
+    "status": 200,
+    "final_url": "https://doi.pangaea.de/10.1594/PANGAEA.937651?format=textfile",
+    "path": "sources\\primary\\wing_landmarks.tab",
+    "bytes": 226778,
+    "sha256": "b0e2623fa476accd726b72c200e60bb35bd72c023013f0851c4ff1cd0dc05f7d"
+  },
+  {
+    "url": "https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima2.htm",
+    "status": "access_failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "url": "https://archive.org/download/onaristotleasbio00thomrich/onaristotleasbio00thomrich_djvu.txt",
+    "status": 200,
+    "final_url": "https://ia801804.us.archive.org/19/items/onaristotleasbio00thomrich/onaristotleasbio00thomrich_djvu.txt",
+    "path": "sources\\primary\\thompson1913_ocr.txt",
+    "bytes": 64801,
+    "sha256": "6965c0389bed0900a3f81fa8f1e9e453c0e3c51b3c1db3dc5940775f9ac5e1cc"
+  },
+  {
+    "url": "https://classics.mit.edu/Plato/seventh_letter.html",
+    "status": 200,
+    "final_url": "https://classics.mit.edu/Plato/seventh_letter.html",
+    "path": "sources\\primary\\plato_letter7.html",
+    "bytes": 101073,
+    "sha256": "e4cf5abf5f5b084841f44a22cb7d6c9a7bcc8ba58e4373d57b0d1f4b65a9e40d"
+  }
+]

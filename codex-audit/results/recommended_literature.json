@@ -1,0 +1,3236 @@
+[
+  {
+    "doi": "10.1371/journal.pcbi.1001122",
+    "purpose": "Full simulation experiment specification (MIASE)",
+    "title": [
+      "Minimum Information About a Simulation Experiment (MIASE)"
+    ],
+    "author": [
+      {
+        "given": "Dagmar",
+        "family": "Waltemath",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Adams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel A.",
+        "family": "Beard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Frank T.",
+        "family": "Bergmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Upinder S.",
+        "family": "Bhalla",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Randall",
+        "family": "Britten",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vijayalakshmi",
+        "family": "Chelliah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael T.",
+        "family": "Cooling",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Cooper",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Edmund J.",
+        "family": "Crampin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alan",
+        "family": "Garny",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stefan",
+        "family": "Hoops",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Hucka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Hunter",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Edda",
+        "family": "Klipp",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Camille",
+        "family": "Laibe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew K.",
+        "family": "Miller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ion",
+        "family": "Moraru",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Nickerson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Poul",
+        "family": "Nielsen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Macha",
+        "family": "Nikolski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sven",
+        "family": "Sahle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Herbert M.",
+        "family": "Sauro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Henning",
+        "family": "Schmidt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jacky L.",
+        "family": "Snoep",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dominic",
+        "family": "Tolle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Olaf",
+        "family": "Wolkenhauer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicolas",
+        "family": "Le Nov\u00e8re",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          28
+        ]
+      ]
+    },
+    "container": [
+      "PLoS Computational Biology"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1371/journal.pcbi.1003285",
+    "purpose": "Versioning, provenance and reproducible computation",
+    "title": [
+      "Ten Simple Rules for Reproducible Computational Research"
+    ],
+    "author": [
+      {
+        "given": "Geir Kjetil",
+        "family": "Sandve",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anton",
+        "family": "Nekrutenko",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eivind",
+        "family": "Hovig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          24
+        ]
+      ]
+    },
+    "container": [
+      "PLoS Computational Biology"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1371/journal.pcbi.1009917",
+    "purpose": "Principled simulation and scheduling",
+    "title": [
+      "Ten simple rules for principled simulation modelling"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1031-3786",
+        "authenticated-orcid": true,
+        "given": "Laurel",
+        "family": "Fogarty",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3579-9735",
+        "authenticated-orcid": true,
+        "given": "Madeleine",
+        "family": "Ammar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9386-6414",
+        "authenticated-orcid": true,
+        "given": "Thomas",
+        "family": "Holding",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2846-3790",
+        "authenticated-orcid": true,
+        "given": "Adam",
+        "family": "Powell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3766-6597",
+        "authenticated-orcid": true,
+        "given": "Anne",
+        "family": "Kandler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ]
+    },
+    "container": [
+      "PLOS Computational Biology"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.18564/jasss.4259",
+    "purpose": "ODD agent-based model protocol",
+    "title": [
+      "The ODD Protocol for Describing Agent-Based and Other Simulation Models: A Second Update to Improve Clarity, Replication, and Structural Realism"
+    ],
+    "author": [
+      {
+        "given": "Volker",
+        "family": "Grimm",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Steven F.",
+        "family": "Railsback",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christian E.",
+        "family": "Vincenot",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Uta",
+        "family": "Berger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cara",
+        "family": "Gallagher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Donald L.",
+        "family": "DeAngelis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bruce",
+        "family": "Edmonds",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jiaqi",
+        "family": "Ge",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jarl",
+        "family": "Giske",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J\u00fcrgen",
+        "family": "Groeneveld",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alice S.A.",
+        "family": "Johnston",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexander",
+        "family": "Milles",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jacob",
+        "family": "Nabe-Nielsen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J. Gareth",
+        "family": "Polhill",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Viktoriia",
+        "family": "Radchuk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marie-Sophie",
+        "family": "Rohw\u00e4der",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard A.",
+        "family": "Stillman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jan C.",
+        "family": "Thiele",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Ayll\u00f3n",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container": [
+      "Journal of Artificial Societies and Social Simulation"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.21105/joss.01891",
+    "purpose": "Property-based testing with Hypothesis",
+    "title": [
+      "Hypothesis: A new approach to property-based testing"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8635-3223",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "MacIver",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8646-8362",
+        "authenticated-orcid": false,
+        "given": "Zac",
+        "family": "Hatfield-Dodds",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Many",
+        "family": "Contributors",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          11,
+          21
+        ]
+      ]
+    },
+    "container": [
+      "Journal of Open Source Software"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1126/science.263.5147.641",
+    "purpose": "Limits of confirmation and model uniqueness",
+    "title": [
+      "Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences"
+    ],
+    "author": [
+      {
+        "given": "Naomi",
+        "family": "Oreskes",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Earth Sciences and the Department of History, Dartmouth College, Hanover, NH 03755"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kristin",
+        "family": "Shrader-Frechette",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Philosophy, University of South Florida, Tampa, FL 33620"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kenneth",
+        "family": "Belitz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Earth Sciences, Dartmouth College, Hanover, NH 03755"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          2,
+          4
+        ]
+      ]
+    },
+    "container": [
+      "Science"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1111/ecog.02881",
+    "purpose": "Structured and phylogenetic cross-validation",
+    "title": [
+      "Cross\u2010validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure"
+    ],
+    "author": [
+      {
+        "given": "David R.",
+        "family": "Roberts",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Volker",
+        "family": "Bahn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biological Sciences Wright State Univ. Dayton OH USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simone",
+        "family": "Ciuti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark S.",
+        "family": "Boyce",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biological Sciences Univ. of Alberta Edmonton AB Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jane",
+        "family": "Elith",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gurutzeta",
+        "family": "Guillera\u2010Arroita",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Severin",
+        "family": "Hauenstein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jos\u00e9 J.",
+        "family": "Lahoz\u2010Monfort",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Boris",
+        "family": "Schr\u00f6der",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Inst. of Geoecology, Div. of Landscape Ecology and Environmental Systems Analysis, Technische Univ. Braunschweig, Braunschweig, Germany, and: Berlin\u2010Brandenburg Inst. of Advanced Biodiversity Research (BBIB) Berlin Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wilfried",
+        "family": "Thuiller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lab. d\u2019\u00c9cologie Alpine, Univ. Joseph Fourier Grenoble France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David I.",
+        "family": "Warton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Mathematics and Statistics and Evolution and Ecology Research Centre, The Univ. of New South Wales Sydney Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brendan A.",
+        "family": "Wintle",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Florian",
+        "family": "Hartig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          },
+          {
+            "name": "Theoretical Ecology, Univ. of Regensburg Regensburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carsten F.",
+        "family": "Dormann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          3
+        ]
+      ]
+    },
+    "container": [
+      "Ecography"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1086/284325",
+    "purpose": "Phylogenies and comparative nonindependence",
+    "title": [
+      "Phylogenies and the Comparative Method"
+    ],
+    "author": [
+      {
+        "given": "Joseph",
+        "family": "Felsenstein",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1985,
+          1
+        ]
+      ]
+    },
+    "container": [
+      "The American Naturalist"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1038/sdata.2016.18",
+    "purpose": "FAIR principles",
+    "title": [
+      "The FAIR Guiding Principles for scientific data management and stewardship"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6960-357X",
+        "authenticated-orcid": false,
+        "given": "Mark D.",
+        "family": "Wilkinson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4727-9435",
+        "authenticated-orcid": false,
+        "given": "Michel",
+        "family": "Dumontier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0209-4480",
+        "authenticated-orcid": false,
+        "given": "IJsbrand Jan",
+        "family": "Aalbersberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0179-7384",
+        "authenticated-orcid": false,
+        "given": "Gabrielle",
+        "family": "Appleton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8042-4131",
+        "authenticated-orcid": false,
+        "given": "Myles",
+        "family": "Axton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2829-6715",
+        "authenticated-orcid": false,
+        "given": "Arie",
+        "family": "Baak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4155-5910",
+        "authenticated-orcid": false,
+        "given": "Niklas",
+        "family": "Blomberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0327-638X",
+        "authenticated-orcid": false,
+        "given": "Jan-Willem",
+        "family": "Boiten",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1164-1351",
+        "authenticated-orcid": false,
+        "given": "Luiz Bonino",
+        "family": "da Silva Santos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7618-7292",
+        "authenticated-orcid": false,
+        "given": "Philip E.",
+        "family": "Bourne",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jildau",
+        "family": "Bouwman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8686-0017",
+        "authenticated-orcid": false,
+        "given": "Anthony J.",
+        "family": "Brookes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4060-7360",
+        "authenticated-orcid": false,
+        "given": "Tim",
+        "family": "Clark",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1304-1939",
+        "authenticated-orcid": false,
+        "given": "Merc\u00e8",
+        "family": "Crosas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5654-2392",
+        "authenticated-orcid": false,
+        "given": "Ingrid",
+        "family": "Dillo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8599-7345",
+        "authenticated-orcid": false,
+        "given": "Olivier",
+        "family": "Dumon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6444-1436",
+        "authenticated-orcid": false,
+        "given": "Scott",
+        "family": "Edmunds",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5301-3142",
+        "authenticated-orcid": false,
+        "given": "Chris T.",
+        "family": "Evelo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4368-8058",
+        "authenticated-orcid": false,
+        "given": "Richard",
+        "family": "Finkers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3499-8262",
+        "authenticated-orcid": false,
+        "given": "Alejandra",
+        "family": "Gonzalez-Beltran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5711-4872",
+        "authenticated-orcid": false,
+        "given": "Alasdair J.G.",
+        "family": "Gray",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0183-6910",
+        "authenticated-orcid": false,
+        "given": "Paul",
+        "family": "Groth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1219-2137",
+        "authenticated-orcid": false,
+        "given": "Carole",
+        "family": "Goble",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5212-7052",
+        "authenticated-orcid": false,
+        "given": "Jeffrey S.",
+        "family": "Grethe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8641-4930",
+        "authenticated-orcid": false,
+        "given": "Jaap",
+        "family": "Heringa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4450-3112",
+        "authenticated-orcid": false,
+        "given": "Peter A.C",
+        "family": "\u2019t Hoen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6825-9439",
+        "authenticated-orcid": false,
+        "given": "Rob",
+        "family": "Hooft",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1267-0234",
+        "authenticated-orcid": false,
+        "given": "Tobias",
+        "family": "Kuhn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ruben",
+        "family": "Kok",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7352-1400",
+        "authenticated-orcid": false,
+        "given": "Joost",
+        "family": "Kok",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2401-4223",
+        "authenticated-orcid": false,
+        "given": "Scott J.",
+        "family": "Lusher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8406-3871",
+        "authenticated-orcid": false,
+        "given": "Maryann E.",
+        "family": "Martone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Albert",
+        "family": "Mons",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9610-5728",
+        "authenticated-orcid": false,
+        "given": "Abel L.",
+        "family": "Packer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3165-5344",
+        "authenticated-orcid": false,
+        "given": "Bengt",
+        "family": "Persson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9853-5668",
+        "authenticated-orcid": false,
+        "given": "Philippe",
+        "family": "Rocca-Serra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8691-772X",
+        "authenticated-orcid": false,
+        "given": "Marco",
+        "family": "Roos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rene",
+        "family": "van Schaik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5306-5690",
+        "authenticated-orcid": false,
+        "given": "Susanna-Assunta",
+        "family": "Sansone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8888-635X",
+        "authenticated-orcid": false,
+        "given": "Erik",
+        "family": "Schultes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7516-6246",
+        "authenticated-orcid": false,
+        "given": "Thierry",
+        "family": "Sengstag",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1386-0731",
+        "authenticated-orcid": false,
+        "given": "Ted",
+        "family": "Slater",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George",
+        "family": "Strawn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0979-3401",
+        "authenticated-orcid": false,
+        "given": "Morris A.",
+        "family": "Swertz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7633-1442",
+        "authenticated-orcid": false,
+        "given": "Mark",
+        "family": "Thompson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Johan",
+        "family": "van der Lei",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1377-9386",
+        "authenticated-orcid": false,
+        "given": "Erik",
+        "family": "van Mulligen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4836-6568",
+        "authenticated-orcid": false,
+        "given": "Jan",
+        "family": "Velterop",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9773-4008",
+        "authenticated-orcid": false,
+        "given": "Andra",
+        "family": "Waagmeester",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Wittenburg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1279-5133",
+        "authenticated-orcid": false,
+        "given": "Katherine",
+        "family": "Wolstencroft",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6935-9028",
+        "authenticated-orcid": false,
+        "given": "Jun",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3934-0072",
+        "authenticated-orcid": false,
+        "given": "Barend",
+        "family": "Mons",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          15
+        ]
+      ]
+    },
+    "container": [
+      "Scientific Data"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.3233/DS-210053",
+    "purpose": "Research-object packaging (RO-Crate)",
+    "title": [
+      "Packaging research artefacts with RO-Crate"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9842-9718",
+        "authenticated-orcid": false,
+        "given": "Stian",
+        "family": "Soiland-Reyes",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, The University of Manchester, UK"
+          },
+          {
+            "name": "Informatics Institute, University of Amsterdam, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3545-944X",
+        "authenticated-orcid": false,
+        "given": "Peter",
+        "family": "Sefton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Science, University Technology Sydney, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1304-1939",
+        "authenticated-orcid": false,
+        "given": "Merc\u00e8",
+        "family": "Crosas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Quantitative Social Science, Harvard University, Cambridge, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3986-0510",
+        "authenticated-orcid": false,
+        "given": "Leyla Jael",
+        "family": "Castro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ZB MED Information Centre for Life Sciences, Cologne, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6565-5145",
+        "authenticated-orcid": false,
+        "given": "Frederik",
+        "family": "Coppens",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "VIB-UGent Center for Plant Systems Biology, Gent, Belgium"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4806-5140",
+        "authenticated-orcid": false,
+        "given": "Jos\u00e9 M.",
+        "family": "Fern\u00e1ndez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Barcelona Supercomputing Center, Barcelona, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0454-7145",
+        "authenticated-orcid": false,
+        "given": "Daniel",
+        "family": "Garijo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ontology Engineering Group, Universidad Polit\u00e9cnica de Madrid, Madrid, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3079-6586",
+        "authenticated-orcid": false,
+        "given": "Bj\u00f6rn",
+        "family": "Gr\u00fcning",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Bioinformatics Group, Department of Computer Science, Albert-Ludwigs-University Freiburg, Freiburg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5383-6993",
+        "authenticated-orcid": false,
+        "given": "Marco",
+        "family": "La Rosa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "PARADISEC, Melbourne, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8271-5429",
+        "authenticated-orcid": false,
+        "given": "Simone",
+        "family": "Leo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Advanced Studies, Research, and Development in Sardinia (CRS4), Pula (CA), Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8131-2150",
+        "authenticated-orcid": false,
+        "given": "Eoghan",
+        "family": "\u00d3 Carrag\u00e1in",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University College Cork, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9648-6484",
+        "authenticated-orcid": false,
+        "given": "Marc",
+        "family": "Portier",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Vlaams Instituut voor de Zee, Oostende, Belgium"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1991-0533",
+        "authenticated-orcid": false,
+        "given": "Ana",
+        "family": "Trisovic",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Quantitative Social Science, Harvard University, Cambridge, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "family": "RO-Crate Community",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "\u00a0(see Appendix B)"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0183-6910",
+        "authenticated-orcid": false,
+        "given": "Paul",
+        "family": "Groth",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Informatics Institute, University of Amsterdam, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1219-2137",
+        "authenticated-orcid": false,
+        "given": "Carole",
+        "family": "Goble",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, The University of Manchester, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          4
+        ]
+      ]
+    },
+    "container": [
+      "Data Science"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1371/journal.pone.0309210",
+    "purpose": "Workflow execution provenance",
+    "title": [
+      "Recording provenance of workflow runs with RO-Crate"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8271-5429",
+        "authenticated-orcid": true,
+        "given": "Simone",
+        "family": "Leo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2961-9670",
+        "authenticated-orcid": true,
+        "given": "Michael R.",
+        "family": "Crusoe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura",
+        "family": "Rodr\u00edguez-Navas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0606-2512",
+        "authenticated-orcid": true,
+        "given": "Ra\u00fcl",
+        "family": "Sirvent",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3468-0652",
+        "authenticated-orcid": true,
+        "given": "Alexander",
+        "family": "Kanitz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "De Geest",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rudolf",
+        "family": "Wittner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luca",
+        "family": "Pireddu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Garijo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4806-5140",
+        "authenticated-orcid": true,
+        "given": "Jos\u00e9 M.",
+        "family": "Fern\u00e1ndez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9290-2017",
+        "authenticated-orcid": true,
+        "given": "Iacopo",
+        "family": "Colonnelli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matej",
+        "family": "Gallo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3777-5945",
+        "authenticated-orcid": true,
+        "given": "Tazro",
+        "family": "Ohta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hirotaka",
+        "family": "Suetake",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0309-604X",
+        "authenticated-orcid": true,
+        "given": "Salvador",
+        "family": "Capella-Gutierrez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Renske",
+        "family": "de Wit",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bruno P.",
+        "family": "Kinoshita",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9842-9718",
+        "authenticated-orcid": true,
+        "given": "Stian",
+        "family": "Soiland-Reyes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ]
+    },
+    "container": [
+      "PLOS ONE"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1093/bjps/axs012",
+    "purpose": "Distinctively mathematical explanation",
+    "title": [
+      "What Makes a Scientific Explanation Distinctively Mathematical?"
+    ],
+    "author": [
+      {
+        "given": "Marc",
+        "family": "Lange",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          9,
+          1
+        ]
+      ]
+    },
+    "container": [
+      "The British Journal for the Philosophy of Science"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1007/978-3-030-79876-5_37",
+    "purpose": "Lean 4 system description",
+    "title": [
+      "The Lean 4 Theorem Prover and Programming Language"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5158-4726",
+        "authenticated-orcid": false,
+        "given": "Leonardo de",
+        "family": "Moura",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2777-8117",
+        "authenticated-orcid": false,
+        "given": "Sebastian",
+        "family": "Ullrich",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container": [
+      "Lecture Notes in Computer Science",
+      "Automated Deduction \u2013 CADE 28"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1002/ecy.3829",
+    "purpose": "Actual FishShapes dataset paper",
+    "title": [
+      "FishShapes v1: Functionally relevant measurements of teleost shape and size on three dimensions"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1389-8521",
+        "authenticated-orcid": false,
+        "given": "Samantha A.",
+        "family": "Price",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Clemson University  Clemson South Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0192-5008",
+        "authenticated-orcid": false,
+        "given": "Sarah T.",
+        "family": "Friedman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9437-1683",
+        "authenticated-orcid": false,
+        "given": "Katherine A.",
+        "family": "Corn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0335-0682",
+        "authenticated-orcid": false,
+        "given": "Olivier",
+        "family": "Larouche",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Clemson University  Clemson South Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kasey",
+        "family": "Brockelsby",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anna J.",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maya",
+        "family": "Nagaraj",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nick G.",
+        "family": "Bertrand",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mailee",
+        "family": "Danao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Megan C.",
+        "family": "Coyne",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John R.",
+        "family": "Estrada",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rachel",
+        "family": "Friedman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Independent Researcher"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Evan",
+        "family": "Hoeft",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mikayla",
+        "family": "Iwan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Clemson University  Clemson South Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dominique",
+        "family": "Gross",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Clemson University  Clemson South Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jo Hsuan",
+        "family": "Kao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brian",
+        "family": "Landry",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Monica J.",
+        "family": "Linares",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carley",
+        "family": "McGlinn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Clemson University  Clemson South Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer A.",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Allison G.",
+        "family": "Proffitt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sierra",
+        "family": "Rodriguez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Clemson University  Clemson South Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maxwell R.",
+        "family": "Rupp",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erin Y.",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Victoria",
+        "family": "Susman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Angelly J.",
+        "family": "Tovar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura L. J.",
+        "family": "Vary",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Katerina L.",
+        "family": "Zapfe",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences Clemson University  Clemson South Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0498-4759",
+        "authenticated-orcid": false,
+        "given": "Peter C.",
+        "family": "Wainwright",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Evolution &amp; Ecology University of California Davis  Davis California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          25
+        ]
+      ]
+    },
+    "container": [
+      "Ecology"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1016/j.bpj.2017.04.011",
+    "purpose": "Persistent bioelectric regeneration experiments",
+    "title": [
+      "Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients"
+    ],
+    "author": [
+      {
+        "given": "Fallon",
+        "family": "Durant",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Junji",
+        "family": "Morokuma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christopher",
+        "family": "Fields",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Katherine",
+        "family": "Williams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dany Spencer",
+        "family": "Adams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    },
+    "container": [
+      "Biophysical Journal"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "registry metadata; separately saved full texts identified in access register"
+  },
+  {
+    "doi": "10.1109/TKDE.2015.2419657",
+    "purpose": "Content-addressed artifacts and reference-tree integrity",
+    "title": [
+      "Making Digital Artifacts on the Web Verifiable and Reliable"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1267-0234",
+        "authenticated-orcid": false,
+        "given": "Tobias",
+        "family": "Kuhn",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michel",
+        "family": "Dumontier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          1
+        ]
+      ]
+    },
+    "container": [
+      "IEEE Transactions on Knowledge and Data Engineering"
+    ],
+    "metadata_status": "verified",
+    "reading_scope": "Primary authors abstract/record consulted; metadata verified."
+  }
+]

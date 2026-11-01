@@ -1,0 +1,3 @@
+'MathOfBiology.Loop_082.nernst_planck_gj_flux_identities' depends on axioms: [propext]
+'MathOfBiology.Loop_082.boltzmann_equilibrium_and_gj_symmetry' depends on axioms: [propext]
+'MathOfBiology.Loop_082.cryptic_two_headed_memory_phenotypes' does not depend on any axioms

@@ -1,0 +1,10 @@
+{
+  "browser": "Microsoft Edge isolated headless profile",
+  "exit_code": 0,
+  "screenshot_exists": true,
+  "claim_details": 64,
+  "script_count_text": true,
+  "screenshot": "results/report_preview.png",
+  "dom_contains_report_title": true,
+  "limits": "Desktop initial viewport and script execution checked; not an exhaustive accessibility, print, mobile or cross-browser test."
+}

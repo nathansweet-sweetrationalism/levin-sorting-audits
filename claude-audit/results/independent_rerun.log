@@ -1,0 +1,137 @@
+PASS M1: [2,4,1,3]->[2,1,4,3]: I 3->2, E 1->2
+PASS M2: Every adjacent strict-inversion swap lowers I by exactly 1 (exhaustive, n<=8 distinct keys)
+PASS M2b: Same with duplicate keys (strict inversions, alphabet 3, n<=7)
+PASS M3: Non-adjacent swap of an inverted pair lowers I by 1+2k (odd, can exceed 1); swapping a non-inverted pair raises I. So 'dI=-1 on every single swap' holds only for adjacent swaps
+PASS M4: I has no non-global local minimum under adjacent transpositions (n<=8)
+PASS M5: [2a,2b,1c] swap first/last -> [1c,2b,2a]: equal keys reversed without being compared
+PASS M6: E[H/N] = [b(b-1)+s(s-1)]/N^2; equal counts -> 1/2 - 1/N; N=80 -> 0.4875, N=100 -> 0.49
+PASS M7: Endpoint chance benchmark holds for EVERY sort whose permutation ignores labels (stable or not); a departure refutes label-independence of movement, not stability as such
+PASS M8: Serotonin (z=+1) equilibrium ratio across -20 vs -60 mV is ~4.7
+PASS M9: Scoreboard arithmetic reproduces 77.6, 65.7, 88.1; the superseded pillar mean is 81.68 (81.7) from exact cards, 81.6 only from rounded inputs with Thompson written as 96.0 instead of 96.1
+PASS M10: 57.9% (7 Thompson modes) <= 86.2% (7-PC PCA) is required by Eckart-Young; '+13% to +48%' over 2.4% are ratios 6.4x-21x, so '15x' needs a stated base
+PASS M11: Landauer kT ln 2 at 300 K ~ 2.87e-21 J per erased unbiased bit
+PASS M12: A = H/N = (N - R)/N, so the chance benchmark is the Wald-Wolfowitz runs-test null: E[R] = 1 + 2bs/N
+{"M2_node":{"pass":true,"swaps_checked":158323},"M6_node":{"pass":true,"range":"b,s in 1..7"}}
+'Audit.inv_adjacent_swap' depends on axioms: [propext, Quot.sound]
+'Audit.ruler_witness' does not depend on any axioms
+'MathOfBiology.ZhangSortingMorphogenesis.bubble_adjacent_swap_preserves_left_partition' depends on axioms: [propext,
+ Quot.sound]
+'MathOfBiology.ZhangSortingMorphogenesis.insertion_freeze_reset_unblocks_and_checks_post_frozen_order' does not depend on any axioms
+'MathOfBiology.ZhangSortingMorphogenesis.lyapunov_descent_vs_monotonicity_error_projection_artifact' does not depend on any axioms
+'MathOfBiology.ZhangSortingMorphogenesis.adjacent_swap_strictly_decreases_inversions_window3' depends on axioms: [propext,
+ Quot.sound]
+'MathOfBiology.ZhangSortingMorphogenesis.selection_nonlocal_swap_strictly_decreases_inversions_window3' depends on axioms: [propext,
+ Quot.sound]
+'MathOfBiology.ZhangSortingMorphogenesis.chimeric_segregation_vs_alternating_list_bounds' does not depend on any axioms
+'MathOfBiology.ZhangSortingMorphogenesis.hoel_ce2_sorting_inversion_emergence_vs_error_loss' does not depend on any axioms
+{"swap_blocks_only_frozen_initiator": true, "bubble_should_move_to_accepts_FREEZE_target": true, "insertion_should_move_to_accepts_FREEZE_target": true, "selection_swaps_into_FREEZE_target": true, "insertion_freeze_reset_line": [74]} 
+F3: False
+InsertionSortCell.cpython-310.pyc {'source_mtime_utc': '2023-03-30T22:45:32+00:00', 'source_size_at_compile': 3719, 'committed_size': 4606, 'has_is_enable_to_move': False, 'swap_FREEZE_checks': 0, 'swap_calls_update': False}
+InsertionSortCell.cpython-311.pyc {'source_mtime_utc': '2023-06-04T16:58:06+00:00', 'source_size_at_compile': 4606, 'committed_size': 4606, 'has_is_enable_to_move': True, 'swap_FREEZE_checks': 0, 'swap_calls_update': False}
+MultiThreadCell.cpython-310.pyc {'source_mtime_utc': '2023-03-26T00:06:58+00:00', 'source_size_at_compile': 3118, 'committed_size': 4030, 'has_is_enable_to_move': False, 'swap_FREEZE_checks': 2, 'swap_calls_update': False}
+MultiThreadCell.cpython-311.pyc {'source_mtime_utc': '2023-06-19T04:43:27+00:00', 'source_size_at_compile': 4030, 'committed_size': 4030, 'has_is_enable_to_move': False, 'swap_FREEZE_checks': 1, 'swap_calls_update': False}
+{'prefix': '[3, frozen 1]', 'upstream_is_enable_to_move': True, 'freeze_branch_removed': False, 'pass': True}
+{
+ "final_agg_mean_by_C": {
+  "1": 0.4833,
+  "2": 0.4767,
+  "4": 0.5408,
+  "8": 0.6342,
+  "10": 0.6592,
+  "20": 0.6558,
+  "40": 0.6233
+ },
+ "final_agg_sem_by_C": {
+  "1": 0.015,
+  "2": 0.0154,
+  "4": 0.0127,
+  "8": 0.0165,
+  "10": 0.0128,
+  "20": 0.0163,
+  "40": 0.0135
+ },
+ "duplicate_runs": 90,
+ "duplicate_runs_with_equal_key_reversal": 90,
+ "runs_total": 105,
+ "runs_with_zero_continuation_swaps": 105,
+ "C2_stable_sort_benchmark_mean_A": 0.5075,
+ "C2_within_block_conditional_mean_A_exact": 0.5029166666666667,
+ "C2_observed_total_H": 572,
+ "C2_conditional_expected_total_H": 603.5,
+ "C10_stable_sort_benchmark_mean_A": 0.5033333333333333,
+ "C10_within_block_conditional_mean_A_exact": 0.48511666666666664,
+ "C10_observed_total_H": 791,
+ "C10_conditional_expected_total_H": 582.14,
+ "C2_exact_mean_total_H": 603.5,
+ "C2_exact_two_sided_distance_tail_p": 0.002006748976705476,
+ "C2_monte_carlo_p_100k": 0.00183
+}
+{
+ "n_species": 791,
+ "n_genera_ge3": 62,
+ "raw_cos": 0.42887269518071036,
+ "pca4_cos": 0.4097772738739585,
+ "random4_cos_median": 0.8560292346001144,
+ "random4_cos_p95": 0.9898541282715124,
+ "random4_frac_ge_0.935": 0.3,
+ "pca7_cos": 0.42456093575689086,
+ "random7_cos_median": 0.7845283034114403,
+ "random7_cos_p95": 0.9791218929306692,
+ "random7_frac_ge_0.935": 0.2,
+ "pca8_cos": 0.42656616365749717,
+ "random8_cos_median": 0.7276224648285798,
+ "random8_cos_p95": 0.9729461689411263,
+ "random8_frac_ge_0.935": 0.165,
+ "dietz_thompson8_cos_reported": 0.9352
+}
+MATCH 10.5281/zenodo.20622878 | Dietz | NeuroEval: Evaluating Data Transparency, Reproducibility, and Neural-C |  None ['2026', 'None']
+MATCH 10.5281/zenodo.20567719 | Dietz | BioEval — Bioinformatics Paper Evaluator |  None ['2026', 'None']
+MATCH 10.5281/zenodo.23680705 | Dietz | MorphoEval: Nanopublication-Backed Evaluation of Morphology Implementa |  None ['2026', 'None']
+MATCH 10.31234/osf.io/5g2xj_v3 | Levin | Ingressing Minds: Causal Patterns Beyond Genetics and Environment in N |  None ['2025', 'None']
+MATCH 10.3390/philosophies11050161 | Levin | Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synth | Philosophies 11 ['2026', 'None']
+MATCH 10.5962/bhl.title.11332 | Thompson | On growth and form |  None ['1917', 'None']
+MATCH 10.5962/bhl.title.147382 | Aristotle. | Historia animalium |  None ['1910', 'None']
+MATCH 10.1177/10597123241269740 | Zhang | Classical sorting algorithms as a model of morphogenesis: Self-sorting | Adaptive Behavior 33 ['2024', '2025']
+MISMATCH 10.1111/evo.12502 | Posavi | Testing for beneficial reversal of dominance during salinity shifts in | Evolution 68 ['2014']
+MISMATCH 10.1093/sysbio/syz029 | Prasanna | Model Choice, Missing Data, and Taxon Sampling Impact Phylogenomic Inf | Systematic Biology 69 ['2019', '2020']
+MATCH 10.1109/34.24792 | Bookstein | Principal warps: thin-plate splines and the decomposition of deformati | IEEE Transactions on Pattern Analysis an 11 ['1989', 'None']
+MATCH 10.1038/s41586-018-0273-1 | Rabosky | An inverse latitudinal gradient in speciation rate for marine fishes | Nature 559 ['2018']
+MATCH 10.1016/j.ydbio.2009.12.012 | Oviedo | Long-range neural and gap junction protein-mediated cues control polar | Developmental Biology 339 ['2010', 'None']
+MATCH 10.1016/j.chembiol.2010.11.012 | Beane | A Chemical Genetics Approach Reveals H,K-ATPase-Mediated Membrane Volt | Chemistry &amp; Biology 18 ['2011', 'None']
+MISMATCH 10.3389/fphys.2016.00178 | Kovach | Mitochondrial Ultrastructure and Glucose Signaling Pathways Attributed | Frontiers in Physiology 7 ['2016', 'None']
+MATCH 10.1098/rsif.2017.0425 | Pietak | Bioelectric gene and reaction networks: computational modelling of gen | Journal of The Royal Society Interface 14 ['2017']
+MATCH 10.1016/j.biosystems.2021.104511 | Cervera | Morphology changes induced by intercellular gap junction blocking: A r | Biosystems 209 ['2021', 'None']
+MISMATCH 10.1016/j.ydbio.2012.01.027 | Turlo | An essential requirement for β1 integrin in the assembly of extracellu | Developmental Biology 365 ['2012', 'None']
+MATCH 10.1002/dvdy.23770 | Vandenberg | Normalized shape and location of perturbed craniofacial structures in  | Developmental Dynamics 241 ['2012']
+MISMATCH 10.1098/rsif.2015.0772 | Lin | Bursting noise in gene expression dynamics: linking microscopic and me | Journal of The Royal Society Interface 13 ['2016', 'None']
+MATCH 10.1039/c5ib00221d | Pezzulo | Re-membering the body: applications of computational neuroscience to t | Integrative Biology 7 ['2015', 'None']
+MISMATCH 10.1242/dev.175950 | Ruthig | The RNA-binding protein DND1 acts sequentially as a negative regulator | Development 146 ['2019']
+MATCH 10.1073/pnas.1910837117 | Kriegman | A scalable pipeline for designing reconfigurable organisms | Proceedings of the National Academy of S 117 ['2020']
+MATCH 10.1073/pnas.2112672118 | Kriegman | Kinematic self-replication in reconfigurable organisms | Proceedings of the National Academy of S 118 ['2021']
+MATCH 10.3389/fnsys.2022.768201 | Levin | Technological Approach to Mind Everywhere: An Experimentally-Grounded  | Frontiers in Systems Neuroscience 16 ['2022', 'None']
+MATCH 10.1038/41557 | Simard | Net transfer of carbon between ectomycorrhizal tree species in the fie | Nature 388 ['1997']
+MATCH 10.1073/pnas.1314922110 | Hoel | Quantifying causal emergence shows that macro can beat micro | Proceedings of the National Academy of S 110 ['2013']
+MATCH 10.1016/j.patter.2025.101472 | Hoel | Quantifying emergent complexity | Patterns 7 ['2026', 'None']
+MATCH 10.1093/bioinformatics/btt088 | Lobo | Planform: an application and database of graph-encoded planarian regen | Bioinformatics 29 ['2013']
+MATCH 10.1242/bio.20123400 | Lobo | Towards a bioinformatics of patterning: a computational approach to un | Biology Open 2 ['2012', '2013']
+MATCH 10.1093/bioinformatics/btu582 | Lobo | Limbform: a functional ontology-based database of limb regeneration ex | Bioinformatics 30 ['2014']
+MATCH 10.1098/rsif.2013.0918 | Lobo | A linear-encoding model explains the variability of the target morphol | Journal of The Royal Society Interface 11 ['2014']
+MATCH 10.3897/JHR.32.4685 | Perrard | Phylogeny of hornets: a total evidence approach (Hymenoptera, Vespidae | Journal of Hymenoptera Research 32 ['2013', 'None']
+MATCH 10.1080/0022250X.1971.9989794 | Schelling | Dynamic models of segregation† | The Journal of Mathematical Sociology 1 ['1971', 'None']
+MATCH 10.1016/j.jjimei.2021.100042 | Zutshi | Systematic review and exploration of new avenues for sorting algorithm | International Journal of Information Man 1 ['2021', 'None']
+MATCH 10.1093/comjnl/bxab107 | Ganapathi | Parallel Divide-and-Conquer Algorithms for Bubble Sort, Selection Sort | The Computer Journal None ['2021', 'None']
+MATCH 10.1155/2019/3027578 | Shabaz | SA Sorting: A Novel Sorting Technique for Large-Scale Data | Journal of Computer Networks and Communi 2019 ['2019', 'None']
+MATCH 10.1145/3158137 | Flückiger | Correctness of speculative optimizations with dynamic deoptimization | Proceedings of the ACM on Programming La 2 ['2017', '2018']
+MATCH 10.1147/rd.53.0183 | Landauer | Irreversibility and Heat Generation in the Computing Process | IBM Journal of Research and Development 5 ['1961', 'None']
+MATCH 10.1016/S1355-2198(03)00039-X | Bennett | Notes on Landauer's principle, reversible computation, and Maxwell's D | Studies in History and Philosophy of Sci 34 ['2003', 'None']
+MATCH 10.3390/e19050188 | Hoel | When the Map Is Better Than the Territory | Entropy 19 ['2017', 'None']
+MATCH 10.3390/philosophies7020030 | Eberhardt | Causal Emergence: When Distortions in a Map Obscure the Territory | Philosophies 7 ['2022', 'None']
+MATCH 10.1007/s00224-006-1311-1 | Franceschini | Sorting Stably, in Place, with O(n log n) Comparisons and O(n) Moves | Theory of Computing Systems 40 ['2007', 'None']
+R1 {'runs': 30, 'runs_where_a_frozen_cell_was_displaced': 30, 'runs_with_values_crossing_the_initial_frozen_index': 30, 'all_bubble_swaps_dI_minus1': True, 'mean_final_E_by_f': {1: 0, 2: 0.5, 3: 0.9}}
+R2 {'with_reset': {1: {'mean_final_E': 0.95, 'sd': 0.21794494717703367, 'n': 20}, 2: {'mean_final_E': 1.7, 'sd': 0.458257569495584, 'n': 20}, 3: {'mean_final_E': 2.4, 'sd': 0.6633249580710799, 'n': 20}}, 'strict_no_reset': {1: {'mean_final_E': 11.15, 'sd': 6.8794985282359065, 'n': 20}, 2: {'mean_final_E': 17.35, 'sd': 7.288861365124185, 'n': 20}, 3: {'mean_final_E': 19.35, 'sd': 6.482862022286144, 'n': 20}}}
+R3 {'runs': 10, 'runs_with_uphill_I_swap': 0, 'total_uphill': 0, 'total_swaps': 7238}
+R4 {'identical_traces_run1_run2': False, 'identical_traces_run1_run3': False, 'trace_lengths': [416, 416, 416]}
+1 {'final_mean': 0.4825, 'final_sem': 0.013529802495068266, 'peak_mean': 0.67, 'runs': 15, 'runs_fully_sorted': 15, 'null_expectation': 0.4875}
+2 {'final_mean': 0.4583333333333333, 'final_sem': 0.01656915921334082, 'peak_mean': 0.6766666666666666, 'runs': 15, 'runs_fully_sorted': 15, 'null_expectation': 0.4875}
+10 {'final_mean': 0.6758333333333333, 'final_sem': 0.012718461355811056, 'peak_mean': 0.6966666666666667, 'runs': 15, 'runs_fully_sorted': 15, 'null_expectation': 0.4875}
+All checks completed.

@@ -1,0 +1,166 @@
+{
+  "3": {
+    "micro_swap": {
+      "determinism": 0.9355245321275764,
+      "degeneracy": 0.24209812851030565,
+      "cp_eff": 0.6934264036172707,
+      "EI_bits": 1.7924812503605778
+    },
+    "macro_I_swap": {
+      "determinism": 1.0,
+      "degeneracy": 0.25,
+      "cp_eff": 0.75,
+      "EI_bits": 1.5
+    },
+    "macro_E_swap": {
+      "determinism": 0.7896900821428475,
+      "degeneracy": 0.36907024642854247,
+      "cp_eff": 0.42061983571430506,
+      "EI_bits": 0.6666666666666667
+    },
+    "meso_swap": {
+      "determinism": 0.9138646883853214,
+      "degeneracy": 0.3234284050769125,
+      "cp_eff": 0.5904362833084089,
+      "EI_bits": 1.3709505944546687
+    },
+    "micro_raw": {
+      "determinism": 0.6399069297160624,
+      "degeneracy": 0.06662175884230148,
+      "cp_eff": 0.573285170873761,
+      "EI_bits": 1.4819206689281925
+    },
+    "macro_I_raw": {
+      "determinism": 0.6352130207431887,
+      "degeneracy": 0.07607259280006717,
+      "cp_eff": 0.5591404279431216,
+      "EI_bits": 1.1182808558862432
+    },
+    "delta_cp_swap": 0.056573596382729296,
+    "delta_cp_raw_like_for_like": -0.014144742930639387,
+    "zero_incoming_states_swap": 1
+  },
+  "4": {
+    "micro_swap": {
+      "determinism": 0.8856319026714895,
+      "degeneracy": 0.08110582967510649,
+      "cp_eff": 0.804526072996383,
+      "EI_bits": 3.6887218755408675
+    },
+    "macro_I_swap": {
+      "determinism": 1.0,
+      "degeneracy": 0.10177348203086345,
+      "cp_eff": 0.8982265179691366,
+      "EI_bits": 2.5216406363433186
+    },
+    "macro_E_swap": {
+      "determinism": 0.7149097090753789,
+      "degeneracy": 0.20898802951786177,
+      "cp_eff": 0.5059216795575171,
+      "EI_bits": 1.011843359115034
+    },
+    "meso_swap": {
+      "determinism": 0.9240575898523972,
+      "degeneracy": 0.1281742454491689,
+      "cp_eff": 0.7958833444032283,
+      "EI_bits": 2.6438672420259985
+    },
+    "micro_raw": {
+      "determinism": 0.7272808029181738,
+      "degeneracy": 0.028552328116716486,
+      "cp_eff": 0.6987284748014573,
+      "EI_bits": 3.2036438551507693
+    },
+    "macro_I_raw": {
+      "determinism": 0.7072195366804165,
+      "degeneracy": 0.03842502230159095,
+      "cp_eff": 0.6687945143788255,
+      "EI_bits": 1.877543571786521
+    },
+    "delta_cp_swap": 0.09370044497275354,
+    "delta_cp_raw_like_for_like": -0.029933960422631745,
+    "zero_incoming_states_swap": 1
+  },
+  "5": {
+    "micro_swap": {
+      "determinism": 0.8682366260342649,
+      "degeneracy": 0.03537906626589393,
+      "cp_eff": 0.832857559768371,
+      "EI_bits": 5.752456047045621
+    },
+    "macro_I_swap": {
+      "determinism": 1.0,
+      "degeneracy": 0.052557241148706524,
+      "cp_eff": 0.9474427588512935,
+      "EI_bits": 3.2776134368191165
+    },
+    "macro_E_swap": {
+      "determinism": 0.7082875741717705,
+      "degeneracy": 0.15102931391670016,
+      "cp_eff": 0.5572582602550703,
+      "EI_bits": 1.293913610594301
+    },
+    "meso_swap": {
+      "determinism": 0.9368978069221168,
+      "degeneracy": 0.07168669806627714,
+      "cp_eff": 0.8652111088558396,
+      "EI_bits": 3.5365182572852465
+    },
+    "micro_raw": {
+      "determinism": 0.7829814916596836,
+      "degeneracy": 0.014035025588724825,
+      "cp_eff": 0.7689464660709587,
+      "EI_bits": 5.31102911503191
+    },
+    "macro_I_raw": {
+      "determinism": 0.7497891134521919,
+      "degeneracy": 0.022623015253284806,
+      "cp_eff": 0.7271660981989071,
+      "EI_bits": 2.515581392110413
+    },
+    "delta_cp_swap": 0.11458519908292253,
+    "delta_cp_raw_like_for_like": -0.04178036787205164,
+    "zero_incoming_states_swap": 1
+  },
+  "6": {
+    "micro_swap": {
+      "determinism": 0.8687499289288876,
+      "degeneracy": 0.01918433249968665,
+      "cp_eff": 0.8495655964292009,
+      "EI_bits": 8.063951837001676
+    },
+    "macro_I_swap": {
+      "determinism": 1.0,
+      "degeneracy": 0.03125,
+      "cp_eff": 0.96875,
+      "EI_bits": 3.875
+    },
+    "macro_E_swap": {
+      "determinism": 0.7209031580513655,
+      "degeneracy": 0.12376780018276712,
+      "cp_eff": 0.5971353578685984,
+      "EI_bits": 1.5435725079450346
+    },
+    "meso_swap": {
+      "determinism": 0.9422205187140774,
+      "degeneracy": 0.04491747057500228,
+      "cp_eff": 0.8973030481390751,
+      "EI_bits": 4.217718886681977
+    },
+    "micro_raw": {
+      "determinism": 0.8209986949695864,
+      "degeneracy": 0.007954387274786479,
+      "cp_eff": 0.8130443076948,
+      "EI_bits": 7.717297129446103
+    },
+    "macro_I_raw": {
+      "determinism": 0.7775730838472815,
+      "degeneracy": 0.014700429529665993,
+      "cp_eff": 0.7628726543176155,
+      "EI_bits": 3.051490617270462
+    },
+    "delta_cp_swap": 0.11918440357079907,
+    "delta_cp_raw_like_for_like": -0.05017165337718443,
+    "zero_incoming_states_swap": 1
+  }
+}

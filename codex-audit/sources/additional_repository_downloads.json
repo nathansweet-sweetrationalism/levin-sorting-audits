@@ -1,0 +1,272 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/bioelectric_morphogen_coupling/README.md",
+    "path": "external\\morpholib\\datasets\\bioelectric_morphogen_coupling\\README.md",
+    "status": 200,
+    "sha256": "cf1b50154482b0bf46449f1de6c381e8ce116bc686cfcba1d5c8b3d75348e8f3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/bioelectric_morphogen_coupling/bioelectric_morphogen_coupling_reference.json",
+    "path": "external\\morpholib\\datasets\\bioelectric_morphogen_coupling\\bioelectric_morphogen_coupling_reference.json",
+    "status": 200,
+    "sha256": "b118960086d59e02438613556a3f3c60058435689edc0448c3f4e6abdec7fe7a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/bioelectric_morphogen_coupling/paper_citations.bib",
+    "path": "external\\morpholib\\datasets\\bioelectric_morphogen_coupling\\paper_citations.bib",
+    "status": 200,
+    "sha256": "c446e775222f552c0edf0df27f8e7413b1ba68098018a3f3ed604b718bd7cbe7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/bioelectric_morphogen_coupling/planarian_ap_polarity_specimen.jpg",
+    "path": "external\\morpholib\\datasets\\bioelectric_morphogen_coupling\\planarian_ap_polarity_specimen.jpg",
+    "status": 200,
+    "sha256": "0dde9f5e83a87dd9bdc3627e19ebc891cb4f8e99cf632fe637bccf082abfb990"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/bioelectric_morphogen_coupling/scout_manifest.json",
+    "path": "external\\morpholib\\datasets\\bioelectric_morphogen_coupling\\scout_manifest.json",
+    "status": 200,
+    "sha256": "bc8a4a2c8e734e1dd555ef8630edf4c34c798ffd1588619a0289290cc42b8004"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/causal_emergence/README.md",
+    "path": "external\\morpholib\\datasets\\causal_emergence\\README.md",
+    "status": 200,
+    "sha256": "4e6976364f87234ddebb0db9e8d276c46526660ca6da768076bcb204c8331303"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/causal_emergence/causal_emergence_reference.json",
+    "path": "external\\morpholib\\datasets\\causal_emergence\\causal_emergence_reference.json",
+    "status": 200,
+    "sha256": "bd724684971266a51b474f3c9ce1a03d7759d6e828eb9d82c83b8581fd0994f6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/causal_emergence/einet_41_sampled_ce.json",
+    "path": "external\\morpholib\\datasets\\causal_emergence\\einet_41_sampled_ce.json",
+    "status": 200,
+    "sha256": "e00ea5c7fd6e0cc4de8fee3996f40de1c2178ad07288d4a6e462a712e8db197a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/causal_emergence/einet_84_real_networks.json",
+    "path": "external\\morpholib\\datasets\\causal_emergence\\einet_84_real_networks.json",
+    "status": 200,
+    "sha256": "1cd60188bd60a8a208de155bfccbc4696333585f469e9a5d977ee7b07182b0cd"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/causal_emergence/mus_musculus_cardiac_specimen.jpg",
+    "path": "external\\morpholib\\datasets\\causal_emergence\\mus_musculus_cardiac_specimen.jpg",
+    "status": 200,
+    "sha256": "f2738290d66e441895fc10af7d7e541424263249cda0c7a8194ff01b410fe385"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/causal_emergence/paper_citations.bib",
+    "path": "external\\morpholib\\datasets\\causal_emergence\\paper_citations.bib",
+    "status": 200,
+    "sha256": "3f9b81438f14577a83b484cf8464f92144aaee75527bcbd9e34dd07633b3862c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/causal_emergence/planarian_ap_polarity_specimen.jpg",
+    "path": "external\\morpholib\\datasets\\causal_emergence\\planarian_ap_polarity_specimen.jpg",
+    "status": 200,
+    "sha256": "0dde9f5e83a87dd9bdc3627e19ebc891cb4f8e99cf632fe637bccf082abfb990"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/causal_emergence/scout_manifest.json",
+    "path": "external\\morpholib\\datasets\\causal_emergence\\scout_manifest.json",
+    "status": 200,
+    "sha256": "1c3a5d7cea81f5d9fb2ca63a8d9db6d2faee868ff9b3ccbe01f29d8c88e75f5b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/planarian_hk_atpase_anterior/README.md",
+    "path": "external\\morpholib\\datasets\\planarian_hk_atpase_anterior\\README.md",
+    "status": 200,
+    "sha256": "b7d7b7cfdf39c8da1519c7e55df2b8085d47631e1c7dbcaf7bb781157b697dff"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/planarian_hk_atpase_anterior/paper_citations.bib",
+    "path": "external\\morpholib\\datasets\\planarian_hk_atpase_anterior\\paper_citations.bib",
+    "status": 200,
+    "sha256": "4978cdbc97ad314e55b71348a3fd0a831887eaf7bad4b10a76e834070964277f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/planarian_hk_atpase_anterior/planarian_hk_atpase_anterior_reference.json",
+    "path": "external\\morpholib\\datasets\\planarian_hk_atpase_anterior\\planarian_hk_atpase_anterior_reference.json",
+    "status": 200,
+    "sha256": "ad7dfa156bbb79fe0bd4f971adb4af30501c69b3c4c804add62c527373c39e3e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/planarian_hk_atpase_anterior/schmidtea_mediterranea_specimen.jpg",
+    "path": "external\\morpholib\\datasets\\planarian_hk_atpase_anterior\\schmidtea_mediterranea_specimen.jpg",
+    "status": 200,
+    "sha256": "0dde9f5e83a87dd9bdc3627e19ebc891cb4f8e99cf632fe637bccf082abfb990"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/planarian_hk_atpase_anterior/scout_manifest.json",
+    "path": "external\\morpholib\\datasets\\planarian_hk_atpase_anterior\\scout_manifest.json",
+    "status": 200,
+    "sha256": "9de72183ede698f04d87a137a1e4d3a235dbcac613bf9da6e5c553eef9d94294"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenobot_evolutionary_biobots/README.md",
+    "path": "external\\morpholib\\datasets\\xenobot_evolutionary_biobots\\README.md",
+    "status": 200,
+    "sha256": "d2bf3ddf248cb6ed097e920cc2792dbea05996c79323395e29c343e282d9d18d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenobot_evolutionary_biobots/paper_citations.bib",
+    "path": "external\\morpholib\\datasets\\xenobot_evolutionary_biobots\\paper_citations.bib",
+    "status": 200,
+    "sha256": "4f92785fb031ce11702e10ade9fe33c2212f58441456984003e3ff7ef37b3833"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenobot_evolutionary_biobots/scout_manifest.json",
+    "path": "external\\morpholib\\datasets\\xenobot_evolutionary_biobots\\scout_manifest.json",
+    "status": 200,
+    "sha256": "abbd461fb51acbc9ac8dd8bc9d21a485be1593f35e24019fbbea76b7b1ac7f67"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenobot_evolutionary_biobots/xenobot_evolutionary_biobots_reference.json",
+    "path": "external\\morpholib\\datasets\\xenobot_evolutionary_biobots\\xenobot_evolutionary_biobots_reference.json",
+    "status": 200,
+    "sha256": "256b3387af983583f2d201fd71289dd1b52b902aaecfe2546bd7dac0102b3d9e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenobot_evolutionary_biobots/xenopus_biobot_specimen.jpg",
+    "path": "external\\morpholib\\datasets\\xenobot_evolutionary_biobots\\xenopus_biobot_specimen.jpg",
+    "status": 200,
+    "sha256": "13e063704f07254fd35cc867e7368242cfe27201d452c753342213eaa194d71f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenopus_craniofacial_remap/README.md",
+    "path": "external\\morpholib\\datasets\\xenopus_craniofacial_remap\\README.md",
+    "status": 200,
+    "sha256": "b8345d4954cc0cd68bb671993390e8f56e4210145e98da9cae82cda61b1c1f35"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenopus_craniofacial_remap/paper_citations.bib",
+    "path": "external\\morpholib\\datasets\\xenopus_craniofacial_remap\\paper_citations.bib",
+    "status": 200,
+    "sha256": "f5f4d62c485aca759b843060b76d6af04855e9b073d28a071ecffbdb05e637f7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenopus_craniofacial_remap/scout_manifest.json",
+    "path": "external\\morpholib\\datasets\\xenopus_craniofacial_remap\\scout_manifest.json",
+    "status": 200,
+    "sha256": "96534373d259eb281c52914c7f7e9c723d458bc7d96b18ac70376cd93343c73a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenopus_craniofacial_remap/xenopus_craniofacial_remap_reference.json",
+    "path": "external\\morpholib\\datasets\\xenopus_craniofacial_remap\\xenopus_craniofacial_remap_reference.json",
+    "status": 200,
+    "sha256": "2656eaab51beb4caa6084febd4e8ab3e70f8de063be7d5a490386a866baec13a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/datasets/xenopus_craniofacial_remap/xenopus_craniofacial_specimen.jpg",
+    "path": "external\\morpholib\\datasets\\xenopus_craniofacial_remap\\xenopus_craniofacial_specimen.jpg",
+    "status": 200,
+    "sha256": "8832f70a57f3d1c4f998ef0b567cddafaf6a885d2c90522327ecbda95f5a68b3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/docs/CAUSAL_EMERGENCE_PRACTITIONERS_GUIDE.md",
+    "path": "external\\morpholib\\docs\\CAUSAL_EMERGENCE_PRACTITIONERS_GUIDE.md",
+    "status": 200,
+    "sha256": "6d3c3a4487c06caa97ade7fef350edd10489ed94aea8a91ae886684920ef835a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/docs/THOMPSON_BLIND_PREREGISTRATION.md",
+    "path": "external\\morpholib\\docs\\THOMPSON_BLIND_PREREGISTRATION.md",
+    "status": 200,
+    "sha256": "8308cbe94753c6a7eb7c85d8a5c22fd1e03bfa16c5a0939f3bf5f1a9c110f330"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/docs/THOMPSON_BLIND_TEST_RESULTS.md",
+    "path": "external\\morpholib\\docs\\THOMPSON_BLIND_TEST_RESULTS.md",
+    "status": 200,
+    "sha256": "64ad4213e3b82042529cbfb1e8c0e53e6f7d9d052ea431efc3feee3c7b7b9ca0"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/models/2021-Cervera%E2%80%93Levin%E2%80%93Mafe.py",
+    "path": "external\\morpholib\\models\\2021-Cervera\u2013Levin\u2013Mafe.py",
+    "status": 200,
+    "sha256": "55feb50470467961d6b737ebf618a530adc03724f8ec6fb7e2f3be865f0e43e0"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/blind_preregistration_nanopub.py",
+    "path": "external\\morpholib\\nanopubs\\blind_preregistration_nanopub.py",
+    "status": 200,
+    "sha256": "33fccc323d410f14130ab14fd8a1807da98bdfdbd63695d6447ed5e1d612ff27"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/blind_test_outcome_nanopub.py",
+    "path": "external\\morpholib\\nanopubs\\blind_test_outcome_nanopub.py",
+    "status": 200,
+    "sha256": "b562185147bdcacb3df5f4c64fd686fb80a7834aebb7be4d4f9d1652012b1efc"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/thompson_predictions/np_thompson_blind-preregistration-2026-10-22.trig",
+    "path": "external\\morpholib\\nanopubs\\thompson_predictions\\np_thompson_blind-preregistration-2026-10-22.trig",
+    "status": 200,
+    "sha256": "7aca891ebe8a9bbc5744eec30bf34c6e355043aa12fcd71dd175564baa2505a3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/thompson_predictions/np_thompson_blind-test-outcome-2026-10-22.trig",
+    "path": "external\\morpholib\\nanopubs\\thompson_predictions\\np_thompson_blind-test-outcome-2026-10-22.trig",
+    "status": 200,
+    "sha256": "89ebae33311aa416f3dd2c042b5a8bd877587e8f3d9d5421715ec3bc35c62c4b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/thompson_predictions/signed.np_thompson_blind-preregistration-2026-10-22.trig",
+    "path": "external\\morpholib\\nanopubs\\thompson_predictions\\signed.np_thompson_blind-preregistration-2026-10-22.trig",
+    "status": 200,
+    "sha256": "0c8e3dab238c5dad6df1cd0af0d296b1349d384e264ea16a77cdbf421f7d2912"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/thompson_predictions/signed.np_thompson_blind-test-outcome-2026-10-22.trig",
+    "path": "external\\morpholib\\nanopubs\\thompson_predictions\\signed.np_thompson_blind-test-outcome-2026-10-22.trig",
+    "status": 200,
+    "sha256": "65b003daaa3531630eb6210ea878f9f543b6ccff9fb78535cd801a11d84d4f00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/zebrafish_blind/np_zebrafish-blind-test-outcome-2026-10-26.trig",
+    "path": "external\\morpholib\\nanopubs\\zebrafish_blind\\np_zebrafish-blind-test-outcome-2026-10-26.trig",
+    "status": 200,
+    "sha256": "a2e82c526386d36c403e36ae9222ef9984439f8e95bd5485517a10bc7cc87fe8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/zebrafish_blind/published_manifest_prod.txt",
+    "path": "external\\morpholib\\nanopubs\\zebrafish_blind\\published_manifest_prod.txt",
+    "status": 200,
+    "sha256": "2b7796bb3f770ad7eb01ba06970661b7dc84616a52439c8fff906b7ad0c82899"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/zebrafish_blind/published_manifest_test.txt",
+    "path": "external\\morpholib\\nanopubs\\zebrafish_blind\\published_manifest_test.txt",
+    "status": 200,
+    "sha256": "4434377cd2001a52e19fe27385f823a68a8381cfb65de7a394ea9260603eccef"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/zebrafish_blind/signed.np_zebrafish-blind-test-outcome-2026-10-26.trig",
+    "path": "external\\morpholib\\nanopubs\\zebrafish_blind\\signed.np_zebrafish-blind-test-outcome-2026-10-26.trig",
+    "status": 200,
+    "sha256": "d3685f48a4a443028be172eb6c2d3b159b3f4c670bd6e1d5c7ef6b9d5f7e87b6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/nanopubs/zebrafish_blind_outcome_nanopub.py",
+    "path": "external\\morpholib\\nanopubs\\zebrafish_blind_outcome_nanopub.py",
+    "status": 200,
+    "sha256": "684c71b10f0e1b2451f8751888ad07764fb51e957e231b9be01e31a923646d91"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/thompson_blind_predictions_registered.json",
+    "path": "external\\morpholib\\thompson_blind_predictions_registered.json",
+    "status": 200,
+    "sha256": "2e41cb1aaf1b21035f7d4970178861ee0ad6698a5b31ba35d8f1b87bca03b38b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/thompson_blind_test_results.json",
+    "path": "external\\morpholib\\thompson_blind_test_results.json",
+    "status": 200,
+    "sha256": "04baf1995318b576d16a9a87c4c4246deba6dec927481fb4a45763935f74d887"
+  }
+]

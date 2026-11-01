@@ -1,0 +1,3 @@
+'MathOfBiology.Loop_083.voxel_actuation_invariance_and_cycle_symmetry' depends on axioms: [propext, Quot.sound]
+'MathOfBiology.Loop_083.ventral_ratchet_and_dorsal_inversion_collapse' depends on axioms: [propext, Quot.sound]
+'MathOfBiology.Loop_083.afpo_transferability_and_pacman_replication' does not depend on any axioms

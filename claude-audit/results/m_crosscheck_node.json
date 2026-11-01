@@ -1,0 +1,10 @@
+{
+  "M2_node": {
+    "pass": true,
+    "swaps_checked": 158323
+  },
+  "M6_node": {
+    "pass": true,
+    "range": "b,s in 1..7"
+  }
+}

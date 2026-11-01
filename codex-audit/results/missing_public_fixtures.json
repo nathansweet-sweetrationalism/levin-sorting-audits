@@ -1,0 +1,10 @@
+{
+  "snapshot": "35d30f4cfd5397ee1ed769f96494e018603e293d",
+  "tree_truncated": false,
+  "absent_paths": [
+    "datasets/bioelectric_morphogen_coupling/voronoi_ca_ip3_branching_reference.json",
+    "datasets/xenopus_craniofacial_remap/cartilage_mmp_zymography_reference.json",
+    "datasets/xenobot_evolutionary_biobots/lattice3d_stokes_capture_reference.json"
+  ],
+  "effect": "All three public self-tests fail before full model validation; no local reconstruction substituted."
+}

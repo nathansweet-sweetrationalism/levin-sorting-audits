@@ -1,0 +1,18 @@
+[
+  {
+    "file": "sources\\primary\\old_renderer.py",
+    "rows": 8,
+    "hypothesis_human_pct": 80.6,
+    "prose_human_pct": 41.1,
+    "technical_ai_pct_all_rows": 79.9,
+    "data_origin": "author estimates; arithmetic check cannot verify actual contribution shares"
+  },
+  {
+    "file": "external\\morpholib\\sorting-morphogenesis\\render_13yo_illustrations.py",
+    "rows": 8,
+    "hypothesis_human_pct": 87.5,
+    "prose_human_pct": 53.1,
+    "technical_ai_pct_all_rows": 67.9,
+    "data_origin": "author estimates; arithmetic check cannot verify actual contribution shares"
+  }
+]

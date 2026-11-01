@@ -1,0 +1,87 @@
+[
+  {
+    "artifact_code": "RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8",
+    "url": "https://np.knowledgepixels.com/RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8",
+    "status": "unavailable",
+    "error": "HTTP Error 404: ",
+    "cryptographic_trusty_hash_validated": false,
+    "signature_validated": false,
+    "interpretation": "Retrieval and syntactic RDF checks do not verify the standardized trusty hash or RSA signature, author identity, timestamp, blinding or scientific truth.",
+    "resolver_retry": {
+      "url": "https://w3id.org/np/RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8",
+      "status": 200,
+      "final_url": "https://registry.knowledgepixels.com/np/RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8",
+      "content_type": "application/trig",
+      "sha256": "4fa273698bc502b5ecbb1154589134f93530e54a26ef080af87fdbcb77f4dea4",
+      "contains_artifact_code": true
+    }
+  },
+  {
+    "artifact_code": "RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE",
+    "url": "https://np.knowledgepixels.com/RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE",
+    "status": "unavailable",
+    "error": "HTTP Error 404: ",
+    "cryptographic_trusty_hash_validated": false,
+    "signature_validated": false,
+    "interpretation": "Retrieval and syntactic RDF checks do not verify the standardized trusty hash or RSA signature, author identity, timestamp, blinding or scientific truth.",
+    "resolver_retry": {
+      "url": "https://w3id.org/np/RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE",
+      "status": 200,
+      "final_url": "https://registry.knowledgepixels.com/np/RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE",
+      "content_type": "application/trig",
+      "sha256": "dcc91fa9736b535dce9e71e44fe0a0263a0a9f7c0a78dbbcc160e5a0be8477a0",
+      "contains_artifact_code": true
+    }
+  },
+  {
+    "artifact_code": "RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk",
+    "url": "https://np.knowledgepixels.com/RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk",
+    "status": "unavailable",
+    "error": "HTTP Error 404: ",
+    "cryptographic_trusty_hash_validated": false,
+    "signature_validated": false,
+    "interpretation": "Retrieval and syntactic RDF checks do not verify the standardized trusty hash or RSA signature, author identity, timestamp, blinding or scientific truth.",
+    "resolver_retry": {
+      "url": "https://w3id.org/np/RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk",
+      "status": 200,
+      "final_url": "https://registry.knowledgepixels.com/np/RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk",
+      "content_type": "application/trig",
+      "sha256": "f89ff3a380c4bc1fa4d0153b761157d8db55b9c977ec9ea2222e617ffd68af5d",
+      "contains_artifact_code": true
+    }
+  },
+  {
+    "artifact_code": "RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw",
+    "url": "https://np.knowledgepixels.com/RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw",
+    "status": "unavailable",
+    "error": "HTTP Error 404: ",
+    "cryptographic_trusty_hash_validated": false,
+    "signature_validated": false,
+    "interpretation": "Retrieval and syntactic RDF checks do not verify the standardized trusty hash or RSA signature, author identity, timestamp, blinding or scientific truth.",
+    "resolver_retry": {
+      "url": "https://w3id.org/np/RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw",
+      "status": 200,
+      "final_url": "https://registry.knowledgepixels.com/np/RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw",
+      "content_type": "application/trig",
+      "sha256": "d010c01e362d383d266e115982b88daa542cbb287106975cedf381c81fc947b2",
+      "contains_artifact_code": true
+    }
+  },
+  {
+    "artifact_code": "RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI",
+    "url": "https://np.knowledgepixels.com/RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI",
+    "status": "unavailable",
+    "error": "HTTP Error 404: ",
+    "cryptographic_trusty_hash_validated": false,
+    "signature_validated": false,
+    "interpretation": "Retrieval and syntactic RDF checks do not verify the standardized trusty hash or RSA signature, author identity, timestamp, blinding or scientific truth.",
+    "resolver_retry": {
+      "url": "https://w3id.org/np/RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI",
+      "status": 200,
+      "final_url": "https://registry.knowledgepixels.com/np/RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI",
+      "content_type": "application/trig",
+      "sha256": "b5b2acc66661be4216a40346c45a2e74a57fb549bbd63274c5b711509379c1d0",
+      "contains_artifact_code": true
+    }
+  }
+]

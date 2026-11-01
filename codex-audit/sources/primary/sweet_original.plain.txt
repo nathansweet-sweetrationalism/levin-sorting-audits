@@ -1,0 +1,351 @@
+Original Text: Why Michael Levin’s Bubble Sort “Revelation” Is Misunderstood 1960s Algorithm Theory Meets God-of-the-Gaps Argument - Sweet Rationalism by Nathan Sweet · Transdisciplinary Research                  
+      
+ Skip to content Sweet Rationalism by Nathan Sweet · Transdisciplinary Research Recursive Corrigibility Framework, consciousness, agency, causation, complex systems, and reasoning under uncertainty. “It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.” — Carl Sagan 
+ 
+ Search 
+ 
+ Home Frameworks: Expand 
+ Ethos—Sweet Rationalism Ontology—Provisional Boundary Scale-Relative Realism Methodology—Recursive Corrigibility Framework Interoperability—Framework Bridge Articles About Me Contact Me Sweet Rationalism by Nathan Sweet · Transdisciplinary Research Recursive Corrigibility Framework, consciousness, agency, causation, complex systems, and reasoning under uncertainty. 
+ 
+ Toggle Menu 
+ 
+ 
+ 
+ 
+ AI  |  bioelectricity-morphogenesis  |  Biology 			 Original Text: Why Michael Levin’s Bubble Sort “Revelation” Is Misunderstood 1960s Algorithm Theory Meets God-of-the-Gaps Argument 
+ By Nathan Sweet 					 
+ February 6, 2026 October 25, 2026 					 
+Framework clarification and update:
+September–October 2026
+ 
+This article predates my later methodological
+clarifications and remains unchanged for intellectual
+provenance. My current
+ 
+Recursive Corrigibility Framework
+ 
+and
+ 
+Boundary- and Scale-Relative Realism
+ 
+clarify claim types, scope, evidential burdens,
+explanatory bridges, uncertainty, and localized
+correction.
+ 
+Thermodynamic Monism
+ 
+remains a provisional naturalistic countermodel,
+while my work on
+ 
+consciousness
+ ,
+ 
+Whiteheadian prehension
+ ,
+and
+ 
+Michael Levin
+ 
+distinguishes established findings from additional
+phenomenal or metaphysical claims. Local explanatory
+success, shared evidence, and
+ 
+unresolved gaps
+ 
+do not, by themselves, establish or refute those
+stronger claims.
+ 
+This article predates several later clarifications
+and extensions of my methodology and working ontology.
+I am leaving the original argument intact for
+intellectual provenance rather than silently
+rewriting the record. The later work makes my
+claim typing, scope limits, bridge requirements,
+uncertainty bookkeeping, and comparative standards
+more explicit. 
+My work on
+ 
+Thermodynamic Monism
+ 
+was developed as a naturalistic process-relational
+research programme and comparative countermodel,
+particularly in response to Platonic and
+anti-physicalist arguments claiming that biological
+organization, morphogenesis, cognition, or other
+phenomena required additional nonphysical explanatory
+machinery. Its purpose was to test how much of the
+relevant explanatory work could be recovered from
+causal continuity, thermodynamic constraint,
+historically accumulated organization, multiscale
+dynamics, and higher-level difference-making without
+assuming the richer metaphysical posit under dispute. 
+I did not take that comparative success to establish
+that thermodynamics explains everything, that
+thermodynamic variables are privileged at every
+scale, or that empirical success by itself settles
+the intrinsic nature of reality. The current
+formulation makes those limits more explicit.
+The commitments I continue to retain include
+one causally continuous process order rather than
+separate causal substances or realms; thermodynamic
+constraints on physical realization; dynamically
+maintained and historically conditioned organization;
+and the reality of higher-level explanatory variables
+when they earn predictive, counterfactual,
+interventionist, compressive, or transferable leverage.
+ One process does not mean one explanation. 
+The same clarification applies to my earlier use
+of  falsification-first  language.
+I did not use the rule “if it is not falsifiable,
+it is false.” My methodology already distinguished
+questions of semantic determinacy, evidential burden,
+theory-ladenness, auxiliary hypotheses,
+counterfactual testing, and Lakatosian
+research-programme appraisal. A sufficiently
+determinate empirical or causal claim should incur
+conditions under which it would lose support,
+but not every meaningful claim belongs before
+the same tribunal. Formal, semantic,
+phenomenological, historical, modal, normative,
+ontological, causal, and empirical claims can
+require different forms of warrant and criticism. 
+My current
+ 
+Recursive Corrigibility Framework
+ 
+formalizes that plural structure more explicitly.
+The shift from  falsification-first 
+to  corrigibility-first  is therefore
+primarily a clarification and expansion of jurisdiction:
+identify the claim type, determine what evidence or
+argument actually bears on it, locate the relevant
+bridge and dependencies, specify what could revise it,
+and localize failure to the part of the argument that
+actually failed rather than allowing one failure to
+automatically propagate through an entire framework. 
+My current working ontology is
+ 
+Provisional, Boundary- and Scale-Relative Realism
+ .
+It makes explicit a discipline already motivating
+much of the earlier work: boundaries, scales,
+identities, causal variables, and explanatory
+vocabularies must earn their relevance at the
+target under investigation. Local success does
+not automatically transport into universal,
+intrinsic, necessary, or exhaustive
+metaphysical conclusions. 
+An accessible statement of that position appears in
+ 
+ What Is Provisional, Boundary- and
+Scale-Relative Realism? 
+ .
+Explanatory gaps are treated as records of missing
+warrant rather than automatic evidence for whatever
+ontology might fill them. Evidence also does not
+transport across boundaries, scales, or constructs
+merely because the same vocabulary can be used
+in both places. 
+My earlier consciousness work should be read with
+the same distinction in mind. My proposed bridge
+between organized physical dynamics and phenomenality
+was already presented as a risky empirical wager
+with explicit conditions for failure, not as a
+settled conclusion about phenomenal identity.
+Phenomenal identity remained unresolved. What later
+work makes more explicit is the dependency structure.
+Evidence for organizational closure, recursive
+integration, bounded perspective, temporal continuity,
+report, discrimination, self-modeling, valuation,
+or agency can bear strongly on those particular
+capacities without automatically settling whether
+any of them is identical with phenomenal experience.
+Evidence earned by one construct should not
+silently migrate into another. 
+I therefore now decompose the traditional Hard
+Problem more explicitly into distinct questions
+about phenomenal occurrence, phenomenal character,
+candidate subject boundaries, physical organization,
+report and judgment, the meta-problem, modal arguments,
+bridge principles, and explanatory completion.
+This preserves unresolved phenomenality without
+allowing the unresolved remainder itself to perform
+explanatory or metaphysical work that has not
+independently been earned. The Hard Problem dissolves
+as a distinct unitary problem if, once those
+constituent questions are separated, no additional
+positive explanandum remains and no necessary
+explanatory relation is lost by the decomposition. 
+The most current statement of that analysis is
+ 
+ David Chalmers’s “Hard Problem of Consciousness”
+Has a Hard Problem of the Gaps: How His Own
+Methodology Dissolves Both 
+ .
+The newer argument asks whether the canonical
+Hard Problem retains any additional positive
+explanandum after its constituent questions are
+separated. If no positive residual can be identified,
+and no necessary explanatory relation is destroyed
+by the decomposition, then the monolithic Hard
+Problem dissolves as a distinct unitary explanandum
+while the constituent questions remain live
+wherever the evidence leaves them unresolved. 
+My later comparison with Matthew David Segall
+and Whiteheadian panexperientialism applies the
+same rule in another direction. In
+ 
+ Where the Necessity Case for Mathew Segall
+& Whitehead’s Prehension Fails 
+ ,
+I ask which explanatory targets actually require
+subjective prehension rather than merely remaining
+compatible with it. Mechanistic, dispositional,
+process, organizational, constraint-based, and
+intervention-sensitive accounts recover substantial
+causal explanatory work without subjective prehension
+as a premise. That undercuts a necessity claim at
+those targets without establishing that universal
+prehension is false. Its wider application still
+requires independent comparative and transport warrant. 
+My October work on Michael Levin extends a distinction
+that was already central to my earlier criticism of
+biological Platonism: strong empirical results do not
+automatically transfer their evidential authority
+to every metaphysical interpretation placed around
+them. In
+ 
+ Religion With A Pipette: Is Michael Levin’s
+“Ingressing Minds” Pseudoscience?
+A Scholarly Analysis 
+ ,
+I separate the experimental evidence for
+bioelectricity, morphogenesis, biological competency,
+synthetic organisms, and multiscale control from
+the additional claim that such systems access
+nonphysical minds or Platonic structures. 
+The newer formulation makes the credit-assignment
+rule especially explicit: evidence shared by
+multiple rival explanations supports the shared
+empirical structure first. An additional metaphysical
+posit earns additional credit only when the feature
+it uniquely adds improves prediction, intervention,
+explanation, compression, transfer, or some other
+claim-appropriate discriminator relative to
+serious alternatives. 
+I have consolidated the larger Levin research
+programme in
+ 
+ Biologist Michael Levin Criticism:
+Science or Pseudoscience? 
+ .
+The index separates the evidential status of Levin's
+experimental bioelectricity and morphogenesis work
+from the distinct questions raised by TAME,
+basal-cognition language, consciousness attribution,
+Platonic ingress, and stronger metaphysical or
+theological interpretations. It also collects later
+corrections, qualifications, primary sources,
+peer-reviewed literature, and comparative alternatives. 
+A fuller account of the development of Thermodynamic
+Monism, what I continue to retain, what I now state
+more narrowly, and which specific earlier formulations
+I would revise appears in
+ 
+ What Is Thermodynamic Monism? Auditing My Own
+Framework—September 2026 Revisions and
+Clarifications 
+ . Important Note:  This is the original, unrevised text, preserved as a historical record. It contains errors and overstatements I corrected in revisions dated October 13, 2026. Those corrections grew out of my late September and early October audit of my earlier articles and frameworks. I applied the same scrutiny to my explanations that I demanded of others: distinguishing physical constraints from demonstrated mechanisms, checking whether references actually explained the target, and withdrawing conclusions that exceeded their evidence. That broader reassessment is documented in  What Is Thermodynamic Monism? Auditing My Own Framework , published  September 29, 2026 , and  What Is Provisional, Boundary- and Scale-Relative Realism? , published  October 1, 2026 . Thermodynamic Monism retained a role as a research programme and comparative countermodel; thermodynamic constraints alone could not establish a complete explanation or final ontology. Specifically, I: Withdrew my explanation of algotype clustering through duplicate-key sort stability. These are different phenomena. Acknowledged that the modified sorting architecture and its particular clustering results can constitute research findings; familiar principles of emergence do not derive those results. Corrected claims that compiler effects, hardware constraints, or thermodynamics already explained the measured clustering. Corrected my Landauer accounting: the bound concerns logically irreversible information erasure under specified conditions, not every comparison or swap. Acknowledged that Levin defines clustering, accepts its traceability through the implemented rules, and offers conditions for abandoning his later research programme. Revised quotations, references, personal accusations, and claims of established prior explanation; clarified that Levin rejects intelligent design and that its advocates’ endorsement does not refute his position. My remaining criticism concerns the evidence for an independent Platonic causal contribution. Correcting my explanation does not establish that contribution, just as questioning it does not explain the clustering. The text below should therefore be read as an archival version, not my current position. Bubble Sort Doesn’t Prove God: The Discovery Institute Has Been Making Levin’s Argument for Thirty Years, and They Recognized It Before He Did Or: What Happens When Biologists Discover That Algorithms Do What Algorithms Do “The first principle is that you must not fool yourself and you are the easiest person to fool.”― Richard P. Feynman Christopher Hitchens would have eviscerated this bubble sort argument in three sentences, but I’ll need more space because the intellectual fraud here is layered like a particularly dishonest onion. Michael Levin, whose legitimate work on bioelectricity deserves respect, has apparently decided that bubble sort (a sorting algorithm taught to computer science undergraduates in week two) contains mysterious hidden behaviors that “no one has noticed in 60 years” because everyone has been foolishly assuming that deterministic algorithms only do what their steps prescribe. This is a category error wrapped in breathless mysticism and sold as profundity, and the “beyond the algorithm” argument is rehashed intelligent design argument that fails to acknowledge the environment the algorithm is running on (hardware, compilers, environmental perturbations, etc.). What Levin Claims to Have Found Watch carefully as Levin performs the intellectual sleight of hand. He claims bubble sort is doing “other things” that are “not directly related to what you’ve asked them to do,” behaviors that “any behavioral scientist would recognize as within their domain if you didn’t tell them that this came from a deterministic algorithm.” He calls this phenomenon “clustering” and suggests it’s evidence of “free compute” and “intrinsic motivation” operating “between the lines” of the algorithm. And then he refuses to explain what “clustering” actually means. This is the god-of-gaps argument in its purest, most naked form: “I don’t understand how this works, therefore something mysterious and profound must be happening.” The gaps in Levin’s understanding of computer science are now being populated with the same Platonic forms he invokes to explain xenobots, consciousness, and apparently every other phenomenon he encounters. I guess it’s trivial to claim everything is doing something extra when you rename not knowing how it works a new ontology. What’s Actually Happening: Bubble Sort Stability Computer scientists have a term for what Levin thinks he’s discovered. It’s called algorithm stability, and it’s been documented in literally every undergraduate algorithms textbook since the 1960s. A stable sorting algorithm preserves the relative order of elements with equal keys. When you sort [5, 3, 5, 1] and the two 5s end up adjacent to each other in their original relative order, that’s not mysterious “clustering” operating “between the lines.” That’s bubble sort doing exactly what bubble sort does, mechanically and deterministically, because the algorithm only swaps elements when the comparison operator returns true. Donald Knuth’s The Art of Computer Programming (1973) devotes an entire section to stability. Thomas Cormen’s Introduction to Algorithms (1990) explains it in chapter 2. This is not hidden knowledge. This is not a discovery. This is undergraduate computer science. When equal elements remain in their original relative positions, they form “clusters” because the algorithm never had any reason to separate them. This is not agency. This is not intrinsic motivation. This is what happens when a comparison-based sorting algorithm encounters elements for which the comparison function returns false. When you grant each element in a sorting array autonomous local decision-making capacity, you have not studied a sorting algorithm. You have built an agent-based model and then expressed surprise at what agent-based models do. This is rather like announcing that you have discovered fire, neglecting to mention that you are standing in a room full of fireplaces, and declining to explain why the fireplaces are irrelevant to your discovery. Thomas Schelling, an economist, not a biologist, and therefore perhaps less susceptible to the temptations of Platonic mysticism, demonstrated in 1969, working initially with his son’s coin collection on a checkerboard, that agents following simple local preference rules will cluster into segregated groups as a structural inevitability of the rules themselves. He published the formal results in the American Economic Review in 1969 and the Journal of Mathematical Sociology in 1971. He did not conclude that the coins possessed intrinsic motivation. He did not suggest that the checkerboard was exhibiting free compute. He observed that local rules produce global clustering, wrote it up, and moved on. The model demonstrated that large-scale segregation patterns emerge even when no individual agent desires segregation and even when the threshold for similarity preference is quite modest. The field that grew from this work, with its roots in von Neumann’s cellular automata from the early 1950s and the first formal simulation frameworks arriving by the mid-1960s, spent the subsequent half-century formalizing exactly this observation: simple local rules produce complex emergent clustering, and the clustering is fully explained by the rules. No agency required. No Platonic forms required. No breathless announcement to the audience of a popular podcast required. Reynolds showed with the Boids model that patterns such as group formation and clustering can be extremely sensitive to initial conditions while remaining entirely determined by simple, deterministic rules operating on local information alone. Conway showed it with the Game of Life. Wolfram devoted an entire book to it. The Santa Fe Institute has been publishing papers about it since before some of its current fellows were born. The observation that agents following different local strategies self-organize into clusters is not a finding. It is a prerequisite. It is what agent-based systems are designed to demonstrate. Expressing amazement at this result is roughly equivalent to expressing amazement that water flows downhill, while simultaneously neglecting to mention that you have been reading extensively about gravity. What concerns the honest observer is not the error itself, which is the kind of error that happens when a scientist of genuine accomplishment ventures outside his domain of expertise without adequate preparation. What concerns the honest observer is that the error went unchallenged on two of the largest scientific and technology podcasts in the world, dressed in the vocabulary of discovery, and received as revelation. The appropriate question to ask — “when you converted the sorting algorithm into an agentic system, did you not change your lab results?” — is not a difficult question. It is the obvious question. The fact that it was not asked tells us something about the current epistemological standards of popular science communication that is considerably more troubling than anything bubble sort has ever done. The mystery, to adapt a phrase, is not in the algorithm. The mystery is in the willingness of intelligent interviewers to substitute wonder for inquiry. The Compiler Optimization Massacre But it gets worse. Much worse. Because Levin is making claims about what the algorithm “does” without apparently asking what hardware and compiler are executing his code. Modern compilers perform aggressive optimizations. When you write six lines of bubble sort in a high-level language, the compiler doesn’t execute your six lines. It generates machine code that may: Unroll loops for performance Reorder operations to exploit instruction-level parallelism Use SIMD instructions to compare multiple elements simultaneously Employ branch prediction and speculative execution Leverage cache hierarchies in ways that create temporal patterns None of this is “mysterious.” None of this is “between the lines.” All of it is documented in compiler design textbooks and processor architecture manuals. If Levin observed behaviors that seemed to deviate from his expectations, the first question any competent computer scientist asks is: “What optimizations is the compiler performing?” The second question is: “What are the hardware effects?” The third question is: “Did I understand what the algorithm actually does?” Levin appears to have skipped all three questions and jumped directly to: “This must be evidence of consciousness emerging in deterministic systems.” The Company You Keep: How the Discovery Institute Found Their Newest Unwitting Ally Let us examine, with the care it deserves, who has been paying the most enthusiastic attention to Levin’s Platonic morphospace argument. Not developmental biologists marshaling experimental refutations. Not philosophers of biology subjecting the claims to rigorous scrutiny. The Discovery Institute, the Seattle-based organization whose primary documented purpose is the promotion of intelligent design as an alternative to evolutionary biology, has published no fewer than six substantial articles in the past eighteen months celebrating Levin’s work as advancing their own research program. They have not been subtle about this. Their writers describe his Platonic space argument as evidence that “teleology advances,” that biology requires “immaterial agency,” and that Levin “only needs to take the last unavoidable step to recognize the designer behind the design.” They are, in short, completing his argument for him. To his credit, Levin has not welcomed this embrace. The Discovery Institute is careful to note, in the slightly desperate manner of someone trying to stop a runaway inference, that “Tufts University biologist Michael Levin is NOT a proponent of intelligent design.” The disclaimer appears with such regularity across their coverage that one begins to suspect they protest too much. You can disavow the company you keep. You cannot disavow the logical structure of your argument, and it is the argument they are interested in, not the man. The structural parallel is not subtle and does not require a philosophy degree to identify. Stephen Meyer, the philosopher of science who directs the Discovery Institute’s Center for Science and Culture and whose lecture on intelligent design has been viewed over a million times on YouTube, has spent thirty years arguing essentially the following: biological systems contain information and design patterns that cannot be generated by physical processes operating without guidance, therefore an external intelligent source must be responsible. His Signature in the Cell applies this to DNA. His Darwin’s Doubt applies it to the Cambrian explosion. The argument in both cases is: the physical substrate cannot generate this output from its own resources, so the output must originate elsewhere. Levin’s Platonic space argument has precisely the same logical skeleton. Biological forms exhibit patterns that exceed what genetics and environment can fully specify, therefore these patterns must originate in a non-physical realm of mathematical structures. The “elsewhere” is different — Platonic space rather than a personal God — but the inferential move is identical. You encounter something you cannot fully explain by physical mechanism. You postulate a non-physical source. You decline to specify how the non-physical source acts on the physical world. You call this a research program. William Dembski called his version specified complexity. Michael Behe called his irreducible complexity. Levin calls his a Platonic morphospace. The Federation of Terminological Innovation continues its work undisturbed. As the Discovery Institute’s own writers observe with evident satisfaction, Levin “has emphatically endorsed the concept that intelligence and consciousness are ingressed from an immaterial Platonic space and that there is no naturalistic explanation for this.” They recognize this as their argument because it is their argument. The bubble sort demonstration is not an isolated eccentricity; it is the same move in miniature. Observe behavior you cannot immediately explain. Attribute the explanation gap to something operating “between the lines,” “beyond the code,” beyond mechanism. Repeat at every scale from molecular networks to sorting algorithms. What distinguishes Levin from Behe and Meyer, and what explains why the Discovery Institute feels compelled to keep disclaiming him while simultaneously celebrating him, is that Levin’s empirical biology is genuinely important. The bioelectric work is real. The xenobot findings are real. The planarian two-headed morphology research is real and has specific, testable, falsifiable implications — some of which, as documented elsewhere in this article, are already falsified by the path-dependence data. The tragedy is that a scientist doing legitimate, frontier experimental biology has apparently decided that the legitimate work requires a Platonic superstructure to make sense of it, when thermodynamic constraint dynamics and organizational closure account for everything he has actually found without requiring a non-physical realm whose causal mechanism he cannot specify and whose existence he cannot test. Hitchens had a phrase for this kind of move: “the retreat into the marvelous.” When empirical investigation runs up against its current limits, the temptation is to fill the gap not with “I don’t know yet” but with something that transcends investigation altogether, and then to describe the transcendence as a discovery rather than a surrender. The bubble sort demonstration is the retreat into the marvelous at its most compressed: six lines of undergraduate computer science, one undisclosed observation about agent-based clustering, and a leap directly to consciousness emerging in silicon. What Levin’s most vocal admirers understand, and what he apparently does not, is that the Discovery Institute has been making this leap for thirty years, and the federal courts have already ruled on where it lands. The Thermodynamic Reality Levin Ignores Here’s what actually constrains and shapes algorithmic behavior, without requiring Platonic forms or mysterious agencies: Energy dissipation: Every swap operation in bubble sort dissipates energy as heat (Landauer’s principle: kT ln 2 per bit erased). The thermodynamic cost of sorting is measurable, finite, and fully determined by the number of comparisons and swaps required. Hardware constraints: The algorithm executes on physical substrates with real constraints: transistor switching times, wire delays, power limits, thermal budgets. These constraints shape execution in ways that have nothing to do with the abstract algorithm and everything to do with semiconductor physics. Implementation details: The programming language, compiler optimization level, processor architecture, memory hierarchy, and operating system scheduler all affect observable behavior. None of these are “mysterious.” All are documented. Comparison function semantics: What counts as “equal” depends entirely on how the comparison function is defined. Change the comparison function, change the “clustering” behavior. This is not the algorithm discovering Platonic forms; this is the algorithm mechanically executing the comparison function you gave it. The “Degrees of Freedom” Fallacy Levin makes much of his “degrees of freedom” argument, comparing algorithms to steganography, where you can hide information in bits that don’t affect the primary image. This analogy is fatally flawed. In steganography, you deliberately exploit redundancy to encode information. The “hidden” information exists because you put it there intentionally. In Levin’s bubble sort example, there is no hidden information being encoded. There are only the mechanistic consequences of comparing and swapping operations. When Levin “allowed duplicate numbers in the sort” to “let off the pressure on the algorithm,” he didn’t create degrees of freedom for mysterious agencies to express themselves. He created ambiguity in the sort order for equal elements, which allowed the algorithm’s stability property (or lack thereof) to become observable. This is like noticing that when you remove constraints from a physical system, it explores more of its phase space, then concluding that the system must have “intrinsic motivation.” No. Systems explore their thermodynamically accessible states under whatever constraints apply. Remove constraints, get more accessible states. This is not profound. This is elementary statistical mechanics. The Commentariat Sees Through It The most damning evidence comes from the YouTube comments, where working computer scientists immediately identify the problem: MattBuske writes: “Actual Computer Scientist here, I have some concerns and I think Levin has made a fundamental conceptual error that invalidates his entire argument. What he’s actually discovered: Deterministic algorithms produce patterns that weren’t explicitly written as high-level goals. What he thinks he’s discovered: Evidence of something operating ‘in spite of’ or ‘between’ the algorithm. The error: He’s confusing ’emergent from the algorithm’s steps’ with ‘not explained by the algorithm.’ The clustering pattern IS the algorithm.” User golfkzn: “You take a 6 step algorithm to sort numbers, you look at the numbers during the sorting process, you notice patterns. From this you conclude something outside the algorithm is happening? That seems a massive stretch.” User Tordvergar: “A search on bubble sorts with duplicate data elements leading to clustering gives an explanation that for duplicate values, bubble sort leaves them in their original order, which can be referred to as a ‘cluster.’ Well DUH.” Even the audience knows this is nonsense. Levin has apparently walked into Computer Science 101, noticed that algorithms produce patterns when executed, and concluded he’s discovered evidence of consciousness emerging in silicon. The Platonic Bait-and-Switch Here’s the move Levin is really making, and it’s the same move he makes with xenobots: Observe a phenomenon you don’t fully understand Declare it mysterious and profound Suggest it provides evidence for Platonic forms or consciousness or agency When pressed for mechanism, gesture vaguely at “spaces between the algorithm” Never specify what would falsify your claim Repeat This is not science. This is mysticism with a Ph.D. The bubble sort “discovery” is particularly revealing because unlike biological systems (where complexity can hide mechanistic gaps), bubble sort is six lines of code executing on well-understood hardware. If Levin cannot accurately describe what’s happening in bubble sort without invoking mysterious agencies, why should we trust his metaphysical interpretations of vastly more complex biological phenomena? What This Actually Demonstrates The bubble sort episode demonstrates something genuinely important, but not what Levin thinks. It demonstrates that even brilliant researchers can fall victim to the god-of-gaps fallacy when they venture outside their domain expertise. Levin is not a computer scientist. He does not appear to understand compiler optimizations, algorithm stability, or hardware effects. When confronted with behaviors he didn’t expect, he populated his ignorance with the same Platonic mysticism that pervades his biological theorizing. This is exactly what Hitchens warned against: the tendency to see mystery and transcendence wherever understanding runs thin, rather than acknowledging “I don’t know yet, let me investigate further.” The Correct Explanation Here is what’s actually happening in Levin’s bubble sort experiments, stated precisely and falsifiably: Bubble sort stability: When the comparison function returns false for equal elements, they maintain their relative order. This creates “clusters” of equal elements that preserve their original arrangement. This is documented, understood, and predictable. Compiler effects: High-level code is transformed by the compiler into machine code that may exhibit behaviors not obvious from reading the source. These are fully deterministic and arise from well-understood optimization techniques. Hardware effects: Modern processors reorder instructions, predict branches, and exploit parallelism in ways that create observable patterns. All of this is documented in processor manuals. Thermodynamic constraints: Every operation dissipates energy and respects Landauer’s bound. The algorithm explores only thermodynamically accessible states. No mystery required: Every behavior Levin observes flows deterministically from the algorithm, compiler, and hardware. Nothing operates “between the lines.” Nothing violates deterministic constraints. Nothing requires Platonic forms. The Bottom Line: Mysticism Is Not Discovery Michael Levin has mistaken his own ignorance of computer science for evidence of transcendent consciousness permeating deterministic systems. He has taken algorithm stability (a well-documented property of sorting algorithms), compiler optimizations (standard practice since the 1960s), and hardware effects (thoroughly analyzed in computer architecture literature), declared them mysterious, and populated the gaps with Platonic mysticism. This is not how science works. This is how religion works. Christopher Hitchens would have asked Levin one simple question: “What observation would prove you wrong?” And when Levin gestured vaguely at “spaces between the algorithm” and “intrinsic motivation” without specifying falsification criteria, Hitchens would have recognized this for what it is: unfalsifiable metaphysics masquerading as empirical discovery. Bubble sort doesn’t prove we don’t understand machines. It proves we need to understand machines before claiming they’re doing something mysterious. And when a biologist wanders into computer science and mistakes algorithm stability for consciousness, the appropriate response isn’t wonder at the profundity. It’s a firm but polite suggestion to read the textbook before declaring a revolution. The mystery isn’t in the algorithm. The mystery is why anyone takes this seriously. References and Prior Art The behaviors attributed to “hidden” or “extra-algorithmic” activity in bubble sort are not novel, mysterious, or poorly understood. They are explicitly documented properties of sorting algorithms, compiler optimizations, and physical computation, with a literature spanning more than six decades. The following references provide authoritative grounding. Sorting Algorithms and Stability Bubble sort is a canonical comparison-based sorting algorithm whose properties, including stability, time complexity, and behavior under duplicate keys, have been formally analyzed since the mid-20th century. Schelling, T.C. (1969). Models of segregation. American Economic Review, 59(2), 488-493. Schelling, T.C. (1971). Dynamic models of segregation. Journal of Mathematical Sociology, 1(2), 143-186.  https://doi.org/10.1080/0022250X.1971.9989794 Gardner, M. (1970). Mathematical games: The fantastic combinations of John Conway’s new solitaire game “life.” Scientific American, 223(4), 120-123. Wolfram, S. (2002). A New Kind of Science. Wolfram Media. Zutshi, A., & Goswami, S. (2021). A systematic review of sorting algorithms. Journal of Information Engineering and Applications. DOI:  https://doi.org/10.1016/j.jjimei.2021.100042 This review situates bubble sort as a quadratic-time, stable sorting algorithm and summarizes its known mechanical behaviors in the presence of equal keys. Ganapathi, A., & Chowdhury, R. A. (2022). Parallel divide-and-conquer algorithms for bubble sort, selection sort and insertion sort. The Computer Journal. DOI:  https://doi.org/10.1093/comjnl/bxab107 A modern peer-reviewed treatment of bubble sort that reinforces its deterministic nature and well-understood behavior. Shabaz, M. (2019). SA Sorting: A novel sorting technique. Journal of Engineering. DOI:  https://doi.org/10.1155/2019/3027578 Includes explicit discussion of bubble sort’s stability and its predictable “clustering” of equal elements due to comparison semantics. Knuth, D. E. The Art of Computer Programming, Vol. 3: Sorting and Searching (1973). Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. Introduction to Algorithms (1990). Compiler Optimization and Program Behavior Claims about algorithms exhibiting unexpected or “between-the-lines” behavior ignore the extensive literature on compiler transformations and hardware-level execution effects, which explain such observations without invoking metaphysics. Brown, M. et al. (2020). Not So Fast: Understanding and Mitigating Negative Impacts of Compiler Optimizations on Code Reuse Gadget Sets. arXiv:  https://arxiv.org/abs/2005.08363 Demonstrates how compiler optimizations materially alter observable program behavior while preserving semantics. Flückiger, M. et al. (2017). Correctness of speculative optimizations with dynamic deoptimization. arXiv:  https://arxiv.org/abs/1711.03050 A formal treatment of how speculative execution and optimization reorderings arise from deterministic compilation strategies. Georgiou, K. et al. (2018). Less is more: Exploiting standard compiler optimization levels for better performance and energy consumption. arXiv:  https://arxiv.org/abs/1802.09845 Shows that performance patterns emerge from optimization levels alone, without any algorithmic novelty. Wang, X. et al. (2011). Undefined behavior and compiler optimizations. https://people.csail.mit.edu/nickolai/papers/wang-stack.pdf A seminal systems paper explaining how compilers exploit undefined behavior, often producing execution patterns that surprise non-specialists. Thermodynamics of Computation All computation occurs on physical substrates and is subject to thermodynamic limits. Observed algorithmic behavior cannot escape these constraints. Landauer, R. (1961). Irreversibility and heat generation in the computing process. IBM Journal of Research and Development. DOI:  https://doi.org/10.1147/rd.53.0183 Establishes the minimum energetic cost of information erasure, bounding all computational processes. Taken together, this literature shows: Bubble sort’s “clustering” behavior is a direct consequence of algorithm stability, documented since the 1960s. Compiler optimizations and hardware execution effects are deterministic, measurable, and extensively studied. No unexplained degrees of freedom, intrinsic motivation, or Platonic structures are required to account for the observed phenomena. What is being presented as discovery is, in fact, prior art. 
+ 
+ Nathan Sweet Nathan Sweet is an independent researcher working at the intersection of biology, computation, physics, and epistemology. 
+ 
+ Facebook 
+ 					 
+ 
+ X 
+ 					 
+ 
+ YouTube 
+ 					 Post navigation Previous 
+ Previous Why Michael Levin’s Bubble Sort “Revelation” Is Misunderstood Classical Algorithm Theory Meets a God-of-the-Gaps Argument Next Continue 
+ The Paper I Predicted: “Mind Everywhere” by Michael Levin & David B. Resnik Similar Posts 
+ 
+ 
+ 
+ 
+ bioelectricity-morphogenesis  |  Biology  |  Metaphysics  |  Ontology  |  Theology 			 Religion With A Pipette: Is Michael Levin’s ‘Ingressing Minds’ Pseudoscience? A Scholarly Analysis 
+ By Nathan Sweet 					 
+ October 3, 2026 October 7, 2026 					 How Good Science Gets Appropriated By Potentially Harmful Metaphysics Without Warrant Michael Levin’s worms, bioelectricity, and synthetic organisms are excellent science. The danger begins when their empirical authority is allowed to travel across unsupported bridges into nonphysical ingress, minds, and other claims the experiments did not establish, especially once those claims begin shaping research, public… 
+ 
+Read More  Religion With A Pipette: Is Michael Levin’s ‘Ingressing Minds’ Pseudoscience? A Scholarly Analysis Continue 
+ 			 
+ 
+ 
+ 
+ 
+ AI  |  Computer Science  |  Critical Thinking  |  Epistemology  |  Metaphysics  |  Ontology  |  Philosophy 			 Synthbiosis: Deductive Proof That The Machine Did Not Need to Feel to Matter 
+ By Nathan Sweet 					 
+ September 16, 2026 October 16, 2026 					 How deductive proofs against Panexperientialism establish machine moral relevance and direct standing without first settling machine consciousness. Substack Repost Notice: This is an archival copy of my substack post. Some formatting may not display correctly on our website. See the original post here: https://sweetlyrational.substack.com/p/synthbiosis-the-machine-did-not-need Do not add what the evidence did not earn. Do not… 
+ 
+Read More  Synthbiosis: Deductive Proof That The Machine Did Not Need to Feel to Matter Continue 
+ 			 
+ 
+ 
+ 
+ 
+ bioelectricity-morphogenesis  |  Biology  |  Consciousness  |  Falsification  |  Metaphysics  |  Ontology  |  Philosophy  |  Theology 			 Biologist Michael Levin Evidence and Scholarly Criticism Index 
+ By Nathan Sweet 					 
+ October 6, 2026 October 16, 2026 					 Evidence and critiques of Michael Levin’s lab at Tufts University, bioelectricity, TAME, consciousness claims, and Biological Platonism, plus his connections to Softmax, Astonishing Labs, and research funding. 
+ 
+Read More  Biologist Michael Levin Evidence and Scholarly Criticism Index Continue 
+ 			 
+ 
+ 
+ 
+ 
+ bioelectricity-morphogenesis  |  Consciousness  |  Critical Thinking  |  Epistemology  |  Metaphysics  |  Ontology 			 Matthew Segall’s Words Made Flesh Again, but the Evidence Never Said That? 
+ By Nathan Sweet 					 
+ September 14, 2026 October 7, 2026 					 How good science gets made to lend its prestige, without its consent, to a specific metaphysical conclusion it never established and doesn’t support uniquely. Substack Repost Notice: This is an archival copy of my substack post. Some formatting may not display correctly on our website. See the original post here: https://sweetlyrational.substack.com/p/matthew-segalls-words-made-flesh This article addresses a… 
+ 
+Read More  Matthew Segall’s Words Made Flesh Again, but the Evidence Never Said That? Continue 
+ 			 
+ 
+ 
+ 
+ 
+ bioelectricity-morphogenesis  |  Biology  |  Epistemology  |  Falsification  |  Metaphysics  |  Philosophy  |  Physics  |  Theology  |  Thermodynamics 			 The Paper I Predicted: “Mind Everywhere” by Michael Levin & David B. Resnik 
+ By Nathan Sweet 					 
+ February 26, 2026 October 6, 2026 					 How Levin and Resnik’s “Mind Everywhere” Paper Confirmed Every Predicted Critique I Raised to its Authors Two Months Before Publication On February 25, 2026, Michael Levin and David B. Resnik published “Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains” as a two-part article in Biological Theory. (Links: Part One | Part… 
+ 
+Read More  The Paper I Predicted: “Mind Everywhere” by Michael Levin & David B. Resnik Continue 
+ 			 
+ 
+ 
+ 
+ 
+ bioelectricity-morphogenesis  |  Biology  |  Consciousness  |  Epistemology  |  Falsification  |  Metaphysics  |  Philosophy 			 When Matthew Segall’s “No Scientific Evidence For Consciousness” Becomes an Unintentional Shield 
+ By Nathan Sweet 					 
+ October 14, 2026 October 17, 2026 					 Nathan Sweet | January 14, 2026 | Revised October 14, 2026 (See Revision Notes Below) This article attempts to do three things. First, it agrees with what Segall gets right about evidence and theory-ladenness, because that part matters. Second, it isolates where the argument moves from limits on measurement to stronger claims about what reality… 
+ 
+Read More  When Matthew Segall’s “No Scientific Evidence For Consciousness” Becomes an Unintentional Shield Continue 
+ 			 Leave a Reply  Cancel reply You must be  logged in  to post a comment. Table of Contents Bubble Sort Doesn’t Prove God: The Discovery Institute Has Been Making Levin’s Argument for Thirty Years, and They Recognized It Before He DidOr: What Happens When Biologists Discover That Algorithms Do What Algorithms Do Recent Posts Matthew Segall on Whitehead: What Does Segall’s God Interpretation Actually Add? by Nathan Sweet October 25, 2026 What his argument still owes, and how my model challenges universal experience and divine valuation. When I asked Matt to quote my words and explain how my article committed the alleged errors... The Lion Eats. God Remembers. Who Answers for the Prey? by Nathan Sweet October 21, 2026 A response to Matthew Segall’s “God Is the Gap”: divine love, gratuitous suffering of innocents, the problem of evil, and what his evolving theology still owes its victims. Picture four scenes in... Evolving God Out Of The Gaps: Naturalizing Whitehead’s God by Nathan Sweet October 17, 2026 Matthew David Segall, Sam Senchal, Michael Levin, and Stephen Meyer offer different extraordinary cosmic answers. This article develops a naturalized rival: preserve the causal work, expose the necessity claims, and reject the... When Matthew Segall’s “No Scientific Evidence For Consciousness” Becomes an Unintentional Shield by Nathan Sweet October 14, 2026 Nathan Sweet | January 14, 2026 | Revised October 14, 2026 (See Revision Notes Below) This article attempts to do three things. First, it agrees with what Segall gets right about evidence... David Chalmers’s “Hard Problem of Consciousness” Has a Hard Problem of the Gaps: How His Own Methodology Dissolves Both by Nathan Sweet October 7, 2026 How a protected explanatory gap mirrors God-of-the-gaps reasoning, survives scientific success, and gets recruited by theology and rival metaphysics the gap cannot discriminate among The phenomenal datum survives. The monolithic problem-form may... Biologist Michael Levin Evidence and Scholarly Criticism Index by Nathan Sweet October 6, 2026 Evidence and critiques of Michael Levin’s lab at Tufts University, bioelectricity, TAME, consciousness claims, and Biological Platonism, plus his connections to Softmax, Astonishing Labs, and research funding. Religion With A Pipette: Is Michael Levin’s ‘Ingressing Minds’ Pseudoscience? A Scholarly Analysis by Nathan Sweet October 3, 2026 How Good Science Gets Appropriated By Potentially Harmful Metaphysics Without Warrant Michael Levin’s worms, bioelectricity, and synthetic organisms are excellent science. The danger begins when their empirical authority is allowed to travel... What Is Provisional, Boundary- and Scale-Relative Realism? by Nathan Sweet October 1, 2026 A Naturalized Realism of Form and Process: What Survives Thermodynamic Monism, Michael Levin’s Platonic Morphospace, and Whiteheadian Panexperientialism What it is, what it is not, why it replaced Thermodynamic Monism, and what... What Is Thermodynamic Monism? Auditing My Own Framework—September 2026 Revisions and Clarifications by Nathan Sweet September 29, 2026 From Ontological Countermodel to Corrigible Research Programme How my own methodology demoted Thermodynamic Monism from an umbrella ontology to a corrigible research programme without abandoning its one-process, non-dualist core. Thermodynamic Monism, plainly:... Where the Necessity Case for Mathew Segall & Whitehead’s Prehension Fails by Nathan Sweet September 25, 2026 Matthew David Segall’s challenge meets positive causal accounts at specified targets. The further claim that all actuality is prehensive still needs its own warrant. Substack Repost Notice: This is an archival copy... Logic Does Not Choose Relevance. Does Feeling? Not Alone. My Response to Matthew David Segall’s “Whitehead’s Adventure in Rationality” by Nathan Sweet September 22, 2026 Phenomenal powers, prehension, and a transport test for Whitehead’s universal wager Substack Repost Notice: This is an archival copy of my substack post. Some formatting may not display correctly on our website.... What Warrants the Scope Jump? by Nathan Sweet September 20, 2026 A reply to Matthew David Segall on continuity, comparative warrant, and universal prehension. Substack Repost Notice: This is an archival copy of my substack post. Some formatting may not display correctly on... Why Matthew David Segall Kept Answering Me Without Answering My Actual Argument by Nathan Sweet September 19, 2026 How a protective interpretive frame can turn compatibility into apparent confirmation, and why the bridge from shared causal reality to universal prehensive feeling still needs its own warrant. Substack Repost Notice: This... One Nature Does Not Entail One Feeling by Nathan Sweet September 16, 2026 What my framework implies for Matthew David Segall’s bifurcation argument Substack Repost Notice: This is an archival copy of my substack post. Some formatting may not display correctly on our website. See... Synthbiosis: Deductive Proof That The Machine Did Not Need to Feel to Matter by Nathan Sweet September 16, 2026 How deductive proofs against Panexperientialism establish machine moral relevance and direct standing without first settling machine consciousness. Substack Repost Notice: This is an archival copy of my substack post. Some formatting may... Matthew Segall’s Words Made Flesh Again, but the Evidence Never Said That? by Nathan Sweet September 14, 2026 How good science gets made to lend its prestige, without its consent, to a specific metaphysical conclusion it never established and doesn’t support uniquely. Substack Repost Notice: This is an archival copy... Matthew Segall Granted My Request for Erratum. The Straw Man Came Back Wearing a Presupposition. by Nathan Sweet September 14, 2026 A reductio of the post-erratum rebuttal: I subtract no evidenced experience. My D+?X retains the process-relational and experiential commitments the evidence already supports. Substack Repost Notice: This is an archival copy of... Can Anti-Theism Survive Its Own Outsider Test? by Nathan Sweet September 10, 2026 My Public Debate with Aron Ra about Naturalistic Explanation and the God Claims Biblical Debunking Leaves Open The Skeptic’s Mirror: necessary truths, social Gods, sophisticated theology, and what happens when Hitchens’ razor... Responding to Matthew Segall’s “Audit”: An Audit of the Audit of the Audits (LOL, ok, maybe this is getting a bit off the rails now🤣) by Nathan Sweet September 5, 2026 What I Said Matt Said, What Matt Says I Said Matt Said, What the Sources Say We Actually Said, and Whatever Survived the Context Shredder Substack Repost Notice: This is an archival... Process Philosopher Matt Segall Admitted Misrepresenting My Argument To His Readers. He Updated His Page, Not His Readers by Nathan Sweet September 4, 2026 Why his revised argument still burdens my agnosticism with a position he admitted I did not hold, while the page remains partly repaired and his readers remain uncorrected. Substack Repost Notice: This... I Asked The Process Philosopher Matt Segall to Correct the Public Record. He Started Another Debate With Me Instead. The Public Record Remains Uncorrected. by Nathan Sweet September 2, 2026 He acknowledged the misattribution, but the original article remains uncorrected, the dependent critique unrevised, and the questions I actually asked still unanswered. has already acknowledged the central attribution error in his response... Process Philosopher Matthew Segall Admitted He Attributed a Position to Me That I Did Not Hold. Why Is the Argument Still Standing? by Nathan Sweet September 1, 2026 Matt admits he collapsed my conditional argument and agnosticism into a position I never held. What remains of the critique built against it? Substack Repost Notice: This is an archival copy of... Matthew Segall’s ‘Experience Is Not a Predicate’: I Never Made the Argument He Rebutted. My Question Remains Unanswered. by Nathan Sweet August 30, 2026 The live disagreement is much narrower: whether causal actuality itself warrants a universal experiential or affective characterization, or whether primitive intrinsic character should remain open until something discriminates that interpretation from its... I Wanted Erik Svensson’s Argument for Physicalism to Be Stronger. So I Tried to Build One Myself. by Nathan Sweet August 27, 2026 What Erik Svensson, Massimo Pigliucci, and Matthew David Segall reveal about the evidence for physicalism, the residual case for panexperientialism, and what each would have to do to progress. Substack Repost Notice:... 💫 How Can Reality Tell Our Metaphysics “No”? What Does a Metaphysical Claim Have to Do to Earn Its Keep? 🤔 by Nathan Sweet August 27, 2026 Matthew David Segall, Karsten Jensen, and Jason Hoskins on science, philosophy, religion, consciousness, and what it takes for our ideas about reality to be wrong. Substack Repost Notice: This is an archival... Institutional Capture & Diverse Intelligence: How Unfalsifiable Metaphysics Allowed the Discovery Institute to Degenerate Levin’s Bioelectricity Research Program by Nathan Sweet March 11, 2026 The institutional architecture connecting Templeton funding to Discovery Institute exploitation has victims at every node, and they are the researchers who built it: Michael Levin, Jacob Foster, Denis Noble, David Resnik, Michael... David Chalmers’ Own Later Work Dissolves the Hard Problem of Consciousness He Named: The Falsifiable, Peer-Reviewed, Constraint-Based Alternative He Pointed Toward by Nathan Sweet March 5, 2026 A Shadow, a Beatles Song, and an Apple Walk into a Hard Problem: What Matt Segall, Anil Seth, Bernardo Kastrup, and a Neuroscientist Inadvertently Agree On Revised July 2026 Three conversations. One... The Paper I Predicted: “Mind Everywhere” by Michael Levin & David B. Resnik by Nathan Sweet February 26, 2026 How Levin and Resnik’s “Mind Everywhere” Paper Confirmed Every Predicted Critique I Raised to its Authors Two Months Before Publication On February 25, 2026, Michael Levin and David B. Resnik published “Mind... Why Michael Levin’s Bubble Sort “Revelation” Is Misunderstood Classical Algorithm Theory Meets a God-of-the-Gaps Argument by Nathan Sweet February 6, 2026 Bubble Sort Doesn’t Prove God: The Discovery Institute Recognizes an Opening in Levin’s Platonic Interpretation Original article: February 6, 2026 | Substantial corrections: October 13, 2026 | Additional analysis and material corrections:... Biologist Michael Levin’s “Response” to My Criticisms of Biological Platonism: Misrepresentation of My Arguments, Platonic Morphospace, and a Claim That Is Unfalsifiable As Stated by Nathan Sweet January 7, 2026 “I would rather have questions that can’t be answered than answers that can’t be questioned.” ― Richard Feynman What Does Michael Levin’s Platonic Space Explain If Every Outcome Fits? Suppose a regenerating flatworm... Home Frameworks: Ethos—Sweet Rationalism Ontology—Provisional Boundary Scale-Relative Realism Methodology—Recursive Corrigibility Framework Interoperability—Framework Bridge Articles About Me Contact Me © 2026 Sweet Rationalism by Nathan Sweet · Transdisciplinary Research Opinions and analysis published here are for scholarly commentary and public discussion, with excerpts used under fair use. 
+See:  Editorial Standards & Disclosures  |  Privacy & Data Use  |  AI Index       Scroll to top 
+ Scroll to top 
+ 
+       
+ 
+ 
+ 
+ Home Frameworks: Toggle child menu Expand 
+ Ethos—Sweet Rationalism Ontology—Provisional Boundary Scale-Relative Realism Methodology—Recursive Corrigibility Framework Interoperability—Framework Bridge Articles About Me Contact Me                                                         
+ 
+ Toggle Menu Close 
+ 				 
+ 
+ Search for: 
+ 
+ 
+ Search 
+   
+ 
+

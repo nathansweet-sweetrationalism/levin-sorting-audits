@@ -1,0 +1,3 @@
+# Byte-exact storage: no line-ending or encoding normalisation, so every file's SHA-256
+# in the manifests stays valid after clone on any platform.
+* -text

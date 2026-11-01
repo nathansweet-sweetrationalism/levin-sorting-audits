@@ -1,0 +1,16 @@
+{
+  "boundary": "Deterministic scheduler invokes unmodified source move() methods under their locks, with visualization disabled, one active group, no threads started. This tests the transition rules, not OS-thread timing.",
+  "movable_frozen_primary_example": {
+    "before": [
+      2,
+      1
+    ],
+    "frozen_target_swap_permitted": true,
+    "after": [
+      1,
+      2
+    ]
+  },
+  "searched_runs": 120,
+  "source_uphill_witness": null
+}

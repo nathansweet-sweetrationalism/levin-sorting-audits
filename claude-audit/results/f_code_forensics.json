@@ -1,0 +1,149 @@
+{
+ "head": "1fd2bd5921c1f6b423a71f691d5189106a8a1020",
+ "cell_file_last_commits": {
+  "BubbleSortCell.py": "4a01069 2023-08-26",
+  "InsertionSortCell.py": "4a01069 2023-08-26",
+  "SelectionSortCell.py": "4a01069 2023-08-26",
+  "MultiThreadCell.py": "4a01069 2023-08-26"
+ },
+ "F1": {
+  "swap_blocks_only_frozen_initiator": true,
+  "bubble_should_move_to_accepts_FREEZE_target": true,
+  "insertion_should_move_to_accepts_FREEZE_target": true,
+  "selection_swaps_into_FREEZE_target": true,
+  "insertion_freeze_reset_line": [
+   74
+  ]
+ },
+ "F2_pyc": {
+  "BubbleSortCell.cpython-310.pyc": {
+   "source_mtime_utc": "2023-03-11T16:44:10+00:00",
+   "source_size_at_compile": 2845,
+   "committed_size": 3982,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "BubbleSortCell.cpython-311.pyc": {
+   "source_mtime_utc": "2023-06-03T15:59:26+00:00",
+   "source_size_at_compile": 3982,
+   "committed_size": 3982,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "CellGroup.cpython-310.pyc": {
+   "source_mtime_utc": "2022-12-23T16:24:06+00:00",
+   "source_size_at_compile": 4376,
+   "committed_size": 4376,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "CellGroup.cpython-311.pyc": {
+   "source_mtime_utc": "2022-12-23T16:24:06+00:00",
+   "source_size_at_compile": 4376,
+   "committed_size": 4376,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "InsertionSortCell.cpython-310.pyc": {
+   "source_mtime_utc": "2023-03-30T22:45:32+00:00",
+   "source_size_at_compile": 3719,
+   "committed_size": 4606,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "InsertionSortCell.cpython-311.pyc": {
+   "source_mtime_utc": "2023-06-04T16:58:06+00:00",
+   "source_size_at_compile": 4606,
+   "committed_size": 4606,
+   "has_is_enable_to_move": true,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "MergeSortCell.cpython-310.pyc": {
+   "source_mtime_utc": "2022-09-24T19:36:41+00:00",
+   "source_size_at_compile": 2861,
+   "committed_size": 2861,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "MergeSortCell.cpython-311.pyc": {
+   "source_mtime_utc": "2022-09-24T19:36:41+00:00",
+   "source_size_at_compile": 2861,
+   "committed_size": 2861,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "MultiThreadCell.cpython-310.pyc": {
+   "source_mtime_utc": "2023-03-26T00:06:58+00:00",
+   "source_size_at_compile": 3118,
+   "committed_size": 4030,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 2,
+   "swap_calls_update": false
+  },
+  "MultiThreadCell.cpython-311.pyc": {
+   "source_mtime_utc": "2023-06-19T04:43:27+00:00",
+   "source_size_at_compile": 4030,
+   "committed_size": 4030,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 1,
+   "swap_calls_update": false
+  },
+  "SelectionSortCell.cpython-310.pyc": {
+   "source_mtime_utc": "2023-03-26T00:05:59+00:00",
+   "source_size_at_compile": 3737,
+   "committed_size": 4880,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "SelectionSortCell.cpython-311.pyc": {
+   "source_mtime_utc": "2023-06-04T15:33:31+00:00",
+   "source_size_at_compile": 4880,
+   "committed_size": 4880,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "StatusProbe.cpython-310.pyc": {
+   "source_mtime_utc": "2023-03-26T00:08:26+00:00",
+   "source_size_at_compile": 490,
+   "committed_size": 619,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "StatusProbe.cpython-311.pyc": {
+   "source_mtime_utc": "2023-06-03T15:57:37+00:00",
+   "source_size_at_compile": 619,
+   "committed_size": 619,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "__init__.cpython-310.pyc": {
+   "source_mtime_utc": "2022-09-17T14:55:28+00:00",
+   "source_size_at_compile": 0,
+   "committed_size": 0,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  },
+  "__init__.cpython-311.pyc": {
+   "source_mtime_utc": "2022-09-17T14:55:28+00:00",
+   "source_size_at_compile": 0,
+   "committed_size": 0,
+   "has_is_enable_to_move": false,
+   "swap_FREEZE_checks": 0,
+   "swap_calls_update": false
+  }
+ },
+ "F3_any_swap_calls_update": false
+}

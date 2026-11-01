@@ -1,0 +1,78 @@
+[
+  {
+    "url": "https://thoughtforms.life/symposium-on-the-platonic-space/",
+    "path": "sources/primary/symposium.html",
+    "status": 200,
+    "final_url": "https://thoughtforms.life/symposium-on-the-platonic-space/",
+    "sha256": "1acf7ca2e466dc8db8ce220bae83b3e737e82e1f3959bc1e6b20049d97e0a2dd"
+  },
+  {
+    "url": "https://sweetrationalism.com/articles/biology/why-michael-levins-bubble-sort-revelation-is-misunderstood-1960s-algorithm-theory-meets-god-of-the-gaps-argument-original-text/",
+    "path": "sources/primary/sweet_original.html",
+    "status": 200,
+    "final_url": "https://sweetrationalism.com/articles/biology/why-michael-levins-bubble-sort-revelation-is-misunderstood-1960s-algorithm-theory-meets-god-of-the-gaps-argument-original-text/",
+    "sha256": "57f16d689015fda3bbb17c799afa8c9c86b0279895c2333bcefcfabe147d1ba1"
+  },
+  {
+    "url": "https://unlockingthemysteryoflife.film/clips/",
+    "path": "sources/primary/film_clips.html",
+    "status": 200,
+    "final_url": "https://unlockingthemysteryoflife.film/clips/",
+    "sha256": "4d248b0f876abca812053262300875938cf757910b40db3795a46660d0d87379"
+  },
+  {
+    "url": "https://www.discovery.org/a/2116/",
+    "path": "sources/primary/discovery_2004.html",
+    "status": 200,
+    "final_url": "https://www.discovery.org/a/2116/",
+    "sha256": "8d5a7a15869f04a32b06932a21ca4b6f122a843f43e26f63556d54a608ce0435"
+  },
+  {
+    "url": "https://chrisfieldsresearch.com/bioelectric-epigenetics-BJ-2017.pdf",
+    "path": "sources/primary/durant_2017.pdf",
+    "status": 200,
+    "final_url": "https://chrisfieldsresearch.com/bioelectric-epigenetics-BJ-2017.pdf",
+    "sha256": "ee2eed0f3e4284bc663cd4cea47a6ac58a0d38c7b0847183baf275e93b46d8a8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/LICENSE",
+    "path": "sources/primary/morpholib_LICENSE",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/LICENSE",
+    "sha256": "86137ddaa607b8ad3d2bfcc1136a8ac462d63138dd61ee1bc2cd3ad697c5a341"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2823934/",
+    "path": "sources/primary/planarian_oviedo.html",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2823934/",
+    "sha256": "f2f849c94cd4a475922c943b36190a905d4806626914afe97925c9e116a57028"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3278711/",
+    "path": "sources/primary/planarian_beane.html",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3278711/",
+    "sha256": "d1760c9699b4ff0978cafbc43ddde6650e4c678b905d4df1e0b8ea50ebb0751e"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3428595/",
+    "path": "sources/primary/tadpole_vandenberg.html",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3428595/",
+    "sha256": "c777d805bed4b866114f4d623c52702a0d692026f9a501945b731104cf32931c"
+  },
+  {
+    "url": "https://journals.biologists.com/dev/article-pdf/146/14/dev175893/1738124/dev175893.pdf",
+    "path": "sources/primary/tadpole_pinet.pdf",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3856819/",
+    "path": "sources/primary/causal_hoel2013.html",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3856819/",
+    "sha256": "40d630120e376a6fcb151972d508704c401cd71f27c8fcab34d6eabc7cc02373"
+  }
+]

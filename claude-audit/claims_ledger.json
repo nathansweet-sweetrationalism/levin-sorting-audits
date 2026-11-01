@@ -1,0 +1,421 @@
+{
+ "generated": "2026-11-01",
+ "rows": [
+  {
+   "id": "D1a",
+   "author": "Dietz",
+   "claim": "Insertion relies on a 3-line FREEZE reset (InsertionSortCell.py L68–82)",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT. Line 74 of the committed file; the cpython-311 bytecode (source mtime 2023-06-04, same size) also checks FREEZE inside is_enable_to_move",
+   "evidence": "f_code_forensics.json",
+   "result_files": {
+    "results/f_code_forensics.json": "b2c33234049bb4499e0a9f3471d3931ed14242b8ed465c8a85b5c5a73eacc1f1"
+   }
+  },
+  {
+   "id": "D1b",
+   "author": "Dietz",
+   "claim": "Removing it raises final error 4.90 → 21.95 (n = 60, f = 3)",
+   "verdict_label": "REPRODUCED-WITH-DESIGN-CAVEAT",
+   "verdict": "REPRODUCED from his code, but both arms use immovable frozen cells and the ablated arm uses a different scheduler. Under the upstream movable semantics the effect survives: 2.4 → 19.35",
+   "evidence": "dietz_ablation_rerun.json; r_upstream.json R2",
+   "result_files": {
+    "results/r_upstream.json": "d370f45de9f6a37b9b730aee9b48b494da13ec90c5e71c309a5cac7ddf04a608",
+    "results/dietz_ablation_rerun.json": "410e5909779e9008c159f60000107d13a44863ed7660b92dca1f6719d12ce008"
+   }
+  },
+  {
+   "id": "D1c",
+   "author": "Dietz",
+   "claim": "Bubble only declines swaps with frozen cells (\"brick wall\"); Selection's FREEZE branch only nudges the pointer",
+   "verdict_label": "FALSE",
+   "verdict": "FALSE for the committed source. `should_move_to` in Bubble and Insertion accepts FREEZE targets, `swap()` blocks only a frozen initiator, and Selection swaps into a frozen target when its value is smaller. In 30/30 runs a frozen cell moved",
+   "evidence": "f_code_forensics.json F1; r_upstream.json R1",
+   "result_files": {
+    "results/f_code_forensics.json": "b2c33234049bb4499e0a9f3471d3931ed14242b8ed465c8a85b5c5a73eacc1f1",
+    "results/r_upstream.json": "d370f45de9f6a37b9b730aee9b48b494da13ec90c5e71c309a5cac7ddf04a608"
+   }
+  },
+  {
+   "id": "D1d",
+   "author": "Dietz",
+   "claim": "\"Formally proved in Lean 4 Theorem 2\"",
+   "verdict_label": "OVERSTATED",
+   "verdict": "OVERSTATED. Theorem 2 evaluates two fixed 4-element lists by `decide` and says nothing about final error",
+   "evidence": "Loop_zhang_sorting_morphogenesis.lean",
+   "result_files": {}
+  },
+  {
+   "id": "D2a",
+   "author": "Dietz",
+   "claim": "[2,4,1,3] → [2,1,4,3]: I 3 → 2, E 1 → 2",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT",
+   "evidence": "M1; Lean `ruler_witness`",
+   "result_files": {}
+  },
+  {
+   "id": "D2b",
+   "author": "Dietz",
+   "claim": "Every adjacent swap lowers I by exactly 1",
+   "verdict_label": "TRUE",
+   "verdict": "TRUE in general. Our Lean proof covers every list and every position. Dietz's Lean covers one 3-element window. Among strictly downhill adjacent swaps, E rises in 11.8% (n ≤ 8, exhaustive)",
+   "evidence": "M2, M2b; lean/AdjacentSwap.lean; Node cross-check",
+   "result_files": {}
+  },
+  {
+   "id": "D2c",
+   "author": "Dietz",
+   "claim": "\"ΔI = −1 on every single swap\"; \"never move against their gradient\"",
+   "verdict_label": "PARTLY-TRUE",
+   "verdict": "TRUE only for adjacent swaps. Non-adjacent swaps change I by an odd amount 1 + 2k. Empirically there were 0 uphill swaps on I in 7,308 swaps of upstream mixed B+S arrays: supported in that test, not proven in general",
+   "evidence": "M3; r_upstream.json R3",
+   "result_files": {
+    "results/r_upstream.json": "d370f45de9f6a37b9b730aee9b48b494da13ec90c5e71c309a5cac7ddf04a608"
+   }
+  },
+  {
+   "id": "D2d",
+   "author": "Dietz",
+   "claim": "\"100% deterministically downhill\"",
+   "verdict_label": "PARTLY-TRUE",
+   "verdict": "Monotone descent on I holds. Determinism does not: the upstream runs differ trace to trace",
+   "evidence": "r_upstream.json R4",
+   "result_files": {
+    "results/r_upstream.json": "d370f45de9f6a37b9b730aee9b48b494da13ec90c5e71c309a5cac7ddf04a608"
+   }
+  },
+  {
+   "id": "D2e",
+   "author": "Dietz",
+   "claim": "Freeze a cell and nothing crosses it (Lean Thm 1)",
+   "verdict_label": "FALSE-FOR-PUBLIC-CODE",
+   "verdict": "TRUE for immovable cells only. Thm 1 is a single-swap index lemma; the induction is in a comment. FALSE for the public code",
+   "evidence": "R1; Lean file",
+   "result_files": {}
+  },
+  {
+   "id": "D2f",
+   "author": "Dietz",
+   "claim": "The paper's ruler is E",
+   "verdict_label": "TRUE",
+   "verdict": "TRUE: Sortedness = (N − E)/N in `analysis/utils.py`. The paper's DG argument compares 0–3 frozen cells, which the 4-cell example does not address",
+   "evidence": "zhang.txt; upstream code",
+   "result_files": {}
+  },
+  {
+   "id": "D3a",
+   "author": "Dietz",
+   "claim": "Unique keys: aggregation rises then returns to chance; duplicate C = 2 below chance, C = 10 ≈ 0.659",
+   "verdict_label": "REPRODUCED",
+   "verdict": "REPRODUCED in the upstream threaded code: C = 1 final 0.4825, C = 2 0.4625 ± 0.0155, C = 10 0.6675 ± 0.013. Port peak 0.624 is low against upstream 0.674 and the arXiv text 0.72",
+   "evidence": "r_upstream_agg.json",
+   "result_files": {
+    "results/r_upstream.json": "d370f45de9f6a37b9b730aee9b48b494da13ec90c5e71c309a5cac7ddf04a608",
+    "results/r_upstream_agg.json": "1c13b2c0e002e2f18725d9636b5b0cdaf50d92e1bcebdf5e292de680c5c998a5"
+   }
+  },
+  {
+   "id": "D3b",
+   "author": "Dietz",
+   "claim": "Critics predict \"flat 0.50\"",
+   "verdict_label": "IMPRECISE",
+   "verdict": "The exact null is 1/2 − 1/N = 0.4875 at N = 80 (runs test). It holds for any sort whose permutation ignores labels, stable or not, so departures refute label-independence, not stability as such",
+   "evidence": "M6, M7, M12",
+   "result_files": {}
+  },
+  {
+   "id": "D3c",
+   "author": "Dietz",
+   "claim": "Kinematic phase separation as the audit's finding",
+   "verdict_label": "PRIOR-ART",
+   "verdict": "The paper states the efficiency hypothesis and says the duplicate result \"suggests\" it",
+   "evidence": "zhang.txt (Mixed Algotype section)",
+   "result_files": {}
+  },
+  {
+   "id": "D4a",
+   "author": "Dietz",
+   "claim": "p = 10⁻¹⁰³ for \"the Thompson predictor\"",
+   "verdict_label": "MISATTRIBUTED",
+   "verdict": "MISATTRIBUTED. That p is H1, the full 30-D PGLS predictor. Thompson-7 is H6 (p = 7.4e-81), with median error 0.0588 against 0.0383 for full-30",
+   "evidence": "np_RAJancwG….trig",
+   "result_files": {}
+  },
+  {
+   "id": "D4b",
+   "author": "Dietz",
+   "claim": "\"The loss is in the same record as the win\"",
+   "verdict_label": "INCOMPLETE",
+   "verdict": "INCOMPLETE. The outcome record reports 4/7 supported (2/4 primary); H2, H4 and H5 failed; the article reports H2",
+   "evidence": "same",
+   "result_files": {}
+  },
+  {
+   "id": "D4c",
+   "author": "Dietz",
+   "claim": "93.5%–98.9% alignment along Thompson's grids \"across 10,303 species\"",
+   "verdict_label": "NOT-DISCRIMINATING",
+   "verdict": "The numbers are \\|cos\\| of g_max vs r_max after projection: 0.935 (791 spp.), 0.989 (6,614 spp.). The 10,303-species dataset has only a raw-trait cos of 0.256. A random-subspace null on the 791-species data: median 0.728, and 16.5% of 200 random 8-D subspaces reach ≥ 0.935 (k = 7: 20%)",
+   "evidence": "t_alignment_null.json; thompson_3dataset_validation_summary.json",
+   "result_files": {
+    "results/t_alignment_null.json": "7a93cf3b924d33c99c1839c3b8c461eeb3e66a4cdcb7faf68c48d2f94bf985d9"
+   }
+  },
+  {
+   "id": "D4d",
+   "author": "Dietz",
+   "claim": "57.9% vs 86.2% variance",
+   "verdict_label": "CONSISTENT",
+   "verdict": "CONSISTENT: Eckart–Young requires PCA ≥ any 7-D subspace",
+   "evidence": "M10",
+   "result_files": {}
+  },
+  {
+   "id": "D4e",
+   "author": "Dietz",
+   "claim": "\"+13% to +48% (15× better)\" over 2.4%",
+   "verdict_label": "UNDEFINED",
+   "verdict": "UNDEFINED. Over 2.4% these are 6.4×–21×",
+   "evidence": "M10",
+   "result_files": {}
+  },
+  {
+   "id": "D4f",
+   "author": "Dietz",
+   "claim": "Claverie & Wainwright 2014, Evolution 68(12), doi:10.1111/evo.12502; Friedman et al. 2019, Syst Biol 69(1), doi:10.1093/sysbio/syz029",
+   "verdict_label": "WRONG-CITATION",
+   "verdict": "WRONG. The DOIs resolve to Posavi et al. and Prasanna et al. Correct: PLoS ONE 9(11):e112732 (10.1371/journal.pone.0112732); Proc R Soc B 287:20201053 (10.1098/rspb.2020.1053)",
+   "evidence": "d_references.json",
+   "result_files": {
+    "results/d_references.json": "3c9b4dd98b07840b4f0d6d346aa747220b09ad9e456855dc9034e65363f10ae0"
+   }
+  },
+  {
+   "id": "D4g",
+   "author": "Dietz",
+   "claim": "Claim 4 as one of the claims Ingressing Minds makes",
+   "verdict_label": "SCOPE-MISMATCH",
+   "verdict": "SCOPE MISMATCH. Levin cites Thompson's grids as structure with \"no known physical basis\". He makes no claim about fish macroevolution alignment",
+   "evidence": "ing3.txt",
+   "result_files": {}
+  },
+  {
+   "id": "D5",
+   "author": "Dietz",
+   "claim": "Serotonin z = +1, ratio ≈ 4.7 across 40 mV, conductance cancels at equilibrium",
+   "verdict_label": "CORRECT",
+   "verdict": "CORRECT: 4.74 at 25 °C (4.87 at 20 °C, 4.47 at 37 °C)",
+   "evidence": "M8",
+   "result_files": {}
+  },
+  {
+   "id": "D6",
+   "author": "Dietz",
+   "claim": "Pinet et al. doi:10.1242/dev.175950; Vandenberg inline doi:10.1016/j.ydbio.2012.01.027; Pezzulo inline doi:10.1098/rsif.2015.0772; Pietak BETSE doi:10.3389/fphys.2016.00178",
+   "verdict_label": "WRONG-CITATION",
+   "verdict": "WRONG. Correct: 10.1242/dev.175893; 10.1002/dvdy.23770; 10.1039/c5ib00221d; Front Bioeng Biotechnol 4:55, 10.3389/fbioe.2016.00055",
+   "evidence": "d_references.json",
+   "result_files": {
+    "results/d_references.json": "3c9b4dd98b07840b4f0d6d346aa747220b09ad9e456855dc9034e65363f10ae0"
+   }
+  },
+  {
+   "id": "D7",
+   "author": "Dietz",
+   "claim": "Xenobots: sphere 1 generation, C-shape 3–4",
+   "verdict_label": "APPROXIMATE",
+   "verdict": "APPROXIMATE. Paper: spheroids 1.2 ± 0.4 (max 2), semitoroids 3 ± 0.8 (max 4). The 105° angle and \"flat slab manages none\" are his model outputs",
+   "evidence": "kriegman2021 (PMC8670470)",
+   "result_files": {}
+  },
+  {
+   "id": "D8a",
+   "author": "Dietz",
+   "claim": "Score arithmetic 77.6, 65.7, 88.1",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT",
+   "evidence": "M9",
+   "result_files": {}
+  },
+  {
+   "id": "D8b",
+   "author": "Dietz",
+   "claim": "Superseded pillar mean 81.6",
+   "verdict_label": "ROUNDING-ERROR",
+   "verdict": "81.68 → 81.7 from the exact cards; 81.6 needs Thompson written as 96.0 (it is 96.1 elsewhere)",
+   "evidence": "M9",
+   "result_files": {}
+  },
+  {
+   "id": "D8c",
+   "author": "Dietz",
+   "claim": "Validity of the 77.6%",
+   "verdict_label": "NO-DEFINED-CONSTRUCT",
+   "verdict": "NO DEFINED CONSTRUCT. Claims 5–7 grade his reduced models (\"gaps in our reduced equations\"). Claim 4 grades a result Levin did not claim. 85% of the sorting deductions are the \"dualist\" deductions (3.7, 7.4, 1.5 points). No weighting rationale or sensitivity analysis is given",
+   "evidence": "M9; article text",
+   "result_files": {}
+  },
+  {
+   "id": "D9",
+   "author": "Dietz",
+   "claim": "Four-language ports bit-for-bit identical \"against the upstream commit\"; \"all 14 curves replicate 100%\"",
+   "verdict_label": "OVERSTATED",
+   "verdict": "The 0 mismatches are among his three ports sharing SplitMix64. Upstream is nondeterministic. The validator hard-codes VERIFIED. Most of his benchmarks land within 4%; Bubble DG f = 3 is +32% and B(dec)+S(inc) is +12%",
+   "evidence": "R4; validate_kymograph_and_paper.py; results_joel_validator.log",
+   "result_files": {}
+  },
+  {
+   "id": "D10",
+   "author": "Dietz",
+   "claim": "0 sorry, kernel-checked",
+   "verdict_label": "TRUE-WITH-SPECIFICATION-GAP",
+   "verdict": "TRUE (Lean 4.35.0; propext, Quot.sound only). Thm 6 subtracts hard-coded integers and verifies nothing about CE 2.0",
+   "evidence": "lean run",
+   "result_files": {}
+  },
+  {
+   "id": "D11",
+   "author": "Dietz",
+   "claim": "Huh et al. hypothesize convergence toward Plato's ideal reality \"because Platonism is basically correct\"",
+   "verdict_label": "GLOSS-NOT-IN-SOURCE",
+   "verdict": "The quoted phrase is EXACT. The \"because\" clause is Dietz's gloss, not in the source",
+   "evidence": "arXiv abstract",
+   "result_files": {}
+  },
+  {
+   "id": "S1",
+   "author": "Sweet",
+   "claim": "[2a, 2b, 1c] long swap reverses equal keys",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT",
+   "evidence": "M5",
+   "result_files": {}
+  },
+  {
+   "id": "S2",
+   "author": "Sweet",
+   "claim": "90/90 duplicate runs reverse some equal-key pair",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT",
+   "evidence": "n_replay_bfe377c.json",
+   "result_files": {
+    "results/n_replay_bfe377c.json": "e631a479d8cd59e453673f54dcc8c01edc3296947c311434c105cf27a3807787"
+   }
+  },
+  {
+   "id": "S3",
+   "author": "Sweet",
+   "claim": "105/105 continuations from the final state make no swaps",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT",
+   "evidence": "same",
+   "result_files": {}
+  },
+  {
+   "id": "S4",
+   "author": "Sweet",
+   "claim": "C = 10 final 0.6592; stable benchmark 0.503333; within-block conditional 0.485117",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT",
+   "evidence": "same",
+   "result_files": {}
+  },
+  {
+   "id": "S5",
+   "author": "Sweet",
+   "claim": "E[A] = [b(b−1)+s(s−1)]/N², 0.4875 at 40/40; other denominators differ",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT (symbolic, exhaustive Python + independent Node). Alternatives: 0.4937 for N − 1, 0.49375 for coin-flip labels",
+   "evidence": "M6, Node",
+   "result_files": {}
+  },
+  {
+   "id": "S6",
+   "author": "Sweet",
+   "claim": "C = 2: observed 572 vs conditional 603.5; exact two-sided p ≈ 0.00201; simulation 0.00208",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT: 0.0020067. Our seeded 100k simulation gives 0.00183; the gap is about 1.8 Monte Carlo SE. Exploratory, as Sweet says",
+   "evidence": "same",
+   "result_files": {}
+  },
+  {
+   "id": "S7",
+   "author": "Sweet",
+   "claim": "Every strict adjacent inversion swap lowers I by one (checked through 8 keys)",
+   "verdict_label": "TRUE",
+   "verdict": "TRUE, now proved for all lengths",
+   "evidence": "Lean AdjacentSwap",
+   "result_files": {}
+  },
+  {
+   "id": "S8",
+   "author": "Sweet",
+   "claim": "Upstream Insertion admits movement with prefix [3, frozen 1]; removing the branch blocks it",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT",
+   "evidence": "u_isolated_prefix.json",
+   "result_files": {
+    "results/u_isolated_prefix.json": "1146326e155d8cafafa2371f5eba0c2a0cfa5be15f8157ade6926c17ea4ea54d"
+   }
+  },
+  {
+   "id": "S9",
+   "author": "Sweet",
+   "claim": "\"The inspected code version postdates the paper's first online publication\"",
+   "verdict_label": "MISLEADING-SCOPE",
+   "verdict": "TRUE of the commit (2024-10-30 vs online 2024-08-19), MISLEADING about the file. InsertionSortCell.py is byte-unchanged since 2023-08-26, and the bytecode header implies the same contents by 2023-06-04. An older version without the prefix gate, and with immovable frozen cells, also ships as bytecode. The open question is which version produced which figure",
+   "evidence": "f_code_forensics.json",
+   "result_files": {
+    "results/f_code_forensics.json": "b2c33234049bb4499e0a9f3471d3931ed14242b8ed465c8a85b5c5a73eacc1f1"
+   }
+  },
+  {
+   "id": "S10",
+   "author": "Sweet",
+   "claim": "Quotes from the Lex Fridman transcript (\"neither prescribed nor forbidden\", \"free compute ... physical costs\") and from the paper (Section 4.4 \"not something that can be predicted a priori\")",
+   "verdict_label": "EXACT",
+   "verdict": "EXACT",
+   "evidence": "lex transcript; zhang.txt",
+   "result_files": {}
+  },
+  {
+   "id": "S11",
+   "author": "Sweet",
+   "claim": "Landauer kT ln 2; Bennett; logically reversible swaps",
+   "verdict_label": "CORRECT",
+   "verdict": "CORRECT",
+   "evidence": "M11",
+   "result_files": {}
+  },
+  {
+   "id": "S12",
+   "author": "Sweet",
+   "claim": "13 DOIs",
+   "verdict_label": "EXACT",
+   "verdict": "13/13 resolve to the cited works",
+   "evidence": "d_references.json",
+   "result_files": {
+    "results/d_references.json": "3c9b4dd98b07840b4f0d6d346aa747220b09ad9e456855dc9034e65363f10ae0"
+   }
+  },
+  {
+   "id": "S13",
+   "author": "Sweet",
+   "claim": "Text: \"Repetition does not supply the additional designer's missing evidence.petition does not supply the additional designer's missing evidence.\"",
+   "verdict_label": "WITHDRAWN-COPY-ARTIFACT",
+   "verdict": "WITHDRAWN: present only in the copy pasted to the audits, not on the live page (see Erratum)",
+   "evidence": "article",
+   "result_files": {}
+  },
+  {
+   "id": "S14",
+   "author": "Sweet",
+   "claim": "\"Reynolds showed with the Boids model that patterns ... can be extremely sensitive to initial conditions\"",
+   "verdict_label": "NOT-CHECKED",
+   "verdict": "NOT CHECKED in this audit. Cite the specific Reynolds result or scope the sentence",
+   "evidence": "none",
+   "result_files": {}
+  }
+ ]
+}

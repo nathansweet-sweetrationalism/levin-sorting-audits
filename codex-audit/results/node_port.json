@@ -1,0 +1,17 @@
+{
+  "name": "node_port",
+  "command": [
+    "C:/Program Files/nodejs/node.exe",
+    "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\sources\\primary\\port_js.mjs",
+    "--n",
+    "100",
+    "--reps",
+    "15",
+    "--seed",
+    "42"
+  ],
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": "",
+  "seconds": 0.060131099991849624
+}

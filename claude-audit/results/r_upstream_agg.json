@@ -1,0 +1,26 @@
+{
+ "C1": {
+  "final_mean": 0.4825,
+  "final_sem": 0.013529802495068266,
+  "peak_mean": 0.6741666666666667,
+  "runs": 15,
+  "runs_fully_sorted": 15,
+  "null_expectation": 0.4875
+ },
+ "C2": {
+  "final_mean": 0.46249999999999997,
+  "final_sem": 0.015500896031448563,
+  "peak_mean": 0.6616666666666666,
+  "runs": 15,
+  "runs_fully_sorted": 15,
+  "null_expectation": 0.4875
+ },
+ "C10": {
+  "final_mean": 0.6675,
+  "final_sem": 0.013006408676751112,
+  "peak_mean": 0.695,
+  "runs": 15,
+  "runs_fully_sorted": 15,
+  "null_expectation": 0.4875
+ }
+}

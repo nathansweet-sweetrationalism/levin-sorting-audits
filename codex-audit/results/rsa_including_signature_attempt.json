@@ -1,0 +1,47 @@
+[
+  {
+    "artifact_code": "RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE",
+    "algorithm": "RSA",
+    "public_key_sha256": "54dc1970906f4d43f14cf5f98d0aaeb50972fc63e6978a60e9b4c3a858b6bcfb",
+    "rsa_signature_valid_direct": false,
+    "tampered_signature_valid_direct": false,
+    "nanopub_client_tampered_signature_claim": true,
+    "normalization_boundary": "nanopub2.2.2 RDF normalization shared; cryptographic acceptance tested directly using two PyCryptodome interfaces"
+  },
+  {
+    "artifact_code": "RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk",
+    "algorithm": "RSA",
+    "public_key_sha256": "54dc1970906f4d43f14cf5f98d0aaeb50972fc63e6978a60e9b4c3a858b6bcfb",
+    "rsa_signature_valid_direct": false,
+    "tampered_signature_valid_direct": false,
+    "nanopub_client_tampered_signature_claim": true,
+    "normalization_boundary": "nanopub2.2.2 RDF normalization shared; cryptographic acceptance tested directly using two PyCryptodome interfaces"
+  },
+  {
+    "artifact_code": "RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8",
+    "algorithm": "RSA",
+    "public_key_sha256": "54dc1970906f4d43f14cf5f98d0aaeb50972fc63e6978a60e9b4c3a858b6bcfb",
+    "rsa_signature_valid_direct": false,
+    "tampered_signature_valid_direct": false,
+    "nanopub_client_tampered_signature_claim": true,
+    "normalization_boundary": "nanopub2.2.2 RDF normalization shared; cryptographic acceptance tested directly using two PyCryptodome interfaces"
+  },
+  {
+    "artifact_code": "RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw",
+    "algorithm": "RSA",
+    "public_key_sha256": "54dc1970906f4d43f14cf5f98d0aaeb50972fc63e6978a60e9b4c3a858b6bcfb",
+    "rsa_signature_valid_direct": false,
+    "tampered_signature_valid_direct": false,
+    "nanopub_client_tampered_signature_claim": true,
+    "normalization_boundary": "nanopub2.2.2 RDF normalization shared; cryptographic acceptance tested directly using two PyCryptodome interfaces"
+  },
+  {
+    "artifact_code": "RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI",
+    "algorithm": "RSA",
+    "public_key_sha256": "54dc1970906f4d43f14cf5f98d0aaeb50972fc63e6978a60e9b4c3a858b6bcfb",
+    "rsa_signature_valid_direct": false,
+    "tampered_signature_valid_direct": false,
+    "nanopub_client_tampered_signature_claim": true,
+    "normalization_boundary": "nanopub2.2.2 RDF normalization shared; cryptographic acceptance tested directly using two PyCryptodome interfaces"
+  }
+]

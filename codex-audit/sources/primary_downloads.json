@@ -1,0 +1,189 @@
+[
+  {
+    "url": "https://arxiv.org/pdf/2401.05375",
+    "accessed_utc": "2026-11-01T16:05:49.769253+00:00",
+    "local_path": "sources\\primary\\sorting_arxiv.pdf",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2401.05375",
+    "content_type": "application/pdf",
+    "bytes": 2306261,
+    "sha256": "f4e78ddc8a83f7c983d088713c916adac01c4c90eebe28d1bc9018ddef0098ca"
+  },
+  {
+    "url": "https://www.mdpi.com/2409-9287/11/5/161/pdf",
+    "accessed_utc": "2026-11-01T16:05:49.769253+00:00",
+    "local_path": "sources\\primary\\ingressing.pdf",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://lexfridman.com/michael-levin-2-transcript/",
+    "accessed_utc": "2026-11-01T16:05:49.769753+00:00",
+    "local_path": "sources\\primary\\lex_transcript.html",
+    "status": 200,
+    "final_url": "https://lexfridman.com/michael-levin-2-transcript/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 413118,
+    "sha256": "bede9c721173033063fa7dff2b0e2cb36bac5b7211321bc19a4516d1c95be3b4"
+  },
+  {
+    "url": "https://sweetrationalism.com/ai-corpus.json/",
+    "accessed_utc": "2026-11-01T16:05:49.770256+00:00",
+    "local_path": "sources\\primary\\sweet_corpus.json",
+    "status": 200,
+    "final_url": "https://sweetrationalism.com/ai-corpus.json/",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 157235,
+    "sha256": "6f2b86fdce109eb6934e59667e23e1e429cdedf40b6c49076b7bc1e1d42a38fe"
+  },
+  {
+    "url": "https://fractastical.github.io/morpholib/levin_latent_space_methods_and_provenance.pdf",
+    "accessed_utc": "2026-11-01T16:05:49.866686+00:00",
+    "local_path": "sources\\primary\\dietz_methods.pdf",
+    "status": 200,
+    "final_url": "https://fractastical.github.io/morpholib/levin_latent_space_methods_and_provenance.pdf",
+    "content_type": "application/pdf",
+    "bytes": 3725080,
+    "sha256": "6967b15e1d680968e6dfc4de9fb493f5235f2a757d152fed81a72d8803105117"
+  },
+  {
+    "url": "https://fractastical.github.io/morpholib/zhang_levin_sorting_morphogenesis_manuscript.pdf",
+    "accessed_utc": "2026-11-01T16:05:49.980853+00:00",
+    "local_path": "sources\\primary\\dietz_sorting.pdf",
+    "status": 200,
+    "final_url": "https://fractastical.github.io/morpholib/zhang_levin_sorting_morphogenesis_manuscript.pdf",
+    "content_type": "application/pdf",
+    "bytes": 2324983,
+    "sha256": "6f2fe9b0e0abaac44baa35d0d3a1687d350fb9e678c557036e769fdb1bef5ddc"
+  },
+  {
+    "url": "https://fractastical.github.io/morpholib/thompson_1917_fish_transformations_manuscript.pdf",
+    "accessed_utc": "2026-11-01T16:05:50.124294+00:00",
+    "local_path": "sources\\primary\\dietz_fish.pdf",
+    "status": 200,
+    "final_url": "https://fractastical.github.io/morpholib/thompson_1917_fish_transformations_manuscript.pdf",
+    "content_type": "application/pdf",
+    "bytes": 15468408,
+    "sha256": "be1c527cc916bd81819312bbd42e15058844e343ea6851cde207405148e6f652"
+  },
+  {
+    "url": "https://api.github.com/repos/Zhangtaining/cell_research/commits/1fd2bd5921c1f6b423a71f691d5189106a8a1020",
+    "accessed_utc": "2026-11-01T16:05:50.183067+00:00",
+    "local_path": "sources\\primary\\upstream_commit.json",
+    "status": 200,
+    "final_url": "https://api.github.com/repos/Zhangtaining/cell_research/commits/1fd2bd5921c1f6b423a71f691d5189106a8a1020",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 5849,
+    "sha256": "015e498c347c3c6e52a02aa9f9aab0b2b5f7efc2fa5d977b65b5c7ee450fe48d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/morphoeval/lean/loops/Loop_zhang_sorting_morphogenesis.lean",
+    "accessed_utc": "2026-11-01T16:05:50.195580+00:00",
+    "local_path": "sources\\primary\\lean_sorting.lean",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/morphoeval/lean/loops/Loop_zhang_sorting_morphogenesis.lean",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 13255,
+    "sha256": "e00f20139dd689182f0732f3e32892e1dbc318a249ee33f5aa1c95475c969b02"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/bfe377c2f9d5bfc35e0083df1c04eb9fe6ca739e/sorting-morphogenesis/sorting_morphogenesis.py",
+    "accessed_utc": "2026-11-01T16:05:50.267938+00:00",
+    "local_path": "sources\\primary\\old_model.py",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/fractastical/morpholib/bfe377c2f9d5bfc35e0083df1c04eb9fe6ca739e/sorting-morphogenesis/sorting_morphogenesis.py",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 46311,
+    "sha256": "44e7ca5513444938df9c48339f0f4cf300b8d3147ef8516ea8e66645c3cb4814"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/bfe377c2f9d5bfc35e0083df1c04eb9fe6ca739e/sorting-morphogenesis/audit_platonic_space_claims.py",
+    "accessed_utc": "2026-11-01T16:05:50.488477+00:00",
+    "local_path": "sources\\primary\\old_ablation.py",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/fractastical/morpholib/bfe377c2f9d5bfc35e0083df1c04eb9fe6ca739e/sorting-morphogenesis/audit_platonic_space_claims.py",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 33030,
+    "sha256": "89324dfd981d9cde9ceca19a1821516a880ae5ff2ee973ffc811cb2d2adadaa4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/bfe377c2f9d5bfc35e0083df1c04eb9fe6ca739e/sorting-morphogenesis/figures/platonic_claims_ablation_metrics.json",
+    "accessed_utc": "2026-11-01T16:05:50.519545+00:00",
+    "local_path": "sources\\primary\\old_metrics.json",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/fractastical/morpholib/bfe377c2f9d5bfc35e0083df1c04eb9fe6ca739e/sorting-morphogenesis/figures/platonic_claims_ablation_metrics.json",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 945,
+    "sha256": "410e5909779e9008c159f60000107d13a44863ed7660b92dca1f6719d12ce008"
+  },
+  {
+    "url": "https://api.github.com/repos/fractastical/morpholib/commits/bfe377c2f9d5bfc35e0083df1c04eb9fe6ca739e",
+    "accessed_utc": "2026-11-01T16:05:50.542081+00:00",
+    "local_path": "sources\\primary\\old_commit.json",
+    "status": 200,
+    "final_url": "https://api.github.com/repos/fractastical/morpholib/commits/bfe377c2f9d5bfc35e0083df1c04eb9fe6ca739e",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 73231,
+    "sha256": "040623bce87aeb6747b6a35f62ecf2f9c26be99f3a200329808c1fa6b22d76bd"
+  },
+  {
+    "url": "https://api.github.com/repos/Zhangtaining/cell_research/git/trees/1fd2bd5921c1f6b423a71f691d5189106a8a1020?recursive=1",
+    "accessed_utc": "2026-11-01T16:05:50.672013+00:00",
+    "local_path": "sources\\primary\\upstream_tree.json",
+    "status": 200,
+    "final_url": "https://api.github.com/repos/Zhangtaining/cell_research/git/trees/1fd2bd5921c1f6b423a71f691d5189106a8a1020?recursive=1",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 26114,
+    "sha256": "707972f6a51a6863a232a85e1c89077ec7c10b171211155c5da08f63c0079b23"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/sorting-morphogenesis/js/zhang_sorting_morphogenesis.mjs",
+    "accessed_utc": "2026-11-01T16:05:50.674516+00:00",
+    "local_path": "sources\\primary\\port_js.mjs",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/fractastical/morpholib/35d30f4cfd5397ee1ed769f96494e018603e293d/sorting-morphogenesis/js/zhang_sorting_morphogenesis.mjs",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 20668,
+    "sha256": "05761147ec64321f5b055646f6f03836cd88ac237d4f98571e02d10b5fb132d8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Zhangtaining/cell_research/1fd2bd5921c1f6b423a71f691d5189106a8a1020/modules/multithread/BubbleSortCell.py",
+    "accessed_utc": "2026-11-01T16:05:50.750807+00:00",
+    "local_path": "sources\\primary\\upstream_BubbleSortCell.py",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/Zhangtaining/cell_research/1fd2bd5921c1f6b423a71f691d5189106a8a1020/modules/multithread/BubbleSortCell.py",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 3982,
+    "sha256": "40b58682c1089c03df790e069880b1d937684825895047d0e8a5822399218438"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Zhangtaining/cell_research/1fd2bd5921c1f6b423a71f691d5189106a8a1020/modules/multithread/InsertionSortCell.py",
+    "accessed_utc": "2026-11-01T16:05:50.760315+00:00",
+    "local_path": "sources\\primary\\upstream_InsertionSortCell.py",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/Zhangtaining/cell_research/1fd2bd5921c1f6b423a71f691d5189106a8a1020/modules/multithread/InsertionSortCell.py",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 4606,
+    "sha256": "790a6e510a3933848df751499946a6149aa711af6d19ee1e13d2095b4f641507"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Zhangtaining/cell_research/1fd2bd5921c1f6b423a71f691d5189106a8a1020/modules/multithread/SelectionSortCell.py",
+    "accessed_utc": "2026-11-01T16:05:50.934622+00:00",
+    "local_path": "sources\\primary\\upstream_SelectionSortCell.py",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/Zhangtaining/cell_research/1fd2bd5921c1f6b423a71f691d5189106a8a1020/modules/multithread/SelectionSortCell.py",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 4880,
+    "sha256": "3afdadf02831402541314cb17b3fc8d58127a7c87a28cecb97ecd5b2c7bf0ad1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Zhangtaining/cell_research/1fd2bd5921c1f6b423a71f691d5189106a8a1020/modules/multithread/MultiThreadCell.py",
+    "accessed_utc": "2026-11-01T16:05:50.939632+00:00",
+    "local_path": "sources\\primary\\upstream_MultiThreadCell.py",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/Zhangtaining/cell_research/1fd2bd5921c1f6b423a71f691d5189106a8a1020/modules/multithread/MultiThreadCell.py",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 4030,
+    "sha256": "a720f5bd38d893fdd4f6d1487f3c69c2194367f7d953c1b56ac1e99a6de7f6b9"
+  }
+]

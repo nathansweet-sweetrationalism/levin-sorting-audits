@@ -1,0 +1,345 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1711.03050",
+    "accessed_utc": "2026-11-01T16:06:21.936642+00:00",
+    "local_path": "sources\\urls\\3de12231abfa36e2.bin",
+    "status": 200,
+    "final_url": "https://arxiv.org/abs/1711.03050",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 45635,
+    "sha256": "f01b6a5234df4e08e265e7c22f461b51ac155308b2a5b04bbd551f941179e34e"
+  },
+  {
+    "url": "https://arxiv.org/abs/1802.09845",
+    "accessed_utc": "2026-11-01T16:06:21.937646+00:00",
+    "local_path": "sources\\urls\\780583d2110717e3.bin",
+    "status": 200,
+    "final_url": "https://arxiv.org/abs/1802.09845",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 44347,
+    "sha256": "114fdd8f628a8acc2047991234a0d75317a6d8379c905842787152482c544587"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.08363",
+    "accessed_utc": "2026-11-01T16:06:21.938151+00:00",
+    "local_path": "sources\\urls\\d2ddc57723095dc1.bin",
+    "status": 200,
+    "final_url": "https://arxiv.org/abs/2005.08363",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 45695,
+    "sha256": "5cf633a61c79525e2e489e52a273c270e7cdbf1610a0838cdaa66b20cb23701f"
+  },
+  {
+    "url": "https://arxiv.org/abs/2401.05375",
+    "accessed_utc": "2026-11-01T16:06:21.938651+00:00",
+    "local_path": "sources\\urls\\1c4322105f295f60.bin",
+    "status": 200,
+    "final_url": "https://arxiv.org/abs/2401.05375",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 44065,
+    "sha256": "f658c6d7d03d93423dfd49100a0f4fe5e4dcf8082d3f21a7c169b3ea0d0e99d5"
+  },
+  {
+    "url": "https://bioelectricity.net/bioelectric-morphospace",
+    "accessed_utc": "2026-11-01T16:06:21.938651+00:00",
+    "local_path": "sources\\urls\\d8eed54126a544bd.bin",
+    "status": 200,
+    "final_url": "https://bioelectricity.net/bioelectric-morphospace",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 7057,
+    "sha256": "28ad308943a73b80b3b0406d6617550f5fc4c4f753849f23e8dbae08b9af187e"
+  },
+  {
+    "url": "https://bioelectricity.net/bioelectricity-foundations",
+    "accessed_utc": "2026-11-01T16:06:22.174650+00:00",
+    "local_path": "sources\\urls\\bc7cb0b09a8ced47.bin",
+    "status": 200,
+    "final_url": "https://bioelectricity.net/bioelectricity-foundations",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 7057,
+    "sha256": "28ad308943a73b80b3b0406d6617550f5fc4c4f753849f23e8dbae08b9af187e"
+  },
+  {
+    "url": "https://bioelectricity.net/sorting-morphogenesis",
+    "accessed_utc": "2026-11-01T16:06:22.175150+00:00",
+    "local_path": "sources\\urls\\c9b7f3f67a1aef0c.bin",
+    "status": 200,
+    "final_url": "https://bioelectricity.net/sorting-morphogenesis",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 7057,
+    "sha256": "28ad308943a73b80b3b0406d6617550f5fc4c4f753849f23e8dbae08b9af187e"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00224-006-1311-1",
+    "accessed_utc": "2026-11-01T16:06:22.175651+00:00",
+    "local_path": "sources\\urls\\71a33caf41cd471b.bin",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s00224-006-1311-1?error=cookies_not_supported&code=81f5cbcd-dd4f-4e55-9679-b2ee6f74e387",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 240757,
+    "sha256": "7d4617d73ada07b5b2a94cc1e8a30f0baf627bdc44a2ea0c718b08d5bf55f7b1"
+  },
+  {
+    "url": "https://doi.org/10.1016/S1355-2198(03)00039-X",
+    "accessed_utc": "2026-11-01T16:06:22.176150+00:00",
+    "local_path": "sources\\urls\\244bd136ca74c4bb.bin",
+    "status": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S135521980300039X",
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 2690,
+    "sha256": "d50ca22f73e31ff4c169863cff943d9455297d721cd2920508aabf529ab24a7c"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.jjimei.2021.100042",
+    "accessed_utc": "2026-11-01T16:06:22.282805+00:00",
+    "local_path": "sources\\urls\\2de01450d968d851.bin",
+    "status": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2667096821000355",
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 2684,
+    "sha256": "8b9ff6e2e0e1264ea673875d39d150c089016cec3e41c85bb286bd0a18e9810b"
+  },
+  {
+    "url": "https://doi.org/10.1073/pnas.1314922110",
+    "accessed_utc": "2026-11-01T16:06:22.416983+00:00",
+    "local_path": "sources\\urls\\d86757e71a1b7fa3.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.1080/0022250X.1971.9989794",
+    "accessed_utc": "2026-11-01T16:06:22.427005+00:00",
+    "local_path": "sources\\urls\\1e6739b693c56c28.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.1093/comjnl/bxab107",
+    "accessed_utc": "2026-11-01T16:06:22.570769+00:00",
+    "local_path": "sources\\urls\\f56069ad4bebe203.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.1145/3158137",
+    "accessed_utc": "2026-11-01T16:06:22.622835+00:00",
+    "local_path": "sources\\urls\\f01c0c1e8d533766.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.1147/rd.53.0183",
+    "accessed_utc": "2026-11-01T16:06:22.635863+00:00",
+    "local_path": "sources\\urls\\65b2dd4e8251647e.bin",
+    "status": 202,
+    "final_url": "https://ieeexplore.ieee.org/document/5392446/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://doi.org/10.1155/2019/3027578",
+    "accessed_utc": "2026-11-01T16:06:22.736012+00:00",
+    "local_path": "sources\\urls\\1c0ecefe3e989988.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.1177/10597123241269740",
+    "accessed_utc": "2026-11-01T16:06:22.812500+00:00",
+    "local_path": "sources\\urls\\7be7a5d1aec8bf44.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.3390/e19050188",
+    "accessed_utc": "2026-11-01T16:06:22.922143+00:00",
+    "local_path": "sources\\urls\\2fca8445968a9c29.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.3390/philosophies11050161",
+    "accessed_utc": "2026-11-01T16:06:22.969958+00:00",
+    "local_path": "sources\\urls\\a548cdbb5d81861d.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.3390/philosophies7020030",
+    "accessed_utc": "2026-11-01T16:06:23.038047+00:00",
+    "local_path": "sources\\urls\\003933e7e7e4bb91.bin",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://fractastical.github.io/morpholib/levin_latent_space_methods_and_provenance.pdf",
+    "accessed_utc": "2026-11-01T16:06:23.040552+00:00",
+    "local_path": "sources\\urls\\79ff7bf5d102b5d9.bin",
+    "status": 200,
+    "final_url": "https://fractastical.github.io/morpholib/levin_latent_space_methods_and_provenance.pdf",
+    "content_type": "application/pdf",
+    "bytes": 3725080,
+    "sha256": "6967b15e1d680968e6dfc4de9fb493f5235f2a757d152fed81a72d8803105117"
+  },
+  {
+    "url": "https://fractastical.github.io/morpholib/thompson_1917_fish_transformations_manuscript.pdf",
+    "accessed_utc": "2026-11-01T16:06:23.245421+00:00",
+    "local_path": "sources\\urls\\aa78a0a4cc87751a.bin",
+    "status": 200,
+    "final_url": "https://fractastical.github.io/morpholib/thompson_1917_fish_transformations_manuscript.pdf",
+    "content_type": "application/pdf",
+    "bytes": 15468408,
+    "sha256": "be1c527cc916bd81819312bbd42e15058844e343ea6851cde207405148e6f652"
+  },
+  {
+    "url": "https://fractastical.github.io/morpholib/zhang_levin_sorting_morphogenesis_manuscript.pdf",
+    "accessed_utc": "2026-11-01T16:06:23.247925+00:00",
+    "local_path": "sources\\urls\\454746250c0f4d38.bin",
+    "status": 200,
+    "final_url": "https://fractastical.github.io/morpholib/zhang_levin_sorting_morphogenesis_manuscript.pdf",
+    "content_type": "application/pdf",
+    "bytes": 2324983,
+    "sha256": "6f2fe9b0e0abaac44baa35d0d3a1687d350fb9e678c557036e769fdb1bef5ddc"
+  },
+  {
+    "url": "https://github.com/Zhangtaining/cell_research",
+    "accessed_utc": "2026-11-01T16:06:23.249429+00:00",
+    "local_path": "sources\\urls\\f966b222b83f13ca.bin",
+    "status": 200,
+    "final_url": "https://github.com/Zhangtaining/cell_research",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 249334,
+    "sha256": "98a4d135f4beec3eded641f2024f38471905b3a730b0d3fcc2382d888a424d0f"
+  },
+  {
+    "url": "https://github.com/fractastical/morpholib",
+    "accessed_utc": "2026-11-01T16:06:23.281980+00:00",
+    "local_path": "sources\\urls\\8d286cf6b9540d3c.bin",
+    "status": 200,
+    "final_url": "https://github.com/fractastical/morpholib",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 565793,
+    "sha256": "2ce2bb17462c13fdbe1f50701335ed8a8ff5b06251d1148a897ac7a7ae4f6380"
+  },
+  {
+    "url": "https://github.com/fractastical/morpholib/blob/main/docs/CAUSAL_EMERGENCE_PRACTITIONERS_GUIDE.md",
+    "accessed_utc": "2026-11-01T16:06:23.459002+00:00",
+    "local_path": "sources\\urls\\fb56cf1760c61403.bin",
+    "status": 200,
+    "final_url": "https://github.com/fractastical/morpholib/blob/main/docs/CAUSAL_EMERGENCE_PRACTITIONERS_GUIDE.md",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 547591,
+    "sha256": "2552f8c5dac3df850ae49a85576282fe7eddfc3b3f38b0a302caaa452aaf6f69"
+  },
+  {
+    "url": "https://github.com/fractastical/morpholib/blob/main/docs/ERRATA_AND_REFEREE_AUDIT_LOG.md",
+    "accessed_utc": "2026-11-01T16:06:23.534122+00:00",
+    "local_path": "sources\\urls\\97fa9627e20cd6ab.bin",
+    "status": 200,
+    "final_url": "https://github.com/fractastical/morpholib/blob/main/docs/ERRATA_AND_REFEREE_AUDIT_LOG.md",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 328492,
+    "sha256": "3955fea36d29f4051f1b7bcce54d3523089757635c799079848a1ca476baa1d6"
+  },
+  {
+    "url": "https://github.com/fractastical/project-delphi-ontology",
+    "accessed_utc": "2026-11-01T16:06:23.578181+00:00",
+    "local_path": "sources\\urls\\f5688c9ba4f43278.bin",
+    "status": 200,
+    "final_url": "https://github.com/fractastical/project-delphi-ontology",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 350454,
+    "sha256": "2d4049b80586a0ebb7ac036cfde96e044e54ca68ac4e15b02ddedf334bd52d09"
+  },
+  {
+    "url": "https://lexfridman.com/michael-levin-2-transcript/",
+    "accessed_utc": "2026-11-01T16:06:23.643775+00:00",
+    "local_path": "sources\\urls\\08f3c113c61ea752.bin",
+    "status": 200,
+    "final_url": "https://lexfridman.com/michael-levin-2-transcript/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 413118,
+    "sha256": "bede9c721173033063fa7dff2b0e2cb36bac5b7211321bc19a4516d1c95be3b4"
+  },
+  {
+    "url": "https://people.csail.mit.edu/nickolai/papers/wang-stack.pdf",
+    "accessed_utc": "2026-11-01T16:06:23.730892+00:00",
+    "local_path": "sources\\urls\\a0a1629fee4daf75.bin",
+    "status": 200,
+    "final_url": "https://people.csail.mit.edu/nickolai/papers/wang-stack.pdf",
+    "content_type": "application/pdf",
+    "bytes": 245074,
+    "sha256": "d779d713811d66d5bd499d2bfa43d87ea214834f3e5f0c45c92d2ab3753cf1c8"
+  },
+  {
+    "url": "https://scienceandculture.com/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/",
+    "accessed_utc": "2026-11-01T16:06:23.785958+00:00",
+    "local_path": "sources\\urls\\5cde738383d38f9f.bin",
+    "status": 200,
+    "final_url": "https://scienceandculture.com/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 166432,
+    "sha256": "e698acf393b50ec845c645923acfb1738d67a5633cc4a1875e208ba9a8ad7f32"
+  },
+  {
+    "url": "https://scienceandculture.com/2025/05/sternbergs-immaterial-genome-intelligent-design-in-the-present-tense/",
+    "accessed_utc": "2026-11-01T16:06:23.840571+00:00",
+    "local_path": "sources\\urls\\6da94c7d07adfc20.bin",
+    "status": 200,
+    "final_url": "https://scienceandculture.com/2025/05/sternbergs-immaterial-genome-intelligent-design-in-the-present-tense/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 159362,
+    "sha256": "96e1e8f2056d40d4ec39f3b40762c26f5f3c82057c20705431609048f1ccb082"
+  },
+  {
+    "url": "https://scienceandculture.com/2025/12/science-purpose-and-michael-levin-the-discussion-evolves/",
+    "accessed_utc": "2026-11-01T16:06:23.977786+00:00",
+    "local_path": "sources\\urls\\d33ebe7a1ab3f4e7.bin",
+    "status": 200,
+    "final_url": "https://scienceandculture.com/2025/12/science-purpose-and-michael-levin-the-discussion-evolves/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 161357,
+    "sha256": "076221d79faaf5c4a01b675570e2638134017681f65c08c5330655929a4d1767"
+  },
+  {
+    "url": "https://scienceandculture.com/2026/01/michael-levin-and-the-philosophy-of-intelligent-design/",
+    "accessed_utc": "2026-11-01T16:06:23.986305+00:00",
+    "local_path": "sources\\urls\\fde1cb91f44821f9.bin",
+    "status": 200,
+    "final_url": "https://scienceandculture.com/2026/01/michael-levin-and-the-philosophy-of-intelligent-design/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 218554,
+    "sha256": "bc2b054326ead750cdd3d02c14a2f07a4bebdd73607adfeac7a04b75bd0e8402"
+  },
+  {
+    "url": "https://scienceandculture.com/2026/02/platonic-minds-how-stuart-burgesss-ultimate-engineering-challenges-maverick-biologist-michael-levin/",
+    "accessed_utc": "2026-11-01T16:06:24.005396+00:00",
+    "local_path": "sources\\urls\\0712409d38113613.bin",
+    "status": 200,
+    "final_url": "https://scienceandculture.com/2026/02/platonic-minds-how-stuart-burgesss-ultimate-engineering-challenges-maverick-biologist-michael-levin/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 158762,
+    "sha256": "6d051d84cd883f148793fd247f0ebde9f9e9872a50be822365886eeba8f92d3e"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IIeyuI4ijkcMichael",
+    "accessed_utc": "2026-11-01T16:06:24.064669+00:00",
+    "local_path": "sources\\urls\\76793e630f353cb6.bin",
+    "status": 200,
+    "final_url": "https://www.youtube.com/watch?v=IIeyuI4ijkcMichael",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 1468233,
+    "sha256": "27da9d6ff3e304fdf563655e49d6e823403aae9f6db0abcea27a1f7502ffcf14"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yIvT2Gf1_A0Unlocking",
+    "accessed_utc": "2026-11-01T16:06:24.108777+00:00",
+    "local_path": "sources\\urls\\4ebebf465379227b.bin",
+    "status": 200,
+    "final_url": "https://www.youtube.com/watch?v=yIvT2Gf1_A0Unlocking",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 1258801,
+    "sha256": "b62ec5c4c5cce3618b2e40d12cb75769c2e7b8322e2c0d184df8f12126a6c5ed"
+  }
+]

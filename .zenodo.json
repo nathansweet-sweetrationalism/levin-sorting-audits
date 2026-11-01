@@ -1,0 +1,91 @@
+{
+ "upload_type": "software",
+ "title": "Rerunning the Bubble-Sort Debate: Two AI audits of the Dietz and Sweet articles on Zhang, Goldstein & Levin's self-sorting arrays",
+ "version": "1.0.0",
+ "publication_date": "2026-11-01",
+ "language": "eng",
+ "creators": [
+  {
+   "name": "Sweet, Nathan",
+   "affiliation": "Independent researcher (Sweet Rationalism)",
+   "orcid": "0009-0005-2364-0312"
+  }
+ ],
+ "description": "<p>Two separately run, machine-checkable audits of the mathematics, code, citations and quotations in Joel Dietz's <em>Why Michael Levin Is 77.6++% Right on Platonic Ingress</em> (text supplied 2026-11-01; public draft in fractastical/morpholib @ 35d30f4) and Nathan Sweet's <em>Why Michael Levin's Bubble Sort “Revelation” Is Misunderstood</em> (revised 2026-10-13 and 2026-10-31), with a cross-audit article, <em>Rerunning the Bubble-Sort Debate</em> (CROSS_AUDIT.md).</p><p>Contents: runs of the original threaded code of Zhang, Goldstein &amp; Levin (2025) at commit 1fd2bd5; exact combinatorics in Python and Node.js; Lean 4 proofs; replays of Dietz's sequential model at morpholib bfe377c and 35d30f4; DOI resolution of every cited reference; quotation checks against pinned sources; FishShapes and wing-data rebuilds; nanopublication signature checks; claim ledgers; SHA-256 manifests; a GitHub Actions workflow that reruns the deterministic checks.</p><p>The audits were performed with AI coding agents (Claude Opus 5.5 in Claude Cowork; OpenAI Codex with GPT-6.1 Sol, as reported by the author), which are tools, not authors. Agreement between them is not independent scientific replication. Third-party full texts and unlicensed upstream code are not redistributed; each removal is listed with its SHA-256.</p>",
+ "license": "cc-by-4.0",
+ "notes": "Code in this record is licensed MIT (LICENSE); text, reports and results CC BY 4.0 (LICENSE-CC-BY-4.0.txt). Third-party material and licences: THIRD_PARTY_NOTICES.md. Integrity: run verify_public_release.py.",
+ "keywords": [
+  "reproducibility",
+  "research software audit",
+  "sorting algorithms",
+  "morphogenesis",
+  "basal cognition",
+  "Michael Levin",
+  "Platonic space",
+  "Lean 4",
+  "computational reproducibility",
+  "AI-assisted audit"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "https://sweetrationalism.com/articles/physics/computer-science/why-michael-levins-bubble-sort-revelation-is-misunderstood-classical-algorithm-theory-meets-god-of-the-gaps-argument/",
+   "relation": "isSupplementTo",
+   "scheme": "url",
+   "resource_type": "publication-article"
+  },
+  {
+   "identifier": "10.1177/10597123241269740",
+   "relation": "references",
+   "scheme": "doi",
+   "resource_type": "publication-article"
+  },
+  {
+   "identifier": "arXiv:2401.05375",
+   "relation": "references",
+   "scheme": "arxiv",
+   "resource_type": "publication-preprint"
+  },
+  {
+   "identifier": "10.31234/osf.io/5g2xj_v3",
+   "relation": "references",
+   "scheme": "doi",
+   "resource_type": "publication-preprint"
+  },
+  {
+   "identifier": "10.3390/philosophies11050161",
+   "relation": "references",
+   "scheme": "doi",
+   "resource_type": "publication-article"
+  },
+  {
+   "identifier": "10.5281/zenodo.23680705",
+   "relation": "references",
+   "scheme": "doi",
+   "resource_type": "software"
+  },
+  {
+   "identifier": "https://github.com/fractastical/morpholib/tree/35d30f4cfd5397ee1ed769f96494e018603e293d",
+   "relation": "references",
+   "scheme": "url",
+   "resource_type": "software"
+  },
+  {
+   "identifier": "https://github.com/Zhangtaining/cell_research/tree/1fd2bd5921c1f6b423a71f691d5189106a8a1020",
+   "relation": "references",
+   "scheme": "url",
+   "resource_type": "software"
+  },
+  {
+   "identifier": "10.5061/dryad.vt4b8gtvf",
+   "relation": "references",
+   "scheme": "doi",
+   "resource_type": "dataset"
+  },
+  {
+   "identifier": "10.1594/PANGAEA.937651",
+   "relation": "references",
+   "scheme": "doi",
+   "resource_type": "dataset"
+  }
+ ]
+}

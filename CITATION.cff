@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use or discuss these audits, please cite them as below."
+type: software
+title: "Rerunning the Bubble-Sort Debate: Two AI audits of the Dietz and Sweet articles on Zhang, Goldstein & Levin's self-sorting arrays"
+version: 1.0.0
+date-released: 2026-11-01
+authors:
+  - family-names: Sweet
+    given-names: Nathan
+    orcid: "https://orcid.org/0009-0005-2364-0312"
+    affiliation: "Independent researcher (Sweet Rationalism)"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/nathansweet-sweetrationalism/levin-sorting-audits"
+url: "https://sweetrationalism.com/articles/physics/computer-science/why-michael-levins-bubble-sort-revelation-is-misunderstood-classical-algorithm-theory-meets-god-of-the-gaps-argument/"
+abstract: >-
+  Two separately run, machine-checkable audits of the mathematics, code, citations and quotations in
+  Joel Dietz's "Why Michael Levin Is 77.6++% Right on Platonic Ingress" and Nathan Sweet's "Why Michael
+  Levin's Bubble Sort 'Revelation' Is Misunderstood", including runs of the original threaded code of
+  Zhang, Goldstein & Levin (2025), exact combinatorics, Lean 4 proofs, DOI resolution and a cross-audit
+  article. The audits were performed with AI coding agents (Claude Opus 5.5 in Claude Cowork; OpenAI
+  Codex with GPT-6.1 Sol), which are tools, not authors.
+keywords:
+  - reproducibility
+  - audit
+  - sorting algorithms
+  - morphogenesis
+  - basal cognition
+  - Michael Levin
+  - Lean 4
+  - research software
+references:
+  - type: article
+    title: "Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence"
+    authors:
+      - family-names: Zhang
+        given-names: Taining
+      - family-names: Goldstein
+        given-names: Adam
+      - family-names: Levin
+        given-names: Michael
+    journal: "Adaptive Behavior"
+    volume: 33
+    issue: 1
+    start: 25
+    end: 54
+    year: 2025
+    doi: 10.1177/10597123241269740
+  - type: article
+    title: "Ingressing Minds: Causal Patterns Beyond Genetics and Environment in Natural, Synthetic, and Hybrid Embodiments"
+    authors:
+      - family-names: Levin
+        given-names: Michael
+    year: 2025
+    doi: 10.31234/osf.io/5g2xj_v3
+  - type: software
+    title: "MorphoEval: Nanopublication-Backed Evaluation of Morphology Implementations"
+    authors:
+      - family-names: Dietz
+        given-names: Joel
+    doi: 10.5281/zenodo.23680705
+    repository-code: "https://github.com/fractastical/morpholib"
+  - type: software
+    title: "cell_research (original sorting-cell implementation)"
+    authors:
+      - family-names: Zhang
+        given-names: Taining
+    repository-code: "https://github.com/Zhangtaining/cell_research"
+    commit: 1fd2bd5921c1f6b423a71f691d5189106a8a1020

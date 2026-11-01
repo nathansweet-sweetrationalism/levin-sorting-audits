@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://sweetrationalism.com/articles/physics/computer-science/why-michael-levins-bubble-sort-revelation-is-misunderstood-classical-algorithm-theory-meets-god-of-the-gaps-argument/",
+    "final_url": "https://sweetrationalism.com/articles/physics/computer-science/why-michael-levins-bubble-sort-revelation-is-misunderstood-classical-algorithm-theory-meets-god-of-the-gaps-argument/",
+    "path": "sources\\primary\\sweet_live.html",
+    "status": 200,
+    "sha256": "ade06b66872655233ff120423a87b8fae2f8dc29e94df701b1302a88cd714827"
+  },
+  {
+    "url": "https://calteches.library.caltech.edu/51/02/CargoCult.htm",
+    "final_url": "https://calteches.library.caltech.edu/51/02/CargoCult.htm",
+    "path": "sources\\primary\\feynman.html",
+    "status": 200,
+    "sha256": "1a58551e7dd962800ec8f188caae643ce3679ce18fe1172844ccbcbf80f560d4"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.08363",
+    "final_url": "https://arxiv.org/abs/2005.08363",
+    "path": "sources\\primary\\compiler_brown.html",
+    "status": 200,
+    "sha256": "5cf633a61c79525e2e489e52a273c270e7cdbf1610a0838cdaa66b20cb23701f"
+  },
+  {
+    "url": "https://arxiv.org/abs/1711.03050",
+    "final_url": "https://arxiv.org/abs/1711.03050",
+    "path": "sources\\primary\\compiler_fluckiger.html",
+    "status": 200,
+    "sha256": "f01b6a5234df4e08e265e7c22f461b51ac155308b2a5b04bbd551f941179e34e"
+  },
+  {
+    "url": "https://arxiv.org/abs/1802.09845",
+    "final_url": "https://arxiv.org/abs/1802.09845",
+    "path": "sources\\primary\\compiler_georgiou.html",
+    "status": 200,
+    "sha256": "114fdd8f628a8acc2047991234a0d75317a6d8379c905842787152482c544587"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2405.07987",
+    "final_url": "https://arxiv.org/pdf/2405.07987",
+    "path": "sources\\primary\\platonic_representation.pdf",
+    "status": 200,
+    "sha256": "fa9b7cc99c1e852960733b2ac89069bf448b2451bd198b4fc2d93aedb533e858"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2510.22954",
+    "final_url": "https://arxiv.org/pdf/2510.22954",
+    "path": "sources\\primary\\hivemind.pdf",
+    "status": 200,
+    "sha256": "c1ac82916d2f76aa501e96a50466030d432c67eec42fdb8ddc11344f83a152fe"
+  },
+  {
+    "url": "https://x.com/drmichaellevin/status/2114794440896487530",
+    "final_url": "https://x.com/drmichaellevin/status/2114794440896487530",
+    "path": "sources\\primary\\levin_post.html",
+    "status": 200,
+    "sha256": "ecbf591b46fe30c7c8f7faeaf8dac3eb9ba3685bbae0b5600d6723c539cd6e6f"
+  },
+  {
+    "url": "https://teapaw.org/drmichaellevin/status/2114794440896487530",
+    "final_url": "https://teapaw.org/drmichaellevin/status/2114794440896487530",
+    "path": "sources\\primary\\levin_post_mirror.html",
+    "status": 200,
+    "sha256": "ad7ac9d66d46e996dff9f303a08a2bb29a5aff38b3ab79ef7c64c6842a7025cb"
+  },
+  {
+    "url": "https://www.gutenberg.org/ebooks/55264",
+    "final_url": "https://www.gutenberg.org/ebooks/55264",
+    "path": "sources\\primary\\thompson1917_catalog.html",
+    "status": 200,
+    "sha256": "2d80d68e3116657dd556aceaabdec7e9d0141f1717e3ac3785897facc456bf98"
+  },
+  {
+    "url": "https://plato.stanford.edu/entries/scientific-reduction/",
+    "final_url": "https://plato.stanford.edu/entries/scientific-reduction/",
+    "path": "sources\\primary\\sep_reduction.html",
+    "status": 200,
+    "sha256": "210a2e9aa244fae2bc1d0d23f7040b81dd24435f4f5993ce350b7842ddbfbd69"
+  },
+  {
+    "url": "https://plato.stanford.edu/entries/reduction-biology/",
+    "final_url": "https://plato.stanford.edu/entries/reduction-biology/",
+    "path": "sources\\primary\\sep_biology.html",
+    "status": 200,
+    "sha256": "217c5f07035bc3e73df88f58d84cc2ee45feca6dfb758eb266201d3030e1a239"
+  }
+]

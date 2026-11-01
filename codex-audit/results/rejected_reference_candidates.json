@@ -1,0 +1,44 @@
+[
+  {
+    "candidate": {
+      "doi": "10.3233/SW-140160",
+      "purpose": "Trusty content-addressed identifiers",
+      "title": [
+        "A logical characterisation of SPARQL federation"
+      ],
+      "author": [
+        {
+          "given": "Audun",
+          "family": "Stolpe",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Norwegian Defence Research Establishment (FFI), Postboks 25, 2027 Kjeller, Norway. E-mail:\u00a0audun.stolpe@ffi.no"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            11,
+            13
+          ]
+        ]
+      },
+      "container": [
+        "Semantic Web"
+      ],
+      "metadata_status": "verified",
+      "reading_scope": "registry metadata; separately saved full texts identified in access register"
+    },
+    "reason": "DOI candidate rejected because registry title is about SPARQL, not content-addressed artifacts; never use it as authority for trusty URIs."
+  }
+]

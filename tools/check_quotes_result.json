@@ -1,0 +1,161 @@
+{
+ "article": "CROSS_AUDIT.md",
+ "results": [
+  {
+   "quote": "3.3× to 9.3× faster",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "Delayed gratification",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "Every single swap",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "Joel quotes that question accurately elsewhere",
+   "source": "Sweet, bubble-sort article, October 31, 2026 text as retrieved by the Codex audit",
+   "status": "FOUND"
+  },
+  {
+   "quote": "No error-handling code was added",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "Nor is replaying his sequential model an independent replication of the original threaded implementation",
+   "source": "Sweet, bubble-sort article, October 31, 2026 text as retrieved by the Codex audit",
+   "status": "FOUND"
+  },
+  {
+   "quote": "Radical Platonism and Radical Empiricism",
+   "source": "Sweet, Religion with a Pipette (October 4, modified October 7, 2026)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "Revelation",
+   "status": "not a quotation",
+   "reason": "part of the title of Sweet's article"
+  },
+  {
+   "quote": "Right",
+   "status": "not a quotation",
+   "reason": "word from the title of Dietz's article, contrasted with the repository draft title"
+  },
+  {
+   "quote": "Spontaneous algotype clustering",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "The critical thing is that we did not add steps to the algorithm to check whether a swap had been completed, or to do specific things if an operation failed",
+   "source": "Levin, Ingressing Minds, PsyArXiv v3, doi:10.31234/osf.io/5g2xj_v3",
+   "status": "FOUND"
+  },
+  {
+   "quote": "The inspected code version postdates the paper’s first online publication",
+   "source": "Sweet, bubble-sort article, October 31, 2026 text as retrieved by the Codex audit",
+   "status": "FOUND"
+  },
+  {
+   "quote": "Validated",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "a sphere manages one",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "all 14 of the empirical curves",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "confirmation requires predeclared or held-out tests",
+   "source": "Sweet, bubble-sort article, October 31, 2026 text as retrieved by the Codex audit",
+   "status": "FOUND"
+  },
+  {
+   "quote": "copying the single nearest relative won by 4%",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "do not have a known physical basis but they do have structure and information content",
+   "source": "Levin, Ingressing Minds, PsyArXiv v3, doi:10.31234/osf.io/5g2xj_v3",
+   "status": "FOUND"
+  },
+  {
+   "quote": "every swap between neighbours",
+   "status": "not a quotation",
+   "reason": "the audit's own proposed wording"
+  },
+  {
+   "quote": "formally proved in Lean 4 Theorem 2",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "gaps in our reduced equations",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "independent",
+   "status": "not a quotation",
+   "reason": "scare quotes in a section heading"
+  },
+  {
+   "quote": "kinematic phase separation",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "no cell walks around the wall",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "suggests that the efficiency hypothesis can be the explanation",
+   "source": "Zhang, Goldstein & Levin, arXiv:2401.05375v1",
+   "status": "FOUND"
+  },
+  {
+   "quote": "temporarily go against their gradient to recoup gains later",
+   "source": "Levin, Ingressing Minds, PsyArXiv v3, doi:10.31234/osf.io/5g2xj_v3",
+   "status": "FOUND"
+  },
+  {
+   "quote": "temporarily going against its gradient to recoup greater gains later",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "the Thompson predictor beat the clade consensus",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "the frozen cell is a brick wall",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "ΔI = −1 on every single swap",
+   "source": "Dietz public draft + claims companion, fractastical/morpholib @ 35d30f4 (MIT)",
+   "status": "FOUND"
+  },
+  {
+   "quote": "…missing evidence.petition does not supply…",
+   "source": "Sweet, bubble-sort article as pasted to both audits on November 1, 2026",
+   "status": "FOUND"
+  }
+ ],
+ "all_ok": true
+}

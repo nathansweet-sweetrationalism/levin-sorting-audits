@@ -1,0 +1,3 @@
+'MathOfBiology.Loop_085.procrustes_lyapunov_strict_decrease' depends on axioms: [propext]
+'MathOfBiology.Loop_085.open_loop_divergence_and_mmp_arrest' depends on axioms: [propext, Quot.sound]
+'MathOfBiology.Loop_085.bilateral_symmetry_restoration_regimes' depends on axioms: [propext, Quot.sound]

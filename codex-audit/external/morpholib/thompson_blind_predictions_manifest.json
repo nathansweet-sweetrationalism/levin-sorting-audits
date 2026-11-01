@@ -1,0 +1,19 @@
+{
+  "registered_on": "2026-10-22",
+  "git_commit_at_generation": "7889d9396de0908e39f037ecdc199328d6cf3af9",
+  "files": {
+    "thompson_blind_predictions_registered.json": "2e41cb1aaf1b21035f7d4970178861ee0ad6698a5b31ba35d8f1b87bca03b38b",
+    "thompson_blind_predictions_registered.csv": "1d50205ffc2ed9954e707eba2e3db6aaa4871620df6cecf9e4cf766fe3046171"
+  },
+  "n_targets": 10888,
+  "hypotheses": [
+    "H1",
+    "H2",
+    "H3",
+    "H4",
+    "H5",
+    "H6",
+    "H7"
+  ],
+  "note": "Hashes are recorded in a nanopublication at registration time; score_blind_predictions.py refuses to run if they do not match."
+}

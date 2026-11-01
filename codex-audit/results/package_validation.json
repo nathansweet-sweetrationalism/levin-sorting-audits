@@ -1,0 +1,169 @@
+{
+  "scope": "Offline schema, provenance-byte and result-consistency validation; not universal scientific validation. RO-Crate graph checked minimally, not independently certified against an entire profile.",
+  "checks": [
+    {
+      "check": "claim_schema",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "unique_claim_ids",
+      "pass": true,
+      "detail": 64
+    },
+    {
+      "check": "all_claim_evidence_files_exist",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "input_line_locators",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "csv_json_claim_parity",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen_input_hashes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "morpholib_git_blob_bytes_match",
+      "pass": true,
+      "detail": {
+        "blob_files_checked": 1236,
+        "mismatches": [],
+        "unindexed_files": [],
+        "tree_truncated": false
+      }
+    },
+    {
+      "check": "cell_research_git_blob_bytes_match",
+      "pass": true,
+      "detail": {
+        "blob_files_checked": 57,
+        "mismatches": [],
+        "unindexed_files": [],
+        "tree_truncated": false
+      }
+    },
+    {
+      "check": "finite_size_baseline",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "adjacent_error_counterexample",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "nonlocal_equality_counterexample",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "historical_run_count",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "saved_endpoint_records_and_persistence",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "historical_group_means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "exact_conditional_tail_from_integer_distribution",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "fresh_sensitivity_120_runs",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "fish_direction_and_test_distinguished",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all_fish_observations_and_locks",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "fish_full_registered_decisions",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "wing_scope_and_failed_tests",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "literal_verdicts_not_acceptance_rules",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "additional_kernel_runs_clean",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "sorting_axiom_log_has_no_sorry",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "five_crypto_checks_valid",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "crypto_client_negative_control_exposes_false_positive",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "direct_rsa_positive_and_negative_controls",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "four_wrong_doi_pairings_preserved",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "upstream_failure_logs_retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "crate_minimal_graph_present",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "sha256_manifest",
+      "pass": true,
+      "detail": {
+        "files": 1677,
+        "failures": []
+      }
+    }
+  ],
+  "passed": true
+}

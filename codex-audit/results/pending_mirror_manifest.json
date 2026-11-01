@@ -1,0 +1,20 @@
+{
+  "scope": "Local preservation only. No authenticated ChatGPT Library upload surface was available and no upload is asserted.",
+  "status": "pending_destination_and_authenticated_upload",
+  "locally_preserved_primary_files": [
+    "sources/primary/dietz_fish.pdf",
+    "sources/primary/dietz_methods.pdf",
+    "sources/primary/dietz_sorting.pdf",
+    "sources/primary/durant_2017.pdf",
+    "sources/primary/hivemind.pdf",
+    "sources/primary/ingressing.pdf",
+    "sources/primary/platonic_representation.pdf",
+    "sources/primary/sorting_arxiv.pdf"
+  ],
+  "required_before_any_public_mirror": [
+    "Confirm destination and access boundary",
+    "Check third-party license and applicable redistribution rights",
+    "Upload exact bytes and verify receipt/hash",
+    "Retain access/read status and version/supersession links"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "scope": "Installed nanopub2.2.2 source retained to document negative-control failure;third-party source,not modified",
+  "sha256": "f578443cfb36c2f5ca490d67b54c65945a0e36d10d6cd115386a63e0bb5229ae",
+  "cryptographic_acceptance": "Legacy PyCryptodome PKCS1_v1_5 returns bool;new pkcs1_15 raises on failure; direct checking uses both."
+}

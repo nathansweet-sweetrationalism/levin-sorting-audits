@@ -1,0 +1,18 @@
+{
+ "n_species": 791,
+ "n_genera_ge3": 62,
+ "raw_cos": 0.42887269518071036,
+ "pca4_cos": 0.4097772738739585,
+ "random4_cos_median": 0.8560292346001144,
+ "random4_cos_p95": 0.9898541282715124,
+ "random4_frac_ge_0.935": 0.3,
+ "pca7_cos": 0.42456093575689086,
+ "random7_cos_median": 0.7845283034114403,
+ "random7_cos_p95": 0.9791218929306692,
+ "random7_frac_ge_0.935": 0.2,
+ "pca8_cos": 0.42656616365749717,
+ "random8_cos_median": 0.7276224648285798,
+ "random8_cos_p95": 0.9729461689411263,
+ "random8_frac_ge_0.935": 0.165,
+ "dietz_thompson8_cos_reported": 0.9352
+}

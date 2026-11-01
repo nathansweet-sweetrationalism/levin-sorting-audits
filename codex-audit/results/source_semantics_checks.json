@@ -1,0 +1,63 @@
+{
+  "exact_upstream_insertion_isolated": {
+    "prefix_values": [
+      3,
+      1
+    ],
+    "frozen_index": 1,
+    "with_FREEZE_branch": true,
+    "without_FREEZE_branch": false
+  },
+  "upstream_swap_calls": [
+    "int",
+    "self.status_probe.record_swap",
+    "self.take_snapshot",
+    "self.status_probe.record_sorting_step",
+    "self.export_steps.append",
+    "self.status_probe.record_cell_type",
+    "self.status_probe.count_frozen_cell_attempt"
+  ],
+  "swap_calls_update": false,
+  "reverse_freeze_prefix": {
+    "source_returns": false,
+    "surrogate_returns": true,
+    "prefix": [
+      50,
+      3
+    ],
+    "frozen_index": 0,
+    "meaning": "Primary resets to -1 even in decreasing direction; surrogate resets to +infinity."
+  },
+  "E_non_lumpability_witness": {
+    "same_E": 1,
+    "first": {
+      "state": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "macro_probs": {
+        "0": 1.0
+      }
+    },
+    "second": {
+      "state": [
+        1,
+        3,
+        4,
+        2
+      ],
+      "macro_probs": {
+        "1": 1.0
+      }
+    }
+  },
+  "thermal_voltage": {
+    "at_298K_mV": 25.679653121600303,
+    "article_model_claim_mV": 25.85,
+    "exp40_over_25_85": 4.699183552683652,
+    "model_claim_ratio": 4.7002,
+    "interpretation": "Approximation 4.7 reasonable, but thermal voltage 25.85mV is about 300K, not 298K. Conductance cancellation requires positive coupling and zero-flux assumptions."
+  }
+}

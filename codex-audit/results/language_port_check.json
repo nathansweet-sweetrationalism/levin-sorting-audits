@@ -1,0 +1,13 @@
+{
+  "fresh_python_vs_fresh_node_vs_archived_cpp_final_arrays": {
+    "bubble": true,
+    "insertion": true,
+    "selection": true
+  },
+  "cells_checked": 126,
+  "cpp_node_benchmark_outputs_match": true,
+  "full_time_traces_compared": false,
+  "cpp_recompiled": false,
+  "upstream_source_dynamics_equivalence_proved": false,
+  "windows_cli_note": "The original ES-module direct-entry guard silently skipped work on Windows. A separate pathname-normalizing wrapper invoked the unmodified module."
+}

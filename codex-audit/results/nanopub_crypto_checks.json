@@ -1,0 +1,47 @@
+[
+  {
+    "artifact_code": "RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk",
+    "client_version": "2.2.2",
+    "local_path": "sources\\nanopub_registry\\RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk.trig",
+    "source_uri": "https://w3id.org/np/RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk",
+    "trusty_hash_valid": true,
+    "rsa_signature_valid": true,
+    "rdf_structure_valid": true
+  },
+  {
+    "artifact_code": "RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8",
+    "client_version": "2.2.2",
+    "local_path": "sources\\nanopub_registry\\RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8.trig",
+    "source_uri": "https://w3id.org/np/RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8",
+    "trusty_hash_valid": true,
+    "rsa_signature_valid": true,
+    "rdf_structure_valid": true
+  },
+  {
+    "artifact_code": "RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw",
+    "client_version": "2.2.2",
+    "local_path": "sources\\nanopub_registry\\RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw.trig",
+    "source_uri": "https://w3id.org/morpholib/thompson/np/blind-preregistration-2026-10-22/RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw",
+    "trusty_hash_valid": true,
+    "rsa_signature_valid": true,
+    "rdf_structure_valid": true
+  },
+  {
+    "artifact_code": "RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI",
+    "client_version": "2.2.2",
+    "local_path": "sources\\nanopub_registry\\RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI.trig",
+    "source_uri": "https://w3id.org/morpholib/thompson/np/blind-test-outcome-2026-10-22/RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI",
+    "trusty_hash_valid": true,
+    "rsa_signature_valid": true,
+    "rdf_structure_valid": true
+  },
+  {
+    "artifact_code": "RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE",
+    "client_version": "2.2.2",
+    "local_path": "sources\\nanopub_registry\\RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE.trig",
+    "source_uri": "https://w3id.org/np/RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE",
+    "trusty_hash_valid": true,
+    "rsa_signature_valid": true,
+    "rdf_structure_valid": true
+  }
+]

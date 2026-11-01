@@ -1,0 +1,45 @@
+{
+  "raw_data_md5": "122b495274d0167c5447db104c7acbfe",
+  "registered_file_hash_checks": {
+    "thompson_blind_predictions_registered.json": true,
+    "thompson_blind_predictions_registered.csv": true
+  },
+  "raw_observations_and_errors_match_all_saved_species": true,
+  "n_scored": 5180,
+  "n_specimens": 16523,
+  "full30_vs_consensus": {
+    "n": 1122,
+    "median_model": 0.038344403084875356,
+    "median_baseline": 0.09270605517290162,
+    "p_one_sided_species_wilcoxon": 1.0490516938173743e-103
+  },
+  "full30_vs_nearest": {
+    "median_model": 0.038344403084875356,
+    "median_nearest": 0.0399934722987515,
+    "ratio": 0.9587665406604962,
+    "relative_lower_error_pct": 4.123345933950384,
+    "p_one_sided_species_wilcoxon": 0.0606819870148897,
+    "pass_alpha_0_01": false
+  },
+  "thompson7_vs_consensus": {
+    "median_model": 0.0587579992409486,
+    "median_consensus": 0.09270605517290162,
+    "p_one_sided_species_wilcoxon": 7.383143638662238e-81
+  },
+  "exploratory_family_mean_differences_full30_minus_nearest": {
+    "families": 54,
+    "mean_difference": -0.007302030564014337,
+    "p_one_sided_wilcoxon_family": 0.2805553920172919,
+    "limitation": "coarse sensitivity only; full phylogenetic dependence not removed"
+  },
+  "reported_H1_to_H7_pass_cal": {
+    "H1_cal": true,
+    "H2_cal": false,
+    "H3_cal": true,
+    "H4_cal": false,
+    "H5_cal": false,
+    "H6_cal": true,
+    "H7_cal": true
+  },
+  "calibration_boundary": "Error reconstruction uses the repository-supplied fitted calibration coefficients; those coefficients and original shape predictions were not independently re-estimated in this check."
+}

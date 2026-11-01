@@ -1,0 +1,35 @@
+{
+ "final_agg_mean_by_C": {
+  "1": 0.4833,
+  "2": 0.4767,
+  "4": 0.5408,
+  "8": 0.6342,
+  "10": 0.6592,
+  "20": 0.6558,
+  "40": 0.6233
+ },
+ "final_agg_sem_by_C": {
+  "1": 0.015,
+  "2": 0.0154,
+  "4": 0.0127,
+  "8": 0.0165,
+  "10": 0.0128,
+  "20": 0.0163,
+  "40": 0.0135
+ },
+ "duplicate_runs": 90,
+ "duplicate_runs_with_equal_key_reversal": 90,
+ "runs_total": 105,
+ "runs_with_zero_continuation_swaps": 105,
+ "C2_stable_sort_benchmark_mean_A": 0.5075,
+ "C2_within_block_conditional_mean_A_exact": 0.5029166666666667,
+ "C2_observed_total_H": 572,
+ "C2_conditional_expected_total_H": 603.5,
+ "C10_stable_sort_benchmark_mean_A": 0.5033333333333333,
+ "C10_within_block_conditional_mean_A_exact": 0.48511666666666664,
+ "C10_observed_total_H": 791,
+ "C10_conditional_expected_total_H": 582.14,
+ "C2_exact_mean_total_H": 603.5,
+ "C2_exact_two_sided_distance_tail_p": 0.002006748976705476,
+ "C2_monte_carlo_p_100k": 0.00183
+}

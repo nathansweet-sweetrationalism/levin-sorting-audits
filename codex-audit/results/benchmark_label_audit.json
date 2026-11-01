@@ -1,0 +1,72 @@
+[
+  {
+    "benchmark": "fig4a_bubble_swaps",
+    "status_expr": "'VERIFIED'",
+    "line": 265
+  },
+  {
+    "benchmark": "fig4a_insertion_swaps",
+    "status_expr": "'VERIFIED'",
+    "line": 275
+  },
+  {
+    "benchmark": "fig4a_selection_swap_ratio",
+    "status_expr": "'VERIFIED'",
+    "line": 285
+  },
+  {
+    "benchmark": "fig4b_bubble_step_speedup",
+    "status_expr": "'VERIFIED'",
+    "line": 295
+  },
+  {
+    "benchmark": "fig4b_insertion_step_speedup",
+    "status_expr": "'VERIFIED'",
+    "line": 305
+  },
+  {
+    "benchmark": "fig4b_selection_step_overhead",
+    "status_expr": "'VERIFIED'",
+    "line": 315
+  },
+  {
+    "benchmark": "fig5c_selection_immovable_f3",
+    "status_expr": "'VERIFIED'",
+    "line": 325
+  },
+  {
+    "benchmark": "fig5c_bubble_immovable_f3",
+    "status_expr": "'VERIFIED'",
+    "line": 335
+  },
+  {
+    "benchmark": "fig7a_bubble_dg_f3",
+    "status_expr": "'VERIFIED'",
+    "line": 345
+  },
+  {
+    "benchmark": "fig7b_insertion_dg_mean",
+    "status_expr": "'VERIFIED'",
+    "line": 355
+  },
+  {
+    "benchmark": "fig8a_unique_chimera_peak_agg",
+    "status_expr": "'VERIFIED'",
+    "line": 365
+  },
+  {
+    "benchmark": "fig8d_duplicate_chimera_final_agg",
+    "status_expr": "'VERIFIED'",
+    "line": 375
+  },
+  {
+    "benchmark": "fig9_cross_purpose_bi_sortedness",
+    "status_expr": "'VERIFIED'",
+    "line": 385
+  },
+  {
+    "benchmark": "fig9_cross_purpose_hierarchy",
+    "status_expr": "'VERIFIED'",
+    "line": 395
+  }
+]

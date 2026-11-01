@@ -1,0 +1,83 @@
+{
+  "summary": [
+    {
+      "C": 1,
+      "runs": 15,
+      "mean_A": 0.48333333333333334,
+      "mean_stable_A": 0.48333333333333334,
+      "mean_conditional_A": 0.48333333333333334,
+      "reversed": 0,
+      "continued_swaps": 0,
+      "final_errors": 0
+    },
+    {
+      "C": 2,
+      "runs": 15,
+      "mean_A": 0.4766666666666667,
+      "mean_stable_A": 0.5075,
+      "mean_conditional_A": 0.5029166666666667,
+      "reversed": 15,
+      "continued_swaps": 0,
+      "final_errors": 0
+    },
+    {
+      "C": 4,
+      "runs": 15,
+      "mean_A": 0.5408333333333334,
+      "mean_stable_A": 0.4925,
+      "mean_conditional_A": 0.498125,
+      "reversed": 15,
+      "continued_swaps": 0,
+      "final_errors": 0
+    },
+    {
+      "C": 8,
+      "runs": 15,
+      "mean_A": 0.6341666666666667,
+      "mean_stable_A": 0.48333333333333334,
+      "mean_conditional_A": 0.49158854166666666,
+      "reversed": 15,
+      "continued_swaps": 0,
+      "final_errors": 0
+    },
+    {
+      "C": 10,
+      "runs": 15,
+      "mean_A": 0.6591666666666666,
+      "mean_stable_A": 0.5033333333333333,
+      "mean_conditional_A": 0.48511666666666664,
+      "reversed": 15,
+      "continued_swaps": 0,
+      "final_errors": 0
+    },
+    {
+      "C": 20,
+      "runs": 15,
+      "mean_A": 0.6558333333333334,
+      "mean_stable_A": 0.49,
+      "mean_conditional_A": 0.48996249999999997,
+      "reversed": 15,
+      "continued_swaps": 0,
+      "final_errors": 0
+    },
+    {
+      "C": 40,
+      "runs": 15,
+      "mean_A": 0.6233333333333333,
+      "mean_stable_A": 0.48000000000000004,
+      "mean_conditional_A": 0.488409375,
+      "reversed": 15,
+      "continued_swaps": 0,
+      "final_errors": 0
+    }
+  ],
+  "C2_exact_conditional_test": {
+    "observed_H": 572,
+    "expected_H": "1207/2",
+    "tail_probability_fraction": "1731259052362840387025088158277611825925558293178163280014143854267/862718293348820473429344482784628181556388621521298319395315527974912",
+    "tail_probability": 0.002006748976705476,
+    "tail_definition": "P(|H-EH|>=|observed-EH|); fixed observed per-key type counts, uniformly permuted within tied blocks independently per run",
+    "post_selection": "exploratory; no confirmatory label"
+  },
+  "runtime_seconds": 5.525519700007862
+}

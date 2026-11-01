@@ -1,0 +1,20 @@
+{
+  "aristotle_primary_url": "https://classics.mit.edu/Aristotle/soul.2.ii.html",
+  "triangle_scope": "De Anima II.3,414b28-32; Smith translation expresses square containing triangle, so exact article words are translation-dependent.",
+  "causes_scope": "De Anima II.4,415b8-12: origin of movement,end,essence; supports the three-cause reading.",
+  "seventh_letter": "MIT J.Harward translation supports ineffability/non-writing passage; authorship disputed. Passage alone does not establish an Eleusinian/Delphic ritual prohibition or empirical reliability.",
+  "seventh_letter_authenticity_source": "https://plato.stanford.edu/entries/plato/",
+  "thompson1913": "Original OCR pp26-27 supports graded souls, triangle/square analogy, biology-philosophy linkage. OCR source also includes a reasoning-soul-from-afar discussion, so an exclusively simple modern materialist attribution would need qualification. OCR needs page-image check for exact Greek wording.",
+  "companion_quote_candidates": [
+    {
+      "article": "dietz",
+      "line_start": 244,
+      "line_end": 246,
+      "delimiter": "curly_multiline",
+      "quote": "Joel Dietz points in the right direction by proposing a predictive morphospace language connecting bioelectric patterns to downstream gene-expression cascades and morphology. A knowledge graph, however, can encode D or D + P. Platonic ingress begins earning evidence only when at least one P-specific relation improves held-out prediction, intervention, compression, or comparative model performance beyond the best D-only account.\n\nThe decisive experiment would make P itself measurable at the edges: specify its hard core and bridge principle before observation; define a P-linked variable, topology, relation, or invariant independently of the residual; identify outcomes that materially separate D + P from serious rivals; use negative controls and held-out embodiments; replicate the advantage independently. Most important, freeze the update rule. A failed bridge must cost P something. A repair must buy fresh risk.",
+      "status": "not_matched_to_retrieved_companion_version",
+      "normalized_matches": [],
+      "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+    }
+  ]
+}

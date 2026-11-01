@@ -1,0 +1,2 @@
+# Checkpoint 04: fish raw-data and statistical checks
+Raw FishShapes checksum verified. All 5,180 scored species observations and full30/Thompson7/consensus/nearest errors agree with raw data plus locked predictions and supplied calibration. The article reverses the 4% direction and uses the full30 p-value to describe Thompson7. H2,H4,H5 fail their registered criteria. Original prediction generation, re-estimation of calibration and proper phylogenetic dependence remain separate checks.

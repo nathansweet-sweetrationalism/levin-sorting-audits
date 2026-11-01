@@ -1,0 +1,61 @@
+[
+  {
+    "name": "pietak_selftest",
+    "command": [
+      "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\.venv\\Scripts\\python.exe",
+      "-X",
+      "utf8",
+      "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py",
+      "--self-test"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py\", line 2057, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py\", line 2041, in main\n    return self_test()\n           ^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py\", line 1952, in self_test\n    d3 = verify_pass3_dataset_sha256()\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py\", line 148, in verify_pass3_dataset_sha256\n    raise FileNotFoundError(f\"Missing Pass 3 dataset file: {rel}\")\nFileNotFoundError: Missing Pass 3 dataset file: datasets/bioelectric_morphogen_coupling/voronoi_ca_ip3_branching_reference.json\n",
+    "seconds": 30.67055349999282
+  },
+  {
+    "name": "tadpole_selftest",
+    "command": [
+      "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\.venv\\Scripts\\python.exe",
+      "-X",
+      "utf8",
+      "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2019-bischof-xenopus-craniofacial-remap.py",
+      "--self-test"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2019-bischof-xenopus-craniofacial-remap.py\", line 1689, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2019-bischof-xenopus-craniofacial-remap.py\", line 1667, in main\n    return self_test()\n           ^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2019-bischof-xenopus-craniofacial-remap.py\", line 1617, in self_test\n    p3 = load_pass3_reference()\n         ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2019-bischof-xenopus-craniofacial-remap.py\", line 350, in load_pass3_reference\n    return json.loads(PASS3_REFERENCE_JSON.read_text(encoding=\"utf-8\"))\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\Lib\\pathlib.py\", line 1027, in read_text\n    with self.open(mode='r', encoding=encoding, errors=errors) as f:\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\Lib\\pathlib.py\", line 1013, in open\n    return io.open(self, mode, buffering, encoding, errors, newline)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Users\\\\micom\\\\.codex\\\\visualizations\\\\2026\\\\11\\\\01\\\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\\\levin_dietz_audit\\\\external\\\\morpholib\\\\datasets\\\\xenopus_craniofacial_remap\\\\cartilage_mmp_zymography_reference.json'\n",
+    "seconds": 1.9351143999956548
+  },
+  {
+    "name": "xenobot_selftest",
+    "command": [
+      "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\.venv\\Scripts\\python.exe",
+      "-X",
+      "utf8",
+      "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2020-kriegman-xenobot-evolutionary-biobots.py",
+      "--self-test"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2020-kriegman-xenobot-evolutionary-biobots.py\", line 2316, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2020-kriegman-xenobot-evolutionary-biobots.py\", line 2294, in main\n    return self_test()\n           ^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2020-kriegman-xenobot-evolutionary-biobots.py\", line 2159, in self_test\n    digests = verify_dataset_sha256()\n              ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2020-kriegman-xenobot-evolutionary-biobots.py\", line 149, in verify_dataset_sha256\n    raise FileNotFoundError(f\"Missing vendored dataset file: {rel}\")\nFileNotFoundError: Missing vendored dataset file: datasets/xenobot_evolutionary_biobots/lattice3d_stokes_capture_reference.json\n",
+    "seconds": 1.1244690000021365
+  },
+  {
+    "name": "node_port",
+    "command": [
+      "C:/Program Files/nodejs/node.exe",
+      "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\sources\\primary\\port_js.mjs",
+      "--n",
+      "100",
+      "--reps",
+      "15",
+      "--seed",
+      "42"
+    ],
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "",
+    "seconds": 0.060131099991849624
+  }
+]

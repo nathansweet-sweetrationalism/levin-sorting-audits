@@ -1,0 +1,1591 @@
+{
+  "schema_version": "1.0",
+  "created": "2026-11-01",
+  "scope": "Material claims in the supplied article versions and audited sources. Claim wording is an audit restatement, not necessarily a verbatim author quotation. Not every sentence is a separate claim. Target locators are lexical aids.",
+  "not_a_truth_oracle": true,
+  "claims": [
+    {
+      "id": "M01",
+      "claim": "Every adjacent strict inversion swap decreases the global inversion count by exactly one.",
+      "attributed_to": "both articles",
+      "claim_type": "formal",
+      "status": "supported",
+      "boundary": "Finite ordered lists; adjacent strict inverted pair; duplicate keys permitted.",
+      "target_locations": [
+        {
+          "path": "inputs/sweet.txt",
+          "line": 123,
+          "search_text": "inversion"
+        },
+        {
+          "path": "inputs/sweet.txt",
+          "line": 268,
+          "search_text": "inversion"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_math_and_replay.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Pair cancellation argument; 158,323 distinct-key and 6,015 duplicate-key transition checks.",
+      "limitations": "Enumeration is finite; the mathematical argument supplies the unrestricted identity. Does not identify physical energy.",
+      "revision_condition": "A counterexample within the stated order and adjacent-swap assumptions, or a defect in the cancellation proof.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "M02",
+      "claim": "The equality delta I=-1 applies to every Selection or mixed-system swap.",
+      "attributed_to": "Dietz",
+      "claim_type": "formal",
+      "status": "contradicted",
+      "boundary": "Nonadjacent inversion swaps in the cited move class.",
+      "target_locations": [
+        {
+          "path": "inputs/dietz.txt",
+          "line": 225,
+          "search_text": "every swap"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 290,
+          "search_text": "every swap"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 313,
+          "search_text": "every swap"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_math_and_replay.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "[3,2,1] -> [1,2,3] has delta I=-3; general formula independently checked on 19,956 transitions.",
+      "limitations": "Strict inverted endpoints still decrease I, sometimes by more than one; arbitrary non-inversion moves are a separate claim.",
+      "revision_condition": "Restrict the equality to adjacent strict inversion swaps, or supply different program semantics.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "M03",
+      "claim": "Adjacent error may rise while the global inversion count falls.",
+      "attributed_to": "Sweet; Dietz formal example",
+      "claim_type": "formal",
+      "status": "supported",
+      "boundary": "[2,4,1,3] -> [2,1,4,3].",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/lean_kernel_output.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Independent I:3->2 and E:1->2 calculation; pinned Lean concrete theorem compiles.",
+      "limitations": "Does not invalidate adjacent error as an observable or erase comparative defect evidence.",
+      "revision_condition": "A different metric definition or an error in the supplied example.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "M04",
+      "claim": "Sortedness has no remaining local minimum in the defective legal-move graph.",
+      "attributed_to": "unrestricted extrapolation",
+      "claim_type": "formal",
+      "status": "contradicted",
+      "boundary": "Adjacent-only moves with a genuinely immovable middle cell.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "[2,frozen 1,0] has three inversions and zero legal adjacent moves.",
+      "limitations": "Different defect modes and nonlocal moves define different graphs.",
+      "revision_condition": "Change the move graph or restrict the no-local-minimum statement to the no-defect model.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "M05",
+      "claim": "A balanced random N=80 linear arrangement has expected A=0.4875 under A=H/N.",
+      "attributed_to": "Sweet",
+      "claim_type": "formal",
+      "status": "supported",
+      "boundary": "Fixed 40/40 labels, uniform arrangements, 79 linear edges, denominator 80.",
+      "target_locations": [
+        {
+          "path": "inputs/sweet.txt",
+          "line": 78,
+          "search_text": "0.4875"
+        },
+        {
+          "path": "inputs/sweet.txt",
+          "line": 82,
+          "search_text": "0.4875"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_math_and_replay.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Exact expectation [b(b-1)+s(s-1)]/N^2; 8,188 finite arrangements checked.",
+      "limitations": "N-1 normalization, ring closure and iid labels give different finite-size baselines.",
+      "revision_condition": "Change the randomization, boundary or denominator.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "M06",
+      "claim": "Merely refusing direct equal-key swaps guarantees global stable sorting.",
+      "attributed_to": "former explanation",
+      "claim_type": "formal",
+      "status": "contradicted",
+      "boundary": "Nonadjacent swaps with record identities.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/historical_replay_summary.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/historical_replay_runs.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Explicit [2a,2b,1c] counterexample and identity reversals in all 90 duplicate-key historical runs.",
+      "limitations": "Sweet explicitly retracts the complete stability account; this is not his revised explanation.",
+      "revision_condition": "A proof of global stability for a differently specified transition system.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "M07",
+      "claim": "Pure global stability predicts an increase of expected endpoint aggregation with duplicate multiplicity.",
+      "attributed_to": "critic reconstruction of former account",
+      "claim_type": "formal",
+      "status": "contradicted",
+      "boundary": "Labels randomized independently of keys; globally stable sorting; fixed label counts.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "A label-independent stable key permutation preserves the uniform fixed-count label distribution.",
+      "limitations": "This conditional consequence is not necessarily a forecast Sweet explicitly published.",
+      "revision_condition": "A non-independent label/key sampling process or a different null.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S01",
+      "claim": "Sweet historical C=10 endpoint, stable control and conditional-permutation numbers reproduce.",
+      "attributed_to": "Sweet",
+      "claim_type": "computational",
+      "status": "reproduced",
+      "boundary": "Pinned bfe377c model; n=80; 40/40; 15 runs per C; specified seeds; sequential scheduler.",
+      "target_locations": [
+        {
+          "path": "inputs/sweet.txt",
+          "line": 63,
+          "search_text": "0.659"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "results/historical_replay_summary.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/historical_replay_runs.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/old_model.py",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_math_and_replay.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "105 fresh replay runs: C10 mixed .6591666667, stable .5033333333, conditional mean .4851166667.",
+      "limitations": "Replay of this surrogate is not independent replication of the threaded laboratory paper.",
+      "revision_condition": "A pinned-source or seed mismatch, incorrect record reconstruction, or reproducible disagreement.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S02",
+      "claim": "Historical duplicate-key trajectories are globally unstable.",
+      "attributed_to": "Sweet",
+      "claim_type": "computational",
+      "status": "reproduced",
+      "boundary": "All 90 duplicate-key runs among the 105 historical replays.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/historical_replay_summary.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/historical_replay_runs.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Track original record identities within each equal-key class.",
+      "limitations": "Does not isolate which mechanism creates type aggregation.",
+      "revision_condition": "A corrected identity tracker changes the reversals.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S03",
+      "claim": "Continuing the actual sorted terminal cell objects produces no further swaps.",
+      "attributed_to": "Sweet",
+      "claim_type": "computational",
+      "status": "reproduced",
+      "boundary": "Pinned historical strict rules, actual final targets retained; all 105 replays.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/historical_replay_summary.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_math_and_replay.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Resume terminal objects with stopping-on-sortedness disabled.",
+      "limitations": "Absorption is not active restoration after a scramble, nor evidence about equality swaps in another model.",
+      "revision_condition": "A legal next swap using the identical source, state and target values.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S04",
+      "claim": "The reported C=2 conditional exact tail is about 0.00200675.",
+      "attributed_to": "Sweet",
+      "claim_type": "statistical",
+      "status": "reproduced",
+      "boundary": "Observed per-key label counts held fixed; independent uniform within-tie permutations across the 15 runs.",
+      "target_locations": [
+        {
+          "path": "inputs/sweet.txt",
+          "line": 82,
+          "search_text": "0.002"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "results/C2_conditional_distribution.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/historical_replay_summary.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_math_and_replay.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Exact integer counting and convolution; H=572, EH=1207/2; tail P(|H-EH|>=observed distance).",
+      "limitations": "Exploratory null choice; not unconditional randomness; alternative two-sided definitions differ.",
+      "revision_condition": "A counting error or a materially different justified null or tail definition.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S05",
+      "claim": "Fresh surrogate scheduler/reset perturbations retain some peak excess over matched controls.",
+      "attributed_to": "this audit",
+      "claim_type": "computational",
+      "status": "supported",
+      "boundary": "30 fresh n=40 inputs, 2x2 scheduler/reset settings, passive-label Bubble peak controls.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "checkpoints/05_frozen_robustness_protocol.md",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/fresh_robustness.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_robustness.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "120 capped tests: all sorted; no cap hits; mean peak excess .0117-.0333.",
+      "limitations": "Descriptive local protocol, not external preregistration or original OS-thread replication.",
+      "revision_condition": "Matched expanded testing or source-faithful scheduling eliminates or reverses the effect.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S06",
+      "claim": "Fourteen VERIFIED benchmark labels are computed acceptance decisions.",
+      "attributed_to": "Dietz",
+      "claim_type": "source",
+      "status": "contradicted",
+      "boundary": "Pinned validate_kymograph_and_paper.py benchmark dictionaries.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/benchmark_label_audit.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "external/morpholib/sorting-morphogenesis/validate_kymograph_and_paper.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "AST inspection identifies 14 literal status strings rather than threshold decisions.",
+      "limitations": "Does not establish the simulations were never run; approximate agreement still has descriptive value.",
+      "revision_condition": "Executable preregistered acceptance criteria evaluated from raw replicates replace the literals.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S07",
+      "claim": "One configuration reproduces every paper summary and exact implementation.",
+      "attributed_to": "Dietz",
+      "claim_type": "computational",
+      "status": "overstated",
+      "boundary": "Current sequential port validator and source semantic correspondence.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/source_semantics_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "external/morpholib/sorting-morphogenesis/validate_kymograph_and_paper.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Different reset settings are used for different comparisons; original swap and merge paths differ.",
+      "limitations": "Port documentation discloses some choices; unpublished original source-to-paper trajectory is unavailable.",
+      "revision_condition": "One pinned source-linked configuration passes prespecified joint trajectory and uncertainty checks.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S08",
+      "claim": "Pinned upstream MultiThreadCell.swap invokes update and resets targets.",
+      "attributed_to": "port explanation",
+      "claim_type": "source",
+      "status": "contradicted",
+      "boundary": "Original source commit 1fd2bd5; not necessarily the earlier paper experiment bytes.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/source_semantics_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "external/cell_research/modules/multithread/MultiThreadCell.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Inspect swap AST and call graph: no update call; CellGroup merge invokes it.",
+      "limitations": "Published experiment version is not established by this later source.",
+      "revision_condition": "An exact paper-version source demonstrates the asserted call path.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S09",
+      "claim": "The surrogate reverse-direction reset is source-identical.",
+      "attributed_to": "port fidelity assertion",
+      "claim_type": "source",
+      "status": "contradicted",
+      "boundary": "Pinned upstream reverse Insertion reset versus surrogate sentinel.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/source_semantics_checks.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Original resets prev=-1; surrogate uses positive infinity in descending mode.",
+      "limitations": "A semantic repair can be useful without being a source-identical port.",
+      "revision_condition": "Prove observational equivalence under the applicable state domain or relabel the repair.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S10",
+      "claim": "Every frozen Bubble cell is an immovable barrier.",
+      "attributed_to": "blanket wall wording",
+      "claim_type": "source",
+      "status": "contradicted",
+      "boundary": "Pinned Bubble.should_move_to and isolated legal swap.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/actual_source_transition_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_actual_source.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "A FREEZE target is allowed passively: [2,frozen 1] -> [frozen 1,2].",
+      "limitations": "Truly immovable defect mode remains a valid barrier case.",
+      "revision_condition": "Restrict wording to the immovable mode or pin a different defect implementation.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S11",
+      "claim": "The enabling Insertion branch affects movement over a frozen prefix.",
+      "attributed_to": "Dietz; source check",
+      "claim_type": "source",
+      "status": "supported",
+      "boundary": "Actual upstream is_enable_to_move extracted and tested in isolation.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/source_semantics_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_source_semantics.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Prefix [3,frozen 1] enabled with branch and disabled when branch removed.",
+      "limitations": "A one-step result does not establish the original published defect advantage.",
+      "revision_condition": "Source-faithful full experiment or earlier code changes the attributed effect.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S12",
+      "claim": "Cross-language equality has been verified for every synchronized trajectory.",
+      "attributed_to": "Dietz",
+      "claim_type": "computational",
+      "status": "overstated",
+      "boundary": "Fresh Python/Node 42-cell cases plus archived C++ artifact.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/language_port_check.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/node_port_output.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/run_node_port.mjs",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "All 126 final cells and archived C++/Node summary comparisons match.",
+      "limitations": "C++ not recompiled; complete trajectories not independently compared; initial Windows direct-entry guard silently skipped execution.",
+      "revision_condition": "Fresh third-language execution and full synchronized state hashes establish the stronger claim.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "S13",
+      "claim": "The current domain law is entirely derived without fitted or hard-coded shape constants.",
+      "attributed_to": "Dietz",
+      "claim_type": "source",
+      "status": "overstated",
+      "boundary": "quantify_emergence_ce2.py empirical curve expression.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "external/morpholib/sorting-morphogenesis/quantify_emergence_ce2.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "The curve expression contains constants .725 and 1.15.",
+      "limitations": "Constants could have an external derivation; the expression alone does not supply it.",
+      "revision_condition": "A documented derivation and held-out test of these constants.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "F01",
+      "claim": "The five checked Lean files compile without sorryAx in 92 audited declarations.",
+      "attributed_to": "Dietz; this audit",
+      "claim_type": "formal",
+      "status": "reproduced",
+      "boundary": "Lean 4.35.0 official checked release; sorting7, MathOfBiology76, biological loop3+3+3.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/lean_toolchain.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/lean_kernel_output.txt",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/lean_additional_kernel_checks.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Fresh kernel runs and transitive #print axioms logs on source copies.",
+      "limitations": "This does not certify source equivalence, model truth, all repository files, or all biological dynamics.",
+      "revision_condition": "A toolchain-integrity defect, incomplete-proof axiom, or narrower statement than reported.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "F02",
+      "claim": "Kernel acceptance proves the biological mechanisms or experimental dynamics.",
+      "attributed_to": "strong article inference",
+      "claim_type": "causal",
+      "status": "overstated",
+      "boundary": "Inspected MathOfBiology and three biological loop statement definitions.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/lean_additional_kernel_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "external/morpholib/morphoeval/lean/MathOfBiology.lean",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Inspect statements: threshold arithmetic, target-returning branch and supplied capture integer expression.",
+      "limitations": "These conditional theorems remain valid and useful; they need a model-to-experiment bridge.",
+      "revision_condition": "Formalize actual dynamics, assumptions and measurement linkage; validate the empirical bridge.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P01",
+      "claim": "All 5,180 scored fish observations and four error series reconstruct from raw data and locked predictions.",
+      "attributed_to": "Dietz; this audit",
+      "claim_type": "computational",
+      "status": "reproduced",
+      "boundary": "16,523 FishShapes specimens; saved predictions; supplied calibration; all scored species.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/fish_independent_audit.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_fish.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Raw MD5 and both prediction hashes verified; medians and calibrated absolute errors reconstructed.",
+      "limitations": "The complete original prediction engine was not independently reimplemented.",
+      "revision_condition": "A raw-data mapping, species normalization, calibration or arithmetic discrepancy.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P02",
+      "claim": "The nearest-relative method wins by approximately four percent.",
+      "attributed_to": "Dietz",
+      "claim_type": "statistical",
+      "status": "contradicted",
+      "boundary": "1,122 species at tau<50 Myr; body depth/length; calibrated median absolute errors.",
+      "target_locations": [
+        {
+          "path": "inputs/dietz.txt",
+          "line": 167,
+          "search_text": "4%"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 172,
+          "search_text": "4%"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 180,
+          "search_text": "4%"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 227,
+          "search_text": "4%"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 235,
+          "search_text": "4%"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 237,
+          "search_text": "4%"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 427,
+          "search_text": "4%"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "results/fish_independent_audit.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Full30 .0383444031 versus nearest .0399934723: full30 is 4.1233% lower.",
+      "limitations": "The superiority test still fails alpha=.01; median direction and test decision are different questions.",
+      "revision_condition": "A different pinned version, metric or raw result reverses the stated comparison.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P03",
+      "claim": "Full30 meets the registered nearest-relative superiority test.",
+      "attributed_to": "stronger interpretation",
+      "claim_type": "statistical",
+      "status": "contradicted",
+      "boundary": "Species-wise one-sided Wilcoxon; registered alpha .01.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/fish_independent_audit.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Recomputed p=.0606819870148897.",
+      "limitations": "Failure to pass is not proof that the rival is better or that effects are equal.",
+      "revision_condition": "A justified independent preregistered test with adequate dependence treatment changes the conclusion.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P04",
+      "claim": "The approximately 1e-103 p-value describes the seven-mode predictor.",
+      "attributed_to": "Dietz",
+      "claim_type": "statistical",
+      "status": "contradicted",
+      "boundary": "Calibrated tau<50 body-depth comparison with consensus.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/fish_independent_audit.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Full30 p=1.04905e-103; Thompson7 p=7.38314e-81.",
+      "limitations": "Both are species-wise calculations and do not establish an evolutionary law.",
+      "revision_condition": "Relabel predictor or provide an explicitly different version and comparison.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P05",
+      "claim": "Only H2 misses the registered calibrated criteria.",
+      "attributed_to": "incomplete summary",
+      "claim_type": "statistical",
+      "status": "contradicted",
+      "boundary": "Pinned result file, calibrated H1-H7 decisions.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/fish_independent_audit.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "H1 pass,H2 fail,H3 pass,H4 fail,H5 fail,H6 pass,H7 pass.",
+      "limitations": "H4 can fail because performance is better beyond the claimed horizon; failed direction must still be retained.",
+      "revision_condition": "Show a different preregistered criterion/version without retrospective redefinition.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P06",
+      "claim": "Species-wise Wilcoxon p-values adequately settle phylogenetically correlated predictive performance.",
+      "attributed_to": "unqualified inference",
+      "claim_type": "statistical",
+      "status": "overstated",
+      "boundary": "Related species sharing training relatives, taxa and measurement sources.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/fish_independent_audit.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/recommended_literature.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Exploratory 54-family mean-difference test gives p=.28056; dependence remains.",
+      "limitations": "Coarse family averaging is not a full phylogenetic correction or definitive null result.",
+      "revision_condition": "A preregistered phylogenetic or blocked evaluation, with uncertainty and overlapping-source audit.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P07",
+      "claim": "Calibration coefficients independently reproduce to numerical precision.",
+      "attributed_to": "this audit",
+      "claim_type": "computational",
+      "status": "reproduced",
+      "boundary": "Original 791-species landmarks, source GPA/proxies, 710/711 matched training species.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/morphometrics_calibration_check.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_morphometrics_calibration.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Fresh fitting agrees with saved alpha/beta within 4.4e-16.",
+      "limitations": "Shares source GPA and proxy definitions; prediction engine and independent measurement choice not validated.",
+      "revision_condition": "Independent landmark processing or species matches reveal material discrepancy.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P08",
+      "claim": "The 93.5-98.9% alignments should be distinguished from variance explained.",
+      "attributed_to": "Dietz explicitly qualifies this",
+      "claim_type": "semantic",
+      "status": "supported",
+      "boundary": "Cosines between selected drift representations.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "sources/primary/dietz_fish.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Identify cosine definition and raw-versus-selected coordinate dependence.",
+      "limitations": "Dietz explicitly preserves the distinction. The complete large-compilation alignment was not independently recomputed here.",
+      "revision_condition": "Provide a separate variance-explained metric with held-out baseline and dimensions.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P09",
+      "claim": "The displayed factors show 3.3-9.3-times-faster head evolution.",
+      "attributed_to": "Dietz",
+      "claim_type": "statistical",
+      "status": "overstated",
+      "boundary": "Ratios of variance-loading percentages, not change per unit time.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "sources/primary/dietz_fish.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Ratios 47/14.41 and 85.4089/9.21807 reproduce the factors.",
+      "limitations": "Loading ratios need not equal evolutionary rates; phylogenetic timing not in this calculation.",
+      "revision_condition": "A module-specific time-scaled evolutionary rate model validates the rate claim.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P10",
+      "claim": "Positive sampled Jacobian determinants prove global bijectivity.",
+      "attributed_to": "strong topology inference",
+      "claim_type": "formal",
+      "status": "contradicted",
+      "boundary": "Finite grid checks of a shape map; arbitrary domain.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Counterexample exp(x)*(cos y,sin y) has positive determinant but repeats beyond one angular turn.",
+      "limitations": "Does not prove the specific tested map folds; more domain-specific proof may be available.",
+      "revision_condition": "A valid global injectivity and boundary/domain argument for the actual map.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P11",
+      "claim": "The extant fish analysis establishes a universal vertebrate law over 150 Myr.",
+      "attributed_to": "Dietz",
+      "claim_type": "empirical",
+      "status": "overstated",
+      "boundary": "Selected extant reef-fish datasets and dated phylogeny.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/fish_independent_audit.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/dietz_fish.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Audit sampling boundary, measurement overlap, model dimensions and tested endpoints.",
+      "limitations": "No new fossil trajectory, vertebrate-wide, or experimental validation here.",
+      "revision_condition": "Held-out clades, independent measurements and causal/mechanistic predictions validate broader transport.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "B01",
+      "claim": "The idealized 40-mV Nernst ratio is about 4.7.",
+      "attributed_to": "Dietz",
+      "claim_type": "formal",
+      "status": "supported",
+      "boundary": "Monovalent species, positive coupling, zero flux, fixed voltages/temperature and compatible boundaries.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "At298.15K exp(F*.04/RT)=4.743948; stated25.85mV thermal voltage is about300K.",
+      "limitations": "Tiny temperature precision issue; equation at G=0 does not determine the ratio or memory.",
+      "revision_condition": "Different valence, reactions, boundary conditions or finite-time model changes the inference.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "B02",
+      "claim": "The zero-flux ratio alone proves persistent planarian target memory under complete blockade.",
+      "attributed_to": "strong mechanism inference",
+      "claim_type": "causal",
+      "status": "overstated",
+      "boundary": "Reduced equation versus persistent tissue-level experiment.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/durant_2017.pdf",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "At zero conductance the flux equation imposes no ratio; persistence needs feedback, turnover and timescale.",
+      "limitations": "The persistent phenotype experiment remains independent empirical evidence.",
+      "revision_condition": "A calibrated dynamical model predicts persistent editing and discriminating interventions.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "B03",
+      "claim": "The public Cervera script is an exact reproduction of the full paper.",
+      "attributed_to": "article-level reproduction implication",
+      "claim_type": "source",
+      "status": "contradicted",
+      "boundary": "Pinned qualitative analogue script and access disclosure.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "external/morpholib/models/2021-Cervera–Levin–Mafe.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Source explicitly says full text not consulted and constants are the script's.",
+      "limitations": "An abstract-guided analogue can be informative; it is not source-faithful equation reproduction.",
+      "revision_condition": "Read and map the full paper equations, parameters and numerical methods to source.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "B04",
+      "claim": "A quadratic target gradient model dissipates its defined potential.",
+      "attributed_to": "Dietz",
+      "claim_type": "formal",
+      "status": "supported",
+      "boundary": "Continuous dynamics xdot=-eta*grad(V),eta>0; positive-definite target potential.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "sources/primary/dietz_methods.txt",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Chain rule gives Vdot=-eta*||grad(V)||^2.",
+      "limitations": "Assumes the target; does not establish biological storage or unconditional discrete-time convergence.",
+      "revision_condition": "A changed dynamical equation or numerical step violates the assumptions.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "B05",
+      "claim": "Three pinned biological self-tests run successfully from the public repository.",
+      "attributed_to": "public reproducibility claim",
+      "claim_type": "computational",
+      "status": "unreproduced",
+      "boundary": "Current public tree and unmodified self-test entry points.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/upstream_execution_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/missing_public_fixtures.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "All three exit with missing required reference fixtures; complete tree checked.",
+      "limitations": "Does not imply the author never ran a private version; no invented fixture substituted.",
+      "revision_condition": "Publish exact missing fixtures and dependencies; rerun unchanged tests and raw checks.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "B06",
+      "claim": "The cited pinned xenobot model establishes a 105-degree optimum.",
+      "attributed_to": "Dietz",
+      "claim_type": "computational",
+      "status": "unreproduced",
+      "boundary": "Pinned public xenobot script, available parameters and missing fixture.",
+      "target_locations": [
+        {
+          "path": "inputs/dietz.txt",
+          "line": 208,
+          "search_text": "105"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 213,
+          "search_text": "105"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 374,
+          "search_text": "105"
+        },
+        {
+          "path": "inputs/dietz.txt",
+          "line": 400,
+          "search_text": "105"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "results/xenobot_selftest.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/missing_public_fixtures.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/dietz_fish.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Public script repeatedly uses65degrees; required capture fixture absent.",
+      "limitations": "Angle convention or private version may differ; not a refutation of experimental C-shape advantage.",
+      "revision_condition": "Pin exact105degree code, convention, parameters and independent sweep output.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "B07",
+      "claim": "The 2021 sphere comparison is exactly one generation versus four.",
+      "attributed_to": "Dietz simplified wording",
+      "claim_type": "empirical",
+      "status": "overstated",
+      "boundary": "Published xenobot replication rounds with supplied dissociated cells.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "sources/europepmc/PMC8670470.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Primary reports spheroids mean1.2/max2, semitoroids mean3/max4; offspring spheroids.",
+      "limitations": "The relative C-shape benefit survives; no new experiment conducted.",
+      "revision_condition": "A distinct experimental condition or corrected exact wording.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "C01",
+      "claim": "A positive inversion-count macro effectiveness gain occurs in the checked accepted-swap model.",
+      "attributed_to": "Dietz",
+      "claim_type": "computational",
+      "status": "reproduced",
+      "boundary": "All-Bubble,no-defects,n3..6,uniform interventions,accepted-swap clock.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/causal_measures_independent.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/author_causal_code_recomputed.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_causal_and_ports.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Independent transition construction; n6 micro .849566 vs macroI .96875.",
+      "limitations": "Not the full mixed or defective system, nor an ontological identity.",
+      "revision_condition": "A clock/partition/matrix or intervention-distribution correction changes the score.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "C02",
+      "claim": "The same causal-gain sign survives raw proposal-time dynamics.",
+      "attributed_to": "clock-independent inference",
+      "claim_type": "computational",
+      "status": "contradicted",
+      "boundary": "All-Bubble,n6,raw proposal clock with unchanged intervention convention.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/causal_measures_independent.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Micro .813044 vs macroI .762873 gives negative .050172.",
+      "limitations": "Changing clock changes the model; sign reversal is not by itself a contradiction in the measure.",
+      "revision_condition": "A defended same-clock comparison or a corrected matrix alters this result.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "C03",
+      "claim": "Adjacent-error partition defines autonomous multistep Markov dynamics automatically.",
+      "attributed_to": "unqualified coarse-graining",
+      "claim_type": "formal",
+      "status": "contradicted",
+      "boundary": "Accepted-swap all-Bubble process.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/actual_source_transition_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/source_semantics_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Same E=1 states [1,3,2,4] and [1,3,4,2] have different projected next-step outcomes.",
+      "limitations": "Averaged row-stochastic matrix can still be defined; autonomy requires lumpability/history qualification.",
+      "revision_condition": "Prove lumpability for the actual partition or use a sufficient augmented macrostate.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "C04",
+      "claim": "A state with no incoming transitions is physically impossible.",
+      "attributed_to": "unqualified state-support inference",
+      "claim_type": "formal",
+      "status": "overstated",
+      "boundary": "Uniform interventions versus observational stationary support.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "external/morpholib/docs/CAUSAL_EMERGENCE_PRACTITIONERS_GUIDE.md",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Initial states and interventions may place probability on no-incoming states.",
+      "limitations": "Some physical realization constraints could prohibit a particular intervention; they must be stated.",
+      "revision_condition": "An explicit realization restriction or intervention distribution establishes impossibility.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R01",
+      "claim": "Every cited DOI points to the intended paper.",
+      "attributed_to": "both article bibliographies",
+      "claim_type": "source",
+      "status": "contradicted",
+      "boundary": "41 unique input DOI identities, all occurrences retained.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/reference_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/doi_occurrences.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/doi_metadata_summary.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Registry title/author/journal/date comparison finds four Dietz mismatches.",
+      "limitations": "Other identity matches do not validate contents, quality, full reading or exhaustive retraction absence.",
+      "revision_condition": "Correct four entries with correct title/journal/year as well as DOI.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R02",
+      "claim": "All direct quotations and locators in both articles are independently authenticated.",
+      "attributed_to": "scope requested by user",
+      "claim_type": "source",
+      "status": "unverified",
+      "boundary": "135 extracted curly-quote candidates plus supplemental span audit.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/quote_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/quote_inventory.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Preserved-source normalized word matching and manual adjudication; unresolved types retained.",
+      "limitations": "Private question,YouTube comments,Huang recording,other audiovisual and translation locators remain open.",
+      "revision_condition": "Acquire primary records and adjudicate every genuine quotation with exact source/version/locator.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R03",
+      "claim": "The no-added-steps quotation matches the published Levin text at the cited page.",
+      "attributed_to": "Dietz",
+      "claim_type": "source",
+      "status": "partially_supported",
+      "boundary": "Retrieved53page published PDF,section6.3.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/ingressing_quote_page.png",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/ingressing.txt",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/quote_checks.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Wording verified and rendered page inspected; actualpage29, articlelocator22.",
+      "limitations": "A different draft may have different pagination; pin it rather than silently mixing versions.",
+      "revision_condition": "Supply exact earlier draft or correct the published locator.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R04",
+      "claim": "The gradient/recoup phrase is verbatim in the cited published passage.",
+      "attributed_to": "Dietz",
+      "claim_type": "source",
+      "status": "contradicted",
+      "boundary": "Published section6.3, page29, rather than unspecified lecture or earlier draft.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/quote_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/ingressing.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Published passage uses different goal wording.",
+      "limitations": "Could come from another source; call it a paraphrase until an exact locator is provided.",
+      "revision_condition": "An exact independently inspectable alternate primary source matches those words.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R05",
+      "claim": "The public exchange includes Sweet's higher-information defense and Levin's reductionist characterization.",
+      "attributed_to": "Sweet",
+      "claim_type": "source",
+      "status": "verified_source",
+      "boundary": "Symposium comments4345,4350,4449 with dates and surrounding text.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/symposium_comment_excerpts.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Primary public comment thread retrieved and context inspected.",
+      "limitations": "Verifying speech does not settle whether either philosophical argument is correct.",
+      "revision_condition": "A source/version/context correction changes the attributed words.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R06",
+      "claim": "The October25 invitation to comment on a draft is dated by the original message.",
+      "attributed_to": "Sweet chronology",
+      "claim_type": "source",
+      "status": "verified_source",
+      "boundary": "Connected mailbox original metadata2026-10-25T19:50:01Z; bounded relevant read.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/private_chronology_check.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Original message metadata and draft-comment invitation inspected; no messages sent.",
+      "limitations": "Email body not redistributed; linked preview history and October13 revision date not independently frozen.",
+      "revision_condition": "Original-header provenance contradicts date or exact historical preview is recovered.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R07",
+      "claim": "HTTP access failure establishes a reference or URL is false.",
+      "attributed_to": "possible checking shortcut",
+      "claim_type": "source",
+      "status": "contradicted",
+      "boundary": "37 explicit pasted URL strings and DOI endpoint retries.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/url_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/url_resolution.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Separate route/access failures from bibliographic identity; some YouTube pasted captions corrupt raw URL strings.",
+      "limitations": "HTTP200 can be a challenge page; neither200nor403 alone authenticates content.",
+      "revision_condition": "A correct canonical URL and content identity check resolves each case.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R08",
+      "claim": "All five nanopublications have valid content hashes, embedded-key signatures and RDF structure.",
+      "attributed_to": "Dietz; this audit",
+      "claim_type": "computational",
+      "status": "reproduced",
+      "boundary": "Five canonical production records retrieved via w3id; nanopub2.2.2 read-only checks.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/nanopub_crypto_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/nanopub_identifier_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/rsa_direct_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/crypto_negative_controls.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_rsa_independently.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "All five hashes/structures valid. Initial client signature checker fails tamper controls; direct RSA verification with required signature-triple exclusion validates all originals and rejects all five tampered copies.",
+      "limitations": "RDF normalization shared with nanopub2.2.2;direct RSA acceptance checked through two interfaces. Does not independently prove human identity, external timestamp, blinding or scientific truth.",
+      "revision_condition": "Cryptographic/profile defect or independently witnessed provenance changes the claim.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R09",
+      "claim": "The exact described manuscript page counts and twelve-row authorship table are pinned.",
+      "attributed_to": "Dietz",
+      "claim_type": "source",
+      "status": "unverified",
+      "boundary": "Retrieved methods/sorting/fish PDFs and two inspected authorship renderer versions.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/authorship_arithmetic.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/dietz_methods.pdf",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/dietz_sorting.pdf",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/dietz_fish.pdf",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "PDF lengths4/13/36 differ from article4/8/28; inspected renderers8rows rather than12.",
+      "limitations": "Earlier private versions may exist; contribution estimates themselves are not established by arithmetic.",
+      "revision_condition": "Publish exact version hashes, twelve-row source and matching rendered outputs.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "O01",
+      "claim": "The displayed mean score rounds to77.6%; the structural mean is88.1%.",
+      "attributed_to": "Dietz",
+      "claim_type": "formal",
+      "status": "supported",
+      "boundary": "Seven displayed point cards and their stated weights.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/independent_math.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Recompute arithmetic:77.557142857 and88.100000000.",
+      "limitations": "Editorial decomposition and points are not calibrated truth probabilities or exhaustive content measurement.",
+      "revision_condition": "Change cards,weights or denominator explicitly; calibration needs external scored outcomes.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "O02",
+      "claim": "Convergence or output-diversity papers establish the attached metaphysical or phenomenological conclusions.",
+      "attributed_to": "Dietz",
+      "claim_type": "ontological",
+      "status": "overstated",
+      "boundary": "Platonic Representation Hypothesis and Artificial Hivemind versus broad system-boundary claims.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "sources/primary/platonic_representation.txt",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/hivemind.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Inspect measured outputs, stated hypothesis and inferential reach.",
+      "limitations": "Neither tested phenomenology nor all tool-using cognitive systems' capacity to incorporate observations.",
+      "revision_condition": "Separate independently specified bridge evidence discriminates the broader rival hypotheses.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "O03",
+      "claim": "Failure of a complete stability explanation identifies a Platonic causal contribution.",
+      "attributed_to": "inference disputed by Sweet",
+      "claim_type": "ontological",
+      "status": "unsupported",
+      "boundary": "Sorting observation, candidate mechanisms and explanation type.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/historical_replay_summary.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Alternative ordinary mechanisms remain; observed fit alone does not select a unique cause.",
+      "limitations": "Does not prove universal absence of nonphysical patterns; constitutive mathematical explanations need separate evaluation.",
+      "revision_condition": "Specify a distinctive comparative prediction/intervention or defended explanatory advantage and test it.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "O04",
+      "claim": "Broad thermodynamic or organizational alternatives have already quantitatively explained every biological case.",
+      "attributed_to": "possible overreading of Sweet",
+      "claim_type": "causal",
+      "status": "unsupported",
+      "boundary": "Suggested explanatory families versus the particular biological datasets.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "inputs/sweet.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "No matched calibrated alternative supplied here for every experiment.",
+      "limitations": "These remain serious research programmes and constraints, not automatically completed explanations.",
+      "revision_condition": "A specific validated model produces discriminating predictions for the matched case.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "O05",
+      "claim": "Generation of an additional useful mathematical output has zero physical energy cost.",
+      "attributed_to": "unqualified free-lunch inference",
+      "claim_type": "empirical",
+      "status": "unsupported",
+      "boundary": "Computational reuse versus measured realization,clock,energy and information loss.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/reference_checks.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Logical superposition or extra measured output does not specify incremental energy accounting.",
+      "limitations": "Reversible/logically nonerasing operations and implementation reuse can lower cost; no universal per-output cost asserted here.",
+      "revision_condition": "Matched measured energy and error-controlled outputs establish a narrower efficiency claim.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P12",
+      "claim": "The wing data reproduce the stated65.8% perimeter projection statistic.",
+      "attributed_to": "Dietz",
+      "claim_type": "computational",
+      "status": "reproduced",
+      "boundary": "1030raw wing rows;1027retained specimens;30species;19landmarks;later anatomical partition.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/wing_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "code/check_wings.py",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/wing_landmarks.tab",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/wing_specimens.tab",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Fresh source-GPA/basis reconstruction matches species means;perimeter .658212,interior -.003748,global .387760.",
+      "limitations": "Shares original GPA/basis. Specimens are not independent evolutionary replicates;later partition needs new validation.",
+      "revision_condition": "Independent landmark or partition validation changes the representation statistic.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P13",
+      "claim": "The original wing test records0of7passes rather than suppressing its failed predictions.",
+      "attributed_to": "Dietz",
+      "claim_type": "computational",
+      "status": "partially_supported",
+      "boundary": "Saved W1-W7 results,30species and their prediction error outputs.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/wing_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "external/morpholib/thompson/portfolio/results/vespinae_wings.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "All seven stored decisions false;medians,selected tests and Brier .448214 recomputed.",
+      "limitations": "Full fitting,all noise/allometry controls and independent preregistration timing were not re-established.",
+      "revision_condition": "Independent refitting or externally witnessed provenance changes the stored test assessment.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "P14",
+      "claim": "The illustration-specific shape-fit and TPS folding percentages have been independently reproduced in this audit.",
+      "attributed_to": "scope requested by user",
+      "claim_type": "computational",
+      "status": "unverified",
+      "boundary": "Six selected image pairs;2.4%fin-tip,40.6to56.2%mismatch and6of6folding statements.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "external/morpholib/thompson/generate_13yo_visual_guide.py",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Trace to source descriptions and note literal display values; full image-source optimization not rerun.",
+      "limitations": "No claim that these values are false. Need masks,homology choices,optimizer bounds and global topology analysis.",
+      "revision_condition": "Reproduce the pinned original images and optimization with matched competitors and acceptance criteria.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R10",
+      "claim": "The triangle/square analogy and three-cause account have primary historical support.",
+      "attributed_to": "Dietz",
+      "claim_type": "source",
+      "status": "partially_supported",
+      "boundary": "DeAnima II.3 andII.4;Thompson1913original OCRpp26-27.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "results/historical_text_checks.json",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/aristotle_soul_mit.plain.txt",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "sources/primary/thompson1913_ocr.txt",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Inspect translated primary passages and original lecture context.",
+      "limitations": "Exact wording translation-dependent;OCRGreek not image-verified;not a mathematical confirmation of modern ontology.",
+      "revision_condition": "A critical-edition or contextual correction changes the interpretation.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R11",
+      "claim": "The Seventh Letter supports the full historical ritual and epistemic-reliability claims.",
+      "attributed_to": "Dietz",
+      "claim_type": "source",
+      "status": "overstated",
+      "boundary": "341c-d ineffability/non-writing passage and broader claims about direct knowing.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "sources/primary/plato_letter7.plain.txt",
+          "role": "audit_evidence"
+        },
+        {
+          "path": "results/historical_text_checks.json",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Primary translation read;authorship controversy checked in SEP.",
+      "limitations": "Passage supports a narrower theme;does not alone establish ritual prohibition or reliable modern inference.",
+      "revision_condition": "Independent primary ritual records and critical historical scholarship establish the broader claim.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    },
+    {
+      "id": "R12",
+      "claim": "All flagship models,referee identities,counts and personal-history claims are independently verified here.",
+      "attributed_to": "scope requested by user",
+      "claim_type": "source",
+      "status": "unverified",
+      "boundary": "Named computations and paper identities versus broader autobiographical and project-scale claims.",
+      "target_locations": [],
+      "evidence": [
+        {
+          "path": "AUDIT_REPORT.md",
+          "role": "audit_evidence"
+        }
+      ],
+      "check": "Explicitly separate material named checks from unauthenticated project/personal claims.",
+      "limitations": "Cross-provider model outputs do not automatically constitute independent scientific replication.",
+      "revision_condition": "Obtain public source-linked run receipts,exact model metadata,independent checks and relevant historical records.",
+      "strongest_alternative": "Use the narrower claim stated in the boundary; other mechanisms are not excluded by agreement alone."
+    }
+  ]
+}

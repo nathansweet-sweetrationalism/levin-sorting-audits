@@ -1,0 +1,77 @@
+[
+  {
+    "artifact_code": "RA_mMJXveSMNlxIjYu_oTtIY233QfJnNCf47yRLfInMuE",
+    "original_file_changed": false,
+    "tamper_boundary": "one assertion object in an in-memory RDF copy",
+    "checks": {
+      "has_valid_trusty": {
+        "tampered_record_rejected": true,
+        "error_type": "MalformedNanopubError"
+      },
+      "has_valid_signature": {
+        "tampered_record_rejected": false,
+        "returned": true
+      }
+    }
+  },
+  {
+    "artifact_code": "RAdFmYq_oVoHbK2eclzYgRWXJVhSNdiEQBfxp4nhvkzJk",
+    "original_file_changed": false,
+    "tamper_boundary": "one assertion object in an in-memory RDF copy",
+    "checks": {
+      "has_valid_trusty": {
+        "tampered_record_rejected": true,
+        "error_type": "MalformedNanopubError"
+      },
+      "has_valid_signature": {
+        "tampered_record_rejected": false,
+        "returned": true
+      }
+    }
+  },
+  {
+    "artifact_code": "RAH6FDLaacsq28cjx2NVRYRANqOThwHaHwE58ByxqIWI8",
+    "original_file_changed": false,
+    "tamper_boundary": "one assertion object in an in-memory RDF copy",
+    "checks": {
+      "has_valid_trusty": {
+        "tampered_record_rejected": true,
+        "error_type": "MalformedNanopubError"
+      },
+      "has_valid_signature": {
+        "tampered_record_rejected": false,
+        "returned": true
+      }
+    }
+  },
+  {
+    "artifact_code": "RAilN4nbRHp3e3ZHqlbIgeL3UGPRV_KtQHtJD3gzVVdqw",
+    "original_file_changed": false,
+    "tamper_boundary": "one assertion object in an in-memory RDF copy",
+    "checks": {
+      "has_valid_trusty": {
+        "tampered_record_rejected": true,
+        "error_type": "MalformedNanopubError"
+      },
+      "has_valid_signature": {
+        "tampered_record_rejected": false,
+        "returned": true
+      }
+    }
+  },
+  {
+    "artifact_code": "RAJancwGOPEkHzBoZXGv_vu_snW0Lff2FktE85Me1P-fI",
+    "original_file_changed": false,
+    "tamper_boundary": "one assertion object in an in-memory RDF copy",
+    "checks": {
+      "has_valid_trusty": {
+        "tampered_record_rejected": true,
+        "error_type": "MalformedNanopubError"
+      },
+      "has_valid_signature": {
+        "tampered_record_rejected": false,
+        "returned": true
+      }
+    }
+  }
+]

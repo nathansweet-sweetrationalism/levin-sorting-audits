@@ -1,0 +1,22 @@
+{
+ "C2": {
+  "runs": 15,
+  "final_mean": 0.46,
+  "final_sem": 0.011254628677422756,
+  "final_ctrl_mean": 0.44583333333333336,
+  "peak_mean": 0.6533333333333333,
+  "peak_ctrl_mean": 0.6041666666666666,
+  "peak_excess_mean": 0.0491666666666667,
+  "peak_excess_runs_positive": 12,
+  "all_sorted": true,
+  "quiet_stops": 15,
+  "runs_with_equal_key_reversal": 15,
+  "observed_total_H": 552,
+  "conditional_expected_total_H": 601.0,
+  "conditional_mean_A": 0.5008333333333334,
+  "exact_two_sided_distance_tail_p": 3.933741056288027e-06,
+  "negative_control_observed_H": 535,
+  "negative_control_expected_H": 562.5,
+  "negative_control_exact_p": 0.012893623168999979
+ }
+}

@@ -1,0 +1,34 @@
+{
+  "raw_wings": 1030,
+  "retained_wings": 1027,
+  "species": 30,
+  "landmarks": 19,
+  "species_means_max_absolute_difference": 3.885780586188048e-16,
+  "t7_variance_share": 0.38776009085941043,
+  "perimeter_fraction": 0.6582121084811257,
+  "interior_fraction": -0.003747879202441684,
+  "loo_saved_prediction_error_medians_recomputed": {
+    "rms_thompson7": 0.006329576423573206,
+    "rms_full": 0.0064204859370309165,
+    "rms_pca7": 0.0064204859370309165,
+    "rms_consensus": 0.0064204859370309165,
+    "rms_nearest": 0.007270845671293996,
+    "rms_thompson7_oracle": 0.004091752317558997
+  },
+  "W1_to_W7_recorded_pass": {
+    "W1": false,
+    "W2": false,
+    "W3": false,
+    "W4": false,
+    "W5": false,
+    "W6": false,
+    "W7": false
+  },
+  "wilcoxon_p_from_saved_predictions": {
+    "W3": 0.15865525393145707,
+    "W4": 0.41178847197443247,
+    "W6": 0.9999983804300427
+  },
+  "brier": 0.44821428571428573,
+  "scope": "Raw wing mean shapes and projection fractions recomputed using source GPA and basis. Prediction-error summaries and W decisions checked against saved prediction outputs. Full predictor and all noise/allometry alternatives not independently rebuilt. 1027 specimens are 30 species, not 1027 independent evolutionary replicates. Perimeter landmark split is later model selection and needs held-out confirmation."
+}

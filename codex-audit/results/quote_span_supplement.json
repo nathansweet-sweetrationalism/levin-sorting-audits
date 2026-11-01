@@ -1,0 +1,2209 @@
+[
+  {
+    "article": "sweet",
+    "line_start": 1,
+    "line_end": 1,
+    "delimiter": "curly_multiline",
+    "quote": "Revelation",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 14,
+    "line_end": 14,
+    "delimiter": "curly_multiline",
+    "quote": "Radical Platonism and Radical Empiricism",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 19,
+    "line_end": 19,
+    "delimiter": "curly_multiline",
+    "quote": "The first principle is that you must not fool yourself and you are the easiest person to fool.",
+    "status": "verified_words_minor_punctuation_difference",
+    "normalized_matches": [
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 24,
+    "line_end": 24,
+    "delimiter": "curly_multiline",
+    "quote": "beyond the algorithm",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 36,
+    "line_end": 36,
+    "delimiter": "curly_multiline",
+    "quote": "The Correct Explanation",
+    "status": "verified_against_preserved_original_article",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 36,
+    "line_end": 36,
+    "delimiter": "curly_multiline",
+    "quote": "Here is what’s actually happening.",
+    "status": "verified_against_preserved_original_article",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 43,
+    "line_end": 43,
+    "delimiter": "curly_multiline",
+    "quote": "the algorithm",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 45,
+    "line_end": 45,
+    "delimiter": "curly_multiline",
+    "quote": "neither prescribed nor forbidden by the algorithm",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 48,
+    "line_end": 48,
+    "delimiter": "curly_multiline",
+    "quote": "maximize g",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 50,
+    "line_end": 50,
+    "delimiter": "curly_multiline",
+    "quote": "not something that can be predicted a priori,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 54,
+    "line_end": 54,
+    "delimiter": "curly_multiline",
+    "quote": "no explicit repair planner",
+    "status": "constructed_contrast_or_hypothetical_not_attributed_verbatim_speech",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 54,
+    "line_end": 54,
+    "delimiter": "curly_multiline",
+    "quote": "no implemented response to a defective cell",
+    "status": "constructed_contrast_or_hypothetical_not_attributed_verbatim_speech",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 67,
+    "line_end": 67,
+    "delimiter": "curly_multiline",
+    "quote": "flat 0.50 prediction",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 68,
+    "line_end": 68,
+    "delimiter": "curly_multiline",
+    "quote": "Is this another critic’s claim, or a null model you constructed from my explanation?",
+    "status": "private_exchange_not_independently_verified",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 70,
+    "line_end": 70,
+    "delimiter": "curly_multiline",
+    "quote": "It never directly swaps equal keys",
+    "status": "constructed_contrast_or_hypothetical_not_attributed_verbatim_speech",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 72,
+    "line_end": 72,
+    "delimiter": "curly_multiline",
+    "quote": "flat",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 89,
+    "line_end": 89,
+    "delimiter": "curly_multiline",
+    "quote": "can have higher effective information than micro-level descriptions.",
+    "status": "verified_in_public_comment_4350_context_preserved",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 89,
+    "line_end": 89,
+    "delimiter": "curly_multiline",
+    "quote": "That’s a reductionist argument against the reality of other causal levels.",
+    "status": "verified_in_public_comment_4350_context_preserved",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 91,
+    "line_end": 91,
+    "delimiter": "curly_multiline",
+    "quote": "Reductionism",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 95,
+    "line_end": 95,
+    "delimiter": "curly_multiline",
+    "quote": "reductionist blog critics",
+    "status": "verified_against_supplied_dietz_article",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 95,
+    "line_end": 95,
+    "delimiter": "curly_multiline",
+    "quote": "reductionist dismissals that wave away real emergent phenomena without checking the math.",
+    "status": "verified_against_supplied_dietz_article",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 99,
+    "line_end": 99,
+    "delimiter": "curly_multiline",
+    "quote": "36,000 words",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 100,
+    "line_end": 100,
+    "delimiter": "curly_multiline",
+    "quote": "36,000 words",
+    "status": "verified_against_supplied_dietz_article",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 100,
+    "line_end": 100,
+    "delimiter": "curly_multiline",
+    "quote": "every possible argument one could make against his positions",
+    "status": "verified_against_supplied_dietz_article",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 104,
+    "line_end": 104,
+    "delimiter": "curly_multiline",
+    "quote": "Free compute",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 109,
+    "line_end": 109,
+    "delimiter": "curly_multiline",
+    "quote": "free",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt",
+      "sources\\primary\\thompson1917_catalog.plain.txt",
+      "sources\\primary\\thompson1917_catalog.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 125,
+    "line_end": 125,
+    "delimiter": "curly_multiline",
+    "quote": "real energy.",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 132,
+    "line_end": 132,
+    "delimiter": "curly_multiline",
+    "quote": "intrinsic motivation",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 141,
+    "line_end": 141,
+    "delimiter": "curly_multiline",
+    "quote": "clustering",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 141,
+    "line_end": 141,
+    "delimiter": "curly_multiline",
+    "quote": "free compute",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 141,
+    "line_end": 141,
+    "delimiter": "curly_multiline",
+    "quote": "intrinsic motivation",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 143,
+    "line_end": 143,
+    "delimiter": "curly_multiline",
+    "quote": "clustering",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 145,
+    "line_end": 145,
+    "delimiter": "curly_multiline",
+    "quote": "I didn’t expect this",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 165,
+    "line_end": 165,
+    "delimiter": "curly_multiline",
+    "quote": "when you converted the sorting algorithm into an agentic system, did you not change the system being studied?",
+    "status": "explicit_hypothetical_question_not_historical_quote",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 170,
+    "line_end": 170,
+    "delimiter": "curly_multiline",
+    "quote": "does",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\compiler_fluckiger.plain.txt",
+      "sources\\primary\\compiler_fluckiger.text.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 184,
+    "line_end": 184,
+    "delimiter": "curly_multiline",
+    "quote": "mysterious.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 184,
+    "line_end": 184,
+    "delimiter": "curly_multiline",
+    "quote": "between the lines.",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 186,
+    "line_end": 186,
+    "delimiter": "curly_multiline",
+    "quote": "What optimizations is the compiler performing?",
+    "status": "constructed_contrast_or_hypothetical_not_attributed_verbatim_speech",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 186,
+    "line_end": 186,
+    "delimiter": "curly_multiline",
+    "quote": "What are the hardware effects?",
+    "status": "constructed_contrast_or_hypothetical_not_attributed_verbatim_speech",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 186,
+    "line_end": 186,
+    "delimiter": "curly_multiline",
+    "quote": "Did I understand what the algorithm actually does?",
+    "status": "constructed_contrast_or_hypothetical_not_attributed_verbatim_speech",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 191,
+    "line_end": 191,
+    "delimiter": "curly_multiline",
+    "quote": "teleology advances,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 191,
+    "line_end": 191,
+    "delimiter": "curly_multiline",
+    "quote": "recognize the designer behind the design.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 196,
+    "line_end": 196,
+    "delimiter": "curly_multiline",
+    "quote": "Design Inference",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\film_clips.plain.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 196,
+    "line_end": 196,
+    "delimiter": "curly_multiline",
+    "quote": "the activity of a prior designing intelligence.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\discovery_2004.plain.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 204,
+    "line_end": 204,
+    "delimiter": "curly_multiline",
+    "quote": "Design Inference",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\film_clips.plain.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 214,
+    "line_end": 214,
+    "delimiter": "curly_multiline",
+    "quote": "why does this happen?",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 214,
+    "line_end": 214,
+    "delimiter": "curly_multiline",
+    "quote": "which form ingressed?",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 216,
+    "line_end": 216,
+    "delimiter": "curly_multiline",
+    "quote": "the retreat into the marvelous.",
+    "status": "not_matched_to_preserved_primary_source",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 216,
+    "line_end": 216,
+    "delimiter": "curly_multiline",
+    "quote": "I don’t know yet",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 225,
+    "line_end": 225,
+    "delimiter": "curly_multiline",
+    "quote": "mysterious.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 227,
+    "line_end": 227,
+    "delimiter": "curly_multiline",
+    "quote": "equal",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 230,
+    "line_end": 230,
+    "delimiter": "curly_multiline",
+    "quote": "degrees of freedom",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 232,
+    "line_end": 232,
+    "delimiter": "curly_multiline",
+    "quote": "hidden",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 236,
+    "line_end": 236,
+    "delimiter": "curly_multiline",
+    "quote": "intrinsic motivation.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 241,
+    "line_end": 241,
+    "delimiter": "curly_multiline",
+    "quote": "Actual Computer Scientist here, I have some concerns and I think Levin has made a fundamental conceptual error that invalidates his entire argument. What he’s actually discovered: Deterministic algorithms produce patterns that weren’t explicitly written as high-level goals. What he thinks he’s discovered: Evidence of something operating ‘in spite of’ or ‘between’ the algorithm. The error: He’s confusing ’emergent from the algorithm’s steps’ with ‘not explained by the algorithm.’ The clustering pattern IS the algorithm.",
+    "status": "not_matched_to_preserved_primary_source",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 243,
+    "line_end": 243,
+    "delimiter": "curly_multiline",
+    "quote": "You take a 6 step algorithm to sort numbers, you look at the numbers during the sorting process, you notice patterns. From this you conclude something outside the algorithm is happening? That seems a massive stretch.",
+    "status": "not_matched_to_preserved_primary_source",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 256,
+    "line_end": 256,
+    "delimiter": "curly_multiline",
+    "quote": "discovery",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\discovery_2004.plain.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 263,
+    "line_end": 263,
+    "delimiter": "curly_multiline",
+    "quote": "I don’t know yet, let me investigate further.",
+    "status": "constructed_contrast_or_hypothetical_not_attributed_verbatim_speech",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 285,
+    "line_end": 285,
+    "delimiter": "curly_multiline",
+    "quote": "What observation would count against your proposed cause?",
+    "status": "constructed_contrast_or_hypothetical_not_attributed_verbatim_speech",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 301,
+    "line_end": 301,
+    "delimiter": "curly_multiline",
+    "quote": "life.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\discovery_2004.plain.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\film_clips.plain.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt",
+      "sources\\primary\\thompson1917_catalog.plain.txt",
+      "sources\\primary\\thompson1917_catalog.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 328,
+    "line_end": 328,
+    "delimiter": "curly_multiline",
+    "quote": "between-the-lines",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 430,
+    "line_end": 430,
+    "delimiter": "curly_multiline",
+    "quote": "The Design Inference.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\film_clips.plain.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "sweet",
+    "line_start": 437,
+    "line_end": 437,
+    "delimiter": "curly_multiline",
+    "quote": "36,000 words",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 2,
+    "line_end": 2,
+    "delimiter": "curly_multiline",
+    "quote": "Platonic Ingression",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 12,
+    "line_end": 12,
+    "delimiter": "curly_multiline",
+    "quote": "As someone with a computational background leaning into bio, Michael Levin has taken the scalpel down to the smallest component parts, worked on new imaging techniques, and tried to understand how cells take their form, which is related to newly observable phenomena via the electrical communication that happens between cells. This then is used to explain various other previously unexplainable phenomena, like how cells make decisions together (i.e. expressed agency without neurons or a brain).",
+    "status": "authors_own_reported_explanation_no_external_transcript",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 14,
+    "line_end": 14,
+    "delimiter": "curly_multiline",
+    "quote": "woo science.",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 23,
+    "line_end": 23,
+    "delimiter": "curly_multiline",
+    "quote": "Platonism,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 23,
+    "line_end": 23,
+    "delimiter": "curly_multiline",
+    "quote": "morphospace",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 23,
+    "line_end": 23,
+    "delimiter": "curly_multiline",
+    "quote": "latent Platonic space",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 25,
+    "line_end": 25,
+    "delimiter": "curly_multiline",
+    "quote": "Platonism",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 25,
+    "line_end": 25,
+    "delimiter": "curly_multiline",
+    "quote": "ingress",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 29,
+    "line_end": 29,
+    "delimiter": "curly_multiline",
+    "quote": "pro",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\compiler_brown.plain.txt",
+      "sources\\primary\\compiler_brown.text.txt",
+      "sources\\primary\\compiler_fluckiger.plain.txt",
+      "sources\\primary\\compiler_fluckiger.text.txt",
+      "sources\\primary\\compiler_georgiou.plain.txt",
+      "sources\\primary\\compiler_georgiou.text.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\discovery_2004.plain.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\film_clips.plain.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post.plain.txt",
+      "sources\\primary\\levin_post.text.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\nanopub_published_manifest_prod.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt",
+      "sources\\primary\\thompson1917_catalog.plain.txt",
+      "sources\\primary\\thompson1917_catalog.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 29,
+    "line_end": 29,
+    "delimiter": "curly_multiline",
+    "quote": "against",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post.plain.txt",
+      "sources\\primary\\levin_post.text.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 33,
+    "line_end": 33,
+    "delimiter": "curly_multiline",
+    "quote": "No Error-Handling Code Was Added",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 34,
+    "line_end": 34,
+    "delimiter": "curly_multiline",
+    "quote": "gym teacher",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 34,
+    "line_end": 34,
+    "delimiter": "curly_multiline",
+    "quote": "cell",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\compiler_brown.plain.txt",
+      "sources\\primary\\compiler_brown.text.txt",
+      "sources\\primary\\compiler_fluckiger.plain.txt",
+      "sources\\primary\\compiler_fluckiger.text.txt",
+      "sources\\primary\\compiler_georgiou.plain.txt",
+      "sources\\primary\\compiler_georgiou.text.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\discovery_2004.plain.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 36,
+    "line_end": 36,
+    "delimiter": "curly_multiline",
+    "quote": "personalities",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 63,
+    "line_end": 63,
+    "delimiter": "curly_multiline",
+    "quote": "frozen",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 65,
+    "line_end": 65,
+    "delimiter": "curly_multiline",
+    "quote": "The critical thing is that we did not add steps to the algorithm to check whether a swap had been completed, or to do specific things if an operation failed.",
+    "status": "verified_published_wording_locator_version_drift",
+    "normalized_matches": [
+      "sources\\primary\\ingressing.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 91,
+    "line_end": 91,
+    "delimiter": "curly_multiline",
+    "quote": "Delayed Gratification",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sorting_arxiv.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 92,
+    "line_end": 92,
+    "delimiter": "curly_multiline",
+    "quote": "temporarily going against its gradient to recoup greater gains later.",
+    "status": "not_verbatim_in_cited_published_version",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 113,
+    "line_end": 113,
+    "delimiter": "curly_multiline",
+    "quote": "Spontaneous Algotype Clustering",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 120,
+    "line_end": 120,
+    "delimiter": "curly_multiline",
+    "quote": "duplicate-key stability",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 136,
+    "line_end": 136,
+    "delimiter": "curly_multiline",
+    "quote": "textbook stability",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\sweet_live.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 144,
+    "line_end": 144,
+    "delimiter": "curly_multiline",
+    "quote": "growth knobs",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 155,
+    "line_end": 155,
+    "delimiter": "curly_multiline",
+    "quote": "17-Dot Head Seesaw",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 167,
+    "line_end": 167,
+    "delimiter": "curly_multiline",
+    "quote": "Plain Box Stretch",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 167,
+    "line_end": 167,
+    "delimiter": "curly_multiline",
+    "quote": "cheat",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 225,
+    "line_end": 225,
+    "delimiter": "curly_multiline",
+    "quote": "delayed gratification",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sorting_arxiv.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 227,
+    "line_end": 227,
+    "delimiter": "curly_multiline",
+    "quote": "copy the nearest relative",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 244,
+    "line_end": 246,
+    "delimiter": "curly_multiline",
+    "quote": "Joel Dietz points in the right direction by proposing a predictive morphospace language connecting bioelectric patterns to downstream gene-expression cascades and morphology. A knowledge graph, however, can encode D or D + P. Platonic ingress begins earning evidence only when at least one P-specific relation improves held-out prediction, intervention, compression, or comparative model performance beyond the best D-only account.\n\nThe decisive experiment would make P itself measurable at the edges: specify its hard core and bridge principle before observation; define a P-linked variable, topology, relation, or invariant independently of the residual; identify outcomes that materially separate D + P from serious rivals; use negative controls and held-out embodiments; replicate the advantage independently. Most important, freeze the update rule. A failed bridge must cost P something. A repair must buy fresh risk.",
+    "status": "not_matched_to_retrieved_companion_version",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 261,
+    "line_end": 261,
+    "delimiter": "curly_multiline",
+    "quote": "The problem is that currently, the AI’s seem to be making the same kind of logical errors (from my perspective of course) and expressing the same kind of preconceptions that are prevalent in status quo human thinkers… Right now the LLMs are trapped in the same attractors of thinking that have held several fields back for decades; perhaps not surprisingly. That will change; let’s go AIs—read the papers, follow new directions, be not afraid of ancient philosophical ‘category errors’.",
+    "status": "matches_preserved_mirror_with_ellipsis_primary_post_needs_rendered_validation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 263,
+    "line_end": 263,
+    "delimiter": "curly_multiline",
+    "quote": "within",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 263,
+    "line_end": 263,
+    "delimiter": "curly_multiline",
+    "quote": "without,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 263,
+    "line_end": 263,
+    "delimiter": "curly_multiline",
+    "quote": "within,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 265,
+    "line_end": 265,
+    "delimiter": "curly_multiline",
+    "quote": "training data",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 265,
+    "line_end": 265,
+    "delimiter": "curly_multiline",
+    "quote": "cargo cults",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 267,
+    "line_end": 267,
+    "delimiter": "curly_multiline",
+    "quote": "dualism",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 267,
+    "line_end": 267,
+    "delimiter": "curly_multiline",
+    "quote": "without,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 269,
+    "line_end": 269,
+    "delimiter": "curly_multiline",
+    "quote": "minds,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 271,
+    "line_end": 271,
+    "delimiter": "curly_multiline",
+    "quote": "Other.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\compiler_brown.plain.txt",
+      "sources\\primary\\compiler_brown.text.txt",
+      "sources\\primary\\compiler_fluckiger.plain.txt",
+      "sources\\primary\\compiler_fluckiger.text.txt",
+      "sources\\primary\\compiler_georgiou.plain.txt",
+      "sources\\primary\\compiler_georgiou.text.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt",
+      "sources\\primary\\thompson1917_catalog.plain.txt",
+      "sources\\primary\\thompson1917_catalog.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 273,
+    "line_end": 273,
+    "delimiter": "curly_multiline",
+    "quote": "the divine,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 275,
+    "line_end": 275,
+    "delimiter": "curly_multiline",
+    "quote": "other",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\compiler_brown.plain.txt",
+      "sources\\primary\\compiler_brown.text.txt",
+      "sources\\primary\\compiler_fluckiger.plain.txt",
+      "sources\\primary\\compiler_fluckiger.text.txt",
+      "sources\\primary\\compiler_georgiou.plain.txt",
+      "sources\\primary\\compiler_georgiou.text.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt",
+      "sources\\primary\\thompson1917_catalog.plain.txt",
+      "sources\\primary\\thompson1917_catalog.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 278,
+    "line_end": 278,
+    "delimiter": "curly_multiline",
+    "quote": "a shared statistical model of reality, akin to Plato’s concept of an ideal reality",
+    "status": "verified_paper_abstract_wording",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 278,
+    "line_end": 278,
+    "delimiter": "curly_multiline",
+    "quote": "biology,",
+    "status": "verified_paper_abstract_wording",
+    "normalized_matches": [
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\discovery_2004.plain.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt",
+      "sources\\primary\\thompson1917_catalog.plain.txt",
+      "sources\\primary\\thompson1917_catalog.text.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 278,
+    "line_end": 278,
+    "delimiter": "curly_multiline",
+    "quote": "good",
+    "status": "verified_paper_abstract_wording",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 278,
+    "line_end": 278,
+    "delimiter": "curly_multiline",
+    "quote": "bad",
+    "status": "verified_paper_abstract_wording",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 282,
+    "line_end": 282,
+    "delimiter": "curly_multiline",
+    "quote": "unknown unknown.",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 284,
+    "line_end": 284,
+    "delimiter": "curly_multiline",
+    "quote": "…Biology is the Final Frontier for Engineering",
+    "status": "not_matched_to_preserved_primary_source",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 286,
+    "line_end": 286,
+    "delimiter": "curly_multiline",
+    "quote": "For the very first time in human history, biology has the opportunity to be engineering, not science. When something becomes engineering, it becomes exponentially improving.",
+    "status": "not_verified_against_original_recording",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 288,
+    "line_end": 288,
+    "delimiter": "curly_multiline",
+    "quote": "mess",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 290,
+    "line_end": 290,
+    "delimiter": "curly_multiline",
+    "quote": "0.0% needed",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 290,
+    "line_end": 290,
+    "delimiter": "curly_multiline",
+    "quote": "without",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 290,
+    "line_end": 290,
+    "delimiter": "curly_multiline",
+    "quote": "ghost clustering",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 290,
+    "line_end": 290,
+    "delimiter": "curly_multiline",
+    "quote": "ghost",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 292,
+    "line_end": 292,
+    "delimiter": "curly_multiline",
+    "quote": "without",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 292,
+    "line_end": 292,
+    "delimiter": "curly_multiline",
+    "quote": "without,",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 295,
+    "line_end": 295,
+    "delimiter": "curly_multiline",
+    "quote": "direct knowing,",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 295,
+    "line_end": 295,
+    "delimiter": "curly_multiline",
+    "quote": "would-be",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\feynman.plain.txt",
+      "sources\\primary\\feynman.text.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 295,
+    "line_end": 295,
+    "delimiter": "curly_multiline",
+    "quote": "almost",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\discovery_2004.plain.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 297,
+    "line_end": 297,
+    "delimiter": "curly_multiline",
+    "quote": "soul",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 297,
+    "line_end": 297,
+    "delimiter": "curly_multiline",
+    "quote": "as a triangle within a square.",
+    "status": "not_matched_to_preserved_primary_source",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 302,
+    "line_end": 302,
+    "delimiter": "curly_multiline",
+    "quote": "as a triangle within a square.",
+    "status": "not_matched_to_preserved_primary_source",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 308,
+    "line_end": 308,
+    "delimiter": "curly_multiline",
+    "quote": "side-quests—not predicted, explained, or produced by that medium",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_sorting.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 313,
+    "line_end": 313,
+    "delimiter": "curly_multiline",
+    "quote": "Causal Emergence",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 315,
+    "line_end": 315,
+    "delimiter": "curly_multiline",
+    "quote": "spirit of CIMC",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 315,
+    "line_end": 315,
+    "delimiter": "curly_multiline",
+    "quote": "spirit of CIMC",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 317,
+    "line_end": 317,
+    "delimiter": "curly_multiline",
+    "quote": "77.6++%",
+    "status": "authors_own_instruction_or_section_label",
+    "normalized_matches": [
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 317,
+    "line_end": 317,
+    "delimiter": "curly_multiline",
+    "quote": "take the locked value and advance it.",
+    "status": "authors_own_instruction_or_section_label",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 317,
+    "line_end": 317,
+    "delimiter": "curly_multiline",
+    "quote": "reading the papers",
+    "status": "authors_own_instruction_or_section_label",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 327,
+    "line_end": 327,
+    "delimiter": "curly_multiline",
+    "quote": "Two Rulers",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 403,
+    "line_end": 403,
+    "delimiter": "curly_multiline",
+    "quote": "Platonic Space",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\dietz_methods.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 403,
+    "line_end": 403,
+    "delimiter": "curly_multiline",
+    "quote": "Nothing New Here",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 416,
+    "line_end": 416,
+    "delimiter": "curly_multiline",
+    "quote": "D vs. D + P & Conclusion",
+    "status": "authors_own_instruction_or_section_label",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 423,
+    "line_end": 423,
+    "delimiter": "curly_multiline",
+    "quote": "woo science",
+    "status": "short_term_or_label_not_external_quotation",
+    "normalized_matches": [],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  },
+  {
+    "article": "dietz",
+    "line_start": 427,
+    "line_end": 427,
+    "delimiter": "curly_multiline",
+    "quote": "without.",
+    "status": "normalized_word_match_requires_context_check",
+    "normalized_matches": [
+      "sources\\primary\\aristotle_soul_mit.plain.txt",
+      "sources\\primary\\dietz_fish.txt",
+      "sources\\primary\\dietz_sorting.txt",
+      "sources\\primary\\durant_2017.txt",
+      "sources\\primary\\hivemind.txt",
+      "sources\\primary\\ingressing.txt",
+      "sources\\primary\\levin_post_mirror.plain.txt",
+      "sources\\primary\\levin_post_mirror.text.txt",
+      "sources\\primary\\lex_transcript.plain.txt",
+      "sources\\primary\\platonic_representation.txt",
+      "sources\\primary\\plato_letter7.plain.txt",
+      "sources\\primary\\sep_biology.plain.txt",
+      "sources\\primary\\sep_biology.text.txt",
+      "sources\\primary\\sep_reduction.plain.txt",
+      "sources\\primary\\sep_reduction.text.txt",
+      "sources\\primary\\sorting_arxiv.txt",
+      "sources\\primary\\sweet_live.text.txt",
+      "sources\\primary\\sweet_pipette.plain.txt",
+      "sources\\primary\\symposium.plain.txt",
+      "sources\\primary\\thompson1913_ocr.txt"
+    ],
+    "note": "Extraction is not adjudication. Nested opening marks and scare quotes can affect spans; initial linewise inventory remains available."
+  }
+]

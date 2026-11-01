@@ -1,0 +1,4187 @@
+[
+  {
+    "doi": "10.1002/dvdy.23770",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Normalized shape and location of perturbed craniofacial structures in the\n                    <i>Xenopus</i>\n                    tadpole reveal an innate ability to achieve correct morphology"
+    ],
+    "authors": [
+      {
+        "given": "Laura N.",
+        "family": "Vandenberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dany S.",
+        "family": "Adams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Developmental Dynamics"
+    ],
+    "volume": "241",
+    "issue": "5",
+    "page": "863-878",
+    "published": {
+      "date-parts": [
+        [
+          2012,
+          3,
+          23
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1002/dvdy.23770",
+    "links": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fdvdy.23770",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://anatomypubs.onlinelibrary.wiley.com/doi/pdf/10.1002/dvdy.23770",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2012,
+              3,
+              23
+            ]
+          ],
+          "date-time": "2012-03-23T00:00:00Z",
+          "timestamp": 1332460800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s00224-006-1311-1",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Sorting Stably, in Place, with O(n log n) Comparisons and O(n) Moves"
+    ],
+    "authors": [
+      {
+        "given": "Gianni",
+        "family": "Franceschini",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Theory of Computing Systems"
+    ],
+    "volume": "40",
+    "issue": "4",
+    "page": "327-353",
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          6
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1007/s00224-006-1311-1",
+    "links": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00224-006-1311-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s00224-006-1311-1/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00224-006-1311-1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2007-06-01T00:00:00Z",
+          "timestamp": 1180656000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/S1355-2198(03)00039-X",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "Notes on Landauer's principle, reversible computation, and Maxwell's Demon"
+    ],
+    "authors": [
+      {
+        "given": "Charles H.",
+        "family": "Bennett",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics"
+    ],
+    "volume": "34",
+    "issue": "3",
+    "page": "501-510",
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          9
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1016/s1355-2198(03)00039-x",
+    "links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S135521980300039X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S135521980300039X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2003-09-01T00:00:00Z",
+          "timestamp": 1062374400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.biosystems.2021.104511",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Morphology changes induced by intercellular gap junction blocking: A reaction-diffusion mechanism"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8965-9298",
+        "authenticated-orcid": false,
+        "given": "Javier",
+        "family": "Cervera",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Salvador",
+        "family": "Mafe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Biosystems"
+    ],
+    "volume": "209",
+    "issue": null,
+    "page": "104511",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          11
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1016/j.biosystems.2021.104511",
+    "links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0303264721001556?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0303264721001556?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2021-11-01T00:00:00Z",
+          "timestamp": 1635724800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2021-11-01T00:00:00Z",
+          "timestamp": 1635724800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              17
+            ]
+          ],
+          "date-time": "2021-08-17T00:00:00Z",
+          "timestamp": 1629158400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.chembiol.2010.11.012",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "A Chemical Genetics Approach Reveals H,K-ATPase-Mediated Membrane Voltage Is Required for Planarian Head Regeneration"
+    ],
+    "authors": [
+      {
+        "given": "Wendy S.",
+        "family": "Beane",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Junji",
+        "family": "Morokuma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dany S.",
+        "family": "Adams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Chemistry &amp; Biology"
+    ],
+    "volume": "18",
+    "issue": "1",
+    "page": "77-89",
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1016/j.chembiol.2010.11.012",
+    "links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1074552110004473?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1074552110004473?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2011-01-01T00:00:00Z",
+          "timestamp": 1293840000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2011-01-01T00:00:00Z",
+          "timestamp": 1293840000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              8,
+              22
+            ]
+          ],
+          "date-time": "2013-08-22T00:00:00Z",
+          "timestamp": 1377129600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 964,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.jjimei.2021.100042",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "Systematic review and exploration of new avenues for sorting algorithm"
+    ],
+    "authors": [
+      {
+        "given": "Anand",
+        "family": "Zutshi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dipanjan",
+        "family": "Goswami",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "International Journal of Information Management Data Insights"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "page": "100042",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          11
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1016/j.jjimei.2021.100042",
+    "links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2667096821000355?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2667096821000355?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2021-11-01T00:00:00Z",
+          "timestamp": 1635724800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2021-11-01T00:00:00Z",
+          "timestamp": 1635724800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2021-10-07T00:00:00Z",
+          "timestamp": 1633564800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.patter.2025.101472",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Quantifying emergent complexity"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2970-0057",
+        "authenticated-orcid": false,
+        "given": "Erik",
+        "family": "Hoel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Patterns"
+    ],
+    "volume": "7",
+    "issue": "1",
+    "page": "101472",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1016/j.patter.2025.101472",
+    "links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2666389925003204?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2666389925003204?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              8
+            ]
+          ],
+          "date-time": "2025-12-08T00:00:00Z",
+          "timestamp": 1765152000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.ydbio.2009.12.012",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "Long-range neural and gap junction protein-mediated cues control polarity during planarian regeneration"
+    ],
+    "authors": [
+      {
+        "given": "Néstor J.",
+        "family": "Oviedo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Junji",
+        "family": "Morokuma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Walentek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ido P.",
+        "family": "Kema",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Man Bock",
+        "family": "Gu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joo-Myung",
+        "family": "Ahn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jung Shan",
+        "family": "Hwang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Takashi",
+        "family": "Gojobori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Developmental Biology"
+    ],
+    "volume": "339",
+    "issue": "1",
+    "page": "188-199",
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          3
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1016/j.ydbio.2009.12.012",
+    "links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S001216060901402X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S001216060901402X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2010-03-01T00:00:00Z",
+          "timestamp": 1267401600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2013-07-17T00:00:00Z",
+          "timestamp": 1374019200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 1234,
+        "URL": "https://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1038/41557",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Net transfer of carbon between ectomycorrhizal tree species in the field"
+    ],
+    "authors": [
+      {
+        "given": "Suzanne W.",
+        "family": "Simard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David A.",
+        "family": "Perry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Melanie D.",
+        "family": "Jones",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David D.",
+        "family": "Myrold",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel M.",
+        "family": "Durall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Randy",
+        "family": "Molina",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Nature"
+    ],
+    "volume": "388",
+    "issue": "6642",
+    "page": "579-582",
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          8,
+          7
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1038/41557",
+    "links": [
+      {
+        "URL": "https://www.nature.com/articles/41557.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/41557",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/doifinder/10.1038/41557",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://www.nature.com/articles/41557.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1997,
+              8,
+              7
+            ]
+          ],
+          "date-time": "1997-08-07T00:00:00Z",
+          "timestamp": 870912000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              1997,
+              8,
+              7
+            ]
+          ],
+          "date-time": "1997-08-07T00:00:00Z",
+          "timestamp": 870912000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ]
+  },
+  {
+    "doi": "10.1038/s41586-018-0273-1",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "An inverse latitudinal gradient in speciation rate for marine fishes"
+    ],
+    "authors": [
+      {
+        "given": "Daniel L.",
+        "family": "Rabosky",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Chang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pascal O.",
+        "family": "Title",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter F.",
+        "family": "Cowman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lauren",
+        "family": "Sallan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matt",
+        "family": "Friedman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kristin",
+        "family": "Kaschner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cristina",
+        "family": "Garilao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas J.",
+        "family": "Near",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marta",
+        "family": "Coll",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael E.",
+        "family": "Alfaro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Nature"
+    ],
+    "volume": "559",
+    "issue": "7714",
+    "page": "392-395",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          7
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1038/s41586-018-0273-1",
+    "links": [
+      {
+        "URL": "http://www.nature.com/articles/s41586-018-0273-1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/s41586-018-0273-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/s41586-018-0273-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2018-07-01T00:00:00Z",
+          "timestamp": 1530403200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ]
+  },
+  {
+    "doi": "10.1039/c5ib00221d",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Re-membering the body: applications of computational neuroscience to the top-down control of regeneration of limbs and other complex organs"
+    ],
+    "authors": [
+      {
+        "given": "G.",
+        "family": "Pezzulo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institute of Cognitive Sciences and Technologies"
+          },
+          {
+            "name": "National Research Council"
+          },
+          {
+            "name": "Rome"
+          },
+          {
+            "name": "Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Tufts Center for Regenerative and Developmental Biology"
+          },
+          {
+            "name": "Tufts University"
+          },
+          {
+            "name": "Medford"
+          },
+          {
+            "name": "USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Integrative Biology"
+    ],
+    "volume": "7",
+    "issue": "12",
+    "page": "1487-1517",
+    "published": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1039/c5ib00221d",
+    "links": [
+      {
+        "URL": "http://pubs.rsc.org/en/content/articlepdf/2015/IB/C5IB00221D",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": null
+  },
+  {
+    "doi": "10.1073/pnas.1314922110",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "Quantifying causal emergence shows that macro can beat micro"
+    ],
+    "authors": [
+      {
+        "given": "Erik P.",
+        "family": "Hoel",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of Wisconsin, Madison, WI 53719"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Larissa",
+        "family": "Albantakis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of Wisconsin, Madison, WI 53719"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giulio",
+        "family": "Tononi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of Wisconsin, Madison, WI 53719"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "volume": "110",
+    "issue": "49",
+    "page": "19790-19795",
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          18
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1073/pnas.1314922110",
+    "links": [
+      {
+        "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1314922110",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": null
+  },
+  {
+    "doi": "10.1073/pnas.1910837117",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "A scalable pipeline for designing reconfigurable organisms"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9207-1775",
+        "authenticated-orcid": false,
+        "given": "Sam",
+        "family": "Kriegman",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, University of Vermont, Burlington, VT 05405;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Douglas",
+        "family": "Blackiston",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Tufts University, Medford, MA 02153;"
+          },
+          {
+            "name": "Allen Discovery Center, Tufts University, Medford, MA 02153;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Tufts University, Medford, MA 02153;"
+          },
+          {
+            "name": "Allen Discovery Center, Tufts University, Medford, MA 02153;"
+          },
+          {
+            "name": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Josh",
+        "family": "Bongard",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, University of Vermont, Burlington, VT 05405;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "volume": "117",
+    "issue": "4",
+    "page": "1853-1859",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          13
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1073/pnas.1910837117",
+    "links": [
+      {
+        "URL": "http://www.pnas.org/syndication/doi/10.1073/pnas.1910837117",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1910837117",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              13
+            ]
+          ],
+          "date-time": "2020-01-13T00:00:00Z",
+          "timestamp": 1578873600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1073/pnas.2112672118",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "Kinematic self-replication in reconfigurable organisms"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9207-1775",
+        "authenticated-orcid": false,
+        "given": "Sam",
+        "family": "Kriegman",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Allen Discovery Center, Tufts University, Medford, MA 02155;"
+          },
+          {
+            "name": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7231-0196",
+        "authenticated-orcid": false,
+        "given": "Douglas",
+        "family": "Blackiston",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Allen Discovery Center, Tufts University, Medford, MA 02155;"
+          },
+          {
+            "name": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7292-8084",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Allen Discovery Center, Tufts University, Medford, MA 02155;"
+          },
+          {
+            "name": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Josh",
+        "family": "Bongard",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, University of Vermont, Burlington, VT 05405"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "volume": "118",
+    "issue": "49",
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          29
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1073/pnas.2112672118",
+    "links": [
+      {
+        "URL": "http://www.pnas.org/syndication/doi/10.1073/pnas.2112672118",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://pnas.org/doi/pdf/10.1073/pnas.2112672118",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              29
+            ]
+          ],
+          "date-time": "2021-11-29T00:00:00Z",
+          "timestamp": 1638144000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1080/0022250X.1971.9989794",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Dynamic models of segregation†"
+    ],
+    "authors": [
+      {
+        "given": "Thomas C.",
+        "family": "Schelling",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "The Journal of Mathematical Sociology"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "page": "143-186",
+    "published": {
+      "date-parts": [
+        [
+          1971,
+          7
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1080/0022250x.1971.9989794",
+    "links": [
+      {
+        "URL": "http://www.tandfonline.com/doi/pdf/10.1080/0022250X.1971.9989794",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": null
+  },
+  {
+    "doi": "10.1093/bioinformatics/btt088",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Planform: an application and database of graph-encoded planarian regenerative experiments"
+    ],
+    "authors": [
+      {
+        "given": "Daniel",
+        "family": "Lobo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Center for Regenerative and Developmental Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Taylor J.",
+        "family": "Malone",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Center for Regenerative and Developmental Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Center for Regenerative and Developmental Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Bioinformatics"
+    ],
+    "volume": "29",
+    "issue": "8",
+    "page": "1098-1100",
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          19
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1093/bioinformatics/btt088",
+    "links": [
+      {
+        "URL": "https://academic.oup.com/bioinformatics/article-pdf/29/8/1098/48900118/bioinformatics_29_8_1098.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/bioinformatics/article-pdf/29/8/1098/48900118/bioinformatics_29_8_1098.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": null
+  },
+  {
+    "doi": "10.1093/bioinformatics/btu582",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Limbform: a functional ontology-based database of limb regeneration experiments"
+    ],
+    "authors": [
+      {
+        "given": "Daniel",
+        "family": "Lobo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center for Regenerative and Developmental Biology, Department of Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erica B.",
+        "family": "Feldman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Regenerative and Developmental Biology, Department of Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michelle",
+        "family": "Shah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Regenerative and Developmental Biology, Department of Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Taylor J.",
+        "family": "Malone",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Regenerative and Developmental Biology, Department of Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Regenerative and Developmental Biology, Department of Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Bioinformatics"
+    ],
+    "volume": "30",
+    "issue": "24",
+    "page": "3598-3600",
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          27
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1093/bioinformatics/btu582",
+    "links": [
+      {
+        "URL": "https://academic.oup.com/bioinformatics/article-pdf/30/24/3598/48931629/bioinformatics_30_24_3598.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/bioinformatics/article-pdf/30/24/3598/48931629/bioinformatics_30_24_3598.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": null
+  },
+  {
+    "doi": "10.1093/comjnl/bxab107",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "Parallel Divide-and-Conquer Algorithms for Bubble Sort, Selection Sort and Insertion Sort"
+    ],
+    "authors": [
+      {
+        "given": "Pramod",
+        "family": "Ganapathi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "State University of New York at Stony Brook , NY 11794, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rezaul",
+        "family": "Chowdhury",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State University of New York at Stony Brook , NY 11794, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "The Computer Journal"
+    ],
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          2
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1093/comjnl/bxab107",
+    "links": [
+      {
+        "URL": "https://academic.oup.com/comjnl/advance-article-pdf/doi/10.1093/comjnl/bxab107/39523813/bxab107.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/comjnl/advance-article-pdf/doi/10.1093/comjnl/bxab107/39523813/bxab107.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              2
+            ]
+          ],
+          "date-time": "2021-08-02T00:00:00Z",
+          "timestamp": 1627862400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+      }
+    ]
+  },
+  {
+    "doi": "10.1093/sysbio/syz029",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Model Choice, Missing Data, and Taxon Sampling Impact Phylogenomic Inference of Deep Basidiomycota Relationships"
+    ],
+    "authors": [
+      {
+        "given": "Arun N",
+        "family": "Prasanna",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Synthetic and Systems Biology Unit, Institute of Biochemistry, BRC-HAS, Szeged 6726, Hungary"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Gerber",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Synthetic and Systems Biology Unit, Institute of Biochemistry, BRC-HAS, Szeged 6726, Hungary"
+          },
+          {
+            "name": "Institute of Archaeology, Research Centre for the Humanities, Hungarian Academy of Sciences, Budapest 1097, Hungary"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Teeratas",
+        "family": "Kijpornyongpan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Botany and Plant Pathology, Purdue University, West Lafayette, IN 47907, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M Catherine",
+        "family": "Aime",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Botany and Plant Pathology, Purdue University, West Lafayette, IN 47907, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vinson P",
+        "family": "Doyle",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Plant Pathology and Crop Physiology, Louisiana State University AgCenter, Baton Rouge, LA 70803, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laszlo G",
+        "family": "Nagy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Synthetic and Systems Biology Unit, Institute of Biochemistry, BRC-HAS, Szeged 6726, Hungary"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Systematic Biology"
+    ],
+    "volume": "69",
+    "issue": "1",
+    "page": "17-37",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          7
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1093/sysbio/syz029",
+    "links": [
+      {
+        "URL": "http://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syz029/28903013/syz029.pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://academic.oup.com/sysbio/article-pdf/69/1/17/31455765/syz029.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://academic.oup.com/sysbio/article-pdf/69/1/17/31455765/syz029.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              7
+            ]
+          ],
+          "date-time": "2019-05-07T00:00:00Z",
+          "timestamp": 1557187200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+      }
+    ]
+  },
+  {
+    "doi": "10.1098/rsif.2013.0918",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "A linear-encoding model explains the variability of the target morphology in regeneration"
+    ],
+    "authors": [
+      {
+        "given": "Daniel",
+        "family": "Lobo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Center for Regenerative and Developmental Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mauricio",
+        "family": "Solano",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cummings School of Veterinary Medicine, Tufts University, 200 Westboro Road, North Grafton, MA 01536, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George A.",
+        "family": "Bubenik",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Integrative Biology, University of Guelph, Guelph, Ontario, Canada N1G 2W1"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Center for Regenerative and Developmental Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Journal of The Royal Society Interface"
+    ],
+    "volume": "11",
+    "issue": "92",
+    "page": "20130918",
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          6
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1098/rsif.2013.0918",
+    "links": [
+      {
+        "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2013.0918",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://royalsocietypublishing.org/doi/full-xml/10.1098/rsif.2013.0918",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2013.0918",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              6
+            ]
+          ],
+          "date-time": "2014-03-06T00:00:00Z",
+          "timestamp": 1394064000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://royalsociety.org/journals/ethics-policies/data-sharing-mining/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1098/rsif.2017.0425",
+    "status": 200,
+    "provider": "crossref",
+    "title": [
+      "Bioelectric gene and reaction networks: computational modelling of genetic, biochemical and bioelectrical dynamics in pattern regulation"
+    ],
+    "authors": [
+      {
+        "given": "Alexis",
+        "family": "Pietak",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7292-8084",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Journal of The Royal Society Interface"
+    ],
+    "volume": "14",
+    "issue": "134",
+    "page": "20170425",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1098/rsif.2017.0425",
+    "links": [
+      {
+        "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2017.0425",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://royalsocietypublishing.org/doi/full-xml/10.1098/rsif.2017.0425",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2017.0425",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2017-09-01T00:00:00Z",
+          "timestamp": 1504224000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://royalsociety.org/journals/ethics-policies/data-sharing-mining/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1109/34.24792",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Principal warps: thin-plate splines and the decomposition of deformations"
+    ],
+    "authors": [
+      {
+        "given": "F.L.",
+        "family": "Bookstein",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    ],
+    "volume": "11",
+    "issue": "6",
+    "page": "567-585",
+    "published": {
+      "date-parts": [
+        [
+          1989,
+          6
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1109/34.24792",
+    "links": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx1/34/938/00024792.pdf?arnumber=24792",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1989,
+              6,
+              1
+            ]
+          ],
+          "date-time": "1989-06-01T00:00:00Z",
+          "timestamp": 612662400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      }
+    ]
+  },
+  {
+    "doi": "10.1111/evo.12502",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Testing for beneficial reversal of dominance during salinity shifts in the invasive copepod\n            <i>Eurytemora affinis</i>\n            , and implications for the maintenance of genetic variation"
+    ],
+    "authors": [
+      {
+        "given": "Marijan",
+        "family": "Posavi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center of Rapid Evolution (CORE) University of Wisconsin  430 Lincoln Drive Madison Wisconsin 53706"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gregory William",
+        "family": "Gelembiuk",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of Rapid Evolution (CORE) University of Wisconsin  430 Lincoln Drive Madison Wisconsin 53706"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bret",
+        "family": "Larget",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Statistics Medical Sciences Center University of Wisconsin  1300 University Avenue Madison Wisconsin 53706"
+          },
+          {
+            "name": "Department of Botany University of Wisconsin  430 Lincoln Drive Madison Wisconsin 53706"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carol Eunmi",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of Rapid Evolution (CORE) University of Wisconsin  430 Lincoln Drive Madison Wisconsin 53706"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Evolution"
+    ],
+    "volume": "68",
+    "issue": "11",
+    "page": "3166-3183",
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          10,
+          2
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1111/evo.12502",
+    "links": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fevo.12502",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/evo.12502",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/evo.12502",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/evo.12502",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              10,
+              2
+            ]
+          ],
+          "date-time": "2014-10-02T00:00:00Z",
+          "timestamp": 1412208000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              10,
+              2
+            ]
+          ],
+          "date-time": "2014-10-02T00:00:00Z",
+          "timestamp": 1412208000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ]
+  },
+  {
+    "doi": "10.1145/3158137",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Correctness of speculative optimizations with dynamic deoptimization"
+    ],
+    "authors": [
+      {
+        "given": "Olivier",
+        "family": "Flückiger",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Northeastern University, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabriel",
+        "family": "Scherer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University, USA / Inria, France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming-Ho",
+        "family": "Yee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aviral",
+        "family": "Goel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Amal",
+        "family": "Ahmed",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jan",
+        "family": "Vitek",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University, USA / Czech Technical University, Czechia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Proceedings of the ACM on Programming Languages"
+    ],
+    "volume": "2",
+    "issue": "POPL",
+    "page": "1-28",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          27
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1145/3158137",
+    "links": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3158137",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3158137",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3158137",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              27
+            ]
+          ],
+          "date-time": "2017-12-27T00:00:00Z",
+          "timestamp": 1514332800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1147/rd.53.0183",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Irreversibility and Heat Generation in the Computing Process"
+    ],
+    "authors": [
+      {
+        "given": "R.",
+        "family": "Landauer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "IBM Journal of Research and Development"
+    ],
+    "volume": "5",
+    "issue": "3",
+    "page": "183-191",
+    "published": {
+      "date-parts": [
+        [
+          1961,
+          7
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1147/rd.53.0183",
+    "links": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/5288520/5392444/05392446.pdf?arnumber=5392446",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": null
+  },
+  {
+    "doi": "10.1155/2019/3027578",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "SA Sorting: A Novel Sorting Technique for Large-Scale Data"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5106-7609",
+        "authenticated-orcid": true,
+        "given": "Mohammad",
+        "family": "Shabaz",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Apex Institute of Technology, Chandigarh University, S.A.S. Nagar, India"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ashok",
+        "family": "Kumar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chitkara University Institute of Engineering and Technology, Chitkara University, Rajpura, India"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Journal of Computer Networks and Communications"
+    ],
+    "volume": "2019",
+    "issue": null,
+    "page": "1-7",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          23
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1155/2019/3027578",
+    "links": [
+      {
+        "URL": "http://downloads.hindawi.com/journals/jcnc/2019/3027578.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://downloads.hindawi.com/journals/jcnc/2019/3027578.xml",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://downloads.hindawi.com/journals/jcnc/2019/3027578.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              23
+            ]
+          ],
+          "date-time": "2019-01-23T00:00:00Z",
+          "timestamp": 1548201600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.1177/10597123241269740",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence"
+    ],
+    "authors": [
+      {
+        "given": "Taining",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Allen Discovery Center at Tufts University, Medford, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adam",
+        "family": "Goldstein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7292-8084",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Allen Discovery Center at Tufts University, Medford, MA, USA"
+          },
+          {
+            "name": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Adaptive Behavior"
+    ],
+    "volume": "33",
+    "issue": "1",
+    "page": "25-54",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          19
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1177/10597123241269740",
+    "links": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10597123241269740",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10597123241269740",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10597123241269740",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              19
+            ]
+          ],
+          "date-time": "2024-08-19T00:00:00Z",
+          "timestamp": 1724025600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ]
+  },
+  {
+    "doi": "10.1242/bio.20123400",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Towards a bioinformatics of patterning: a computational approach to understanding regulative morphogenesis"
+    ],
+    "authors": [
+      {
+        "given": "Daniel",
+        "family": "Lobo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Tufts Center for Regenerative and Developmental Biology, and Department of Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Taylor J.",
+        "family": "Malone",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Tufts Center for Regenerative and Developmental Biology, and Department of Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Tufts Center for Regenerative and Developmental Biology, and Department of Biology, Tufts University, 200 Boston Avenue, Suite 4600, Medford, MA 02155, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Biology Open"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "page": "156-169",
+    "published": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          26
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1242/bio.20123400",
+    "links": [
+      {
+        "URL": "http://journals.logists.com/bio/bio/article-pdf/2/2/156/2097899/bio-02-02-156.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://journals.logists.com/bio/bio/article-pdf/2/2/156/2097899/bio-02-02-156.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              2
+            ]
+          ],
+          "date-time": "2020-09-02T00:00:00Z",
+          "timestamp": 1599004800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 2837,
+        "URL": "http://creativecommons.org/licenses/by-nc-sa/3.0"
+      }
+    ]
+  },
+  {
+    "doi": "10.1242/dev.175950",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "The RNA-binding protein DND1 acts sequentially as a negative regulator of pluripotency and a positive regulator of epigenetic modifiers required for germ cell reprogramming"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1126-6106",
+        "authenticated-orcid": false,
+        "given": "Victor A.",
+        "family": "Ruthig",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Duke University Medical Center 1 Department of Cell Biology , , Durham, NC 27710 , USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9999-8517",
+        "authenticated-orcid": false,
+        "given": "Matthew B.",
+        "family": "Friedersdorf",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Duke University Medical Center 2 Department of Molecular Genetics and Microbiology , , Durham, NC 27710 , USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jason A.",
+        "family": "Garness",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Duke University Medical Center 1 Department of Cell Biology , , Durham, NC 27710 , USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Steve C.",
+        "family": "Munger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Jackson Laboratory 3 , Bar Harbor, ME 04609 , USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Corey",
+        "family": "Bunce",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Duke University Medical Center 1 Department of Cell Biology , , Durham, NC 27710 , USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jack D.",
+        "family": "Keene",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Duke University Medical Center 2 Department of Molecular Genetics and Microbiology , , Durham, NC 27710 , USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6587-0969",
+        "authenticated-orcid": false,
+        "given": "Blanche",
+        "family": "Capel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Duke University Medical Center 1 Department of Cell Biology , , Durham, NC 27710 , USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Development"
+    ],
+    "volume": "146",
+    "issue": "19",
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          25
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.1242/dev.175950",
+    "links": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1242/dev.175950",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://journals.biologists.com/dev/article-pdf/doi/10.1242/dev.175950/3480332/dev175950.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://journals.biologists.com/dev/article-pdf/doi/10.1242/dev.175950/2063679/dev_175950v1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://journals.biologists.com/dev/article-pdf/doi/10.1242/dev.175950/3480332/dev175950.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              25
+            ]
+          ],
+          "date-time": "2019-07-25T00:00:00Z",
+          "timestamp": 1564012800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://www.biologists.com/user-licence-1-1/"
+      }
+    ]
+  },
+  {
+    "doi": "10.31234/osf.io/5g2xj_v3",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Ingressing Minds: Causal Patterns Beyond Genetics and Environment in Natural, Synthetic, and Hybrid Embodiments"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7292-8084",
+        "authenticated-orcid": true,
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [],
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          7
+        ]
+      ]
+    },
+    "type": "posted-content",
+    "update_to": null,
+    "url": "https://doi.org/10.31234/osf.io/5g2xj_v3",
+    "links": null,
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              7
+            ]
+          ],
+          "date-time": "2025-02-07T00:00:00Z",
+          "timestamp": 1738886400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ]
+  },
+  {
+    "doi": "10.3389/fnsys.2022.768201",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds"
+    ],
+    "authors": [
+      {
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Frontiers in Systems Neuroscience"
+    ],
+    "volume": "16",
+    "issue": null,
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          24
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.3389/fnsys.2022.768201",
+    "links": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2022-03-24T00:00:00Z",
+          "timestamp": 1648080000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.3389/fphys.2016.00178",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Mitochondrial Ultrastructure and Glucose Signaling Pathways Attributed to the Kv1.3 Ion Channel"
+    ],
+    "authors": [
+      {
+        "given": "Christopher P.",
+        "family": "Kovach",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dolly",
+        "family": "Al Koborssy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhenbo",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brandon M.",
+        "family": "Chelette",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James M.",
+        "family": "Fadool",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Debra A.",
+        "family": "Fadool",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Frontiers in Physiology"
+    ],
+    "volume": "7",
+    "issue": null,
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          19
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.3389/fphys.2016.00178",
+    "links": null,
+    "license": null
+  },
+  {
+    "doi": "10.3390/e19050188",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "When the Map Is Better Than the Territory"
+    ],
+    "authors": [
+      {
+        "given": "Erik",
+        "family": "Hoel",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Entropy"
+    ],
+    "volume": "19",
+    "issue": "5",
+    "page": "188",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          26
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.3390/e19050188",
+    "links": [
+      {
+        "URL": "https://www.mdpi.com/1099-4300/19/5/188/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              26
+            ]
+          ],
+          "date-time": "2017-04-26T00:00:00Z",
+          "timestamp": 1493164800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.3390/philosophies11050161",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7292-8084",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Levin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Allen Discovery Center, Tufts University, Medford, MA 02155, USA"
+          },
+          {
+            "name": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Philosophies"
+    ],
+    "volume": "11",
+    "issue": "5",
+    "page": "161",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.3390/philosophies11050161",
+    "links": [
+      {
+        "URL": "https://www.mdpi.com/2409-9287/11/5/161/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              9
+            ]
+          ],
+          "date-time": "2026-09-09T00:00:00Z",
+          "timestamp": 1788912000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.3390/philosophies7020030",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Causal Emergence: When Distortions in a Map Obscure the Territory"
+    ],
+    "authors": [
+      {
+        "given": "Frederick",
+        "family": "Eberhardt",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "California Institute of Technology, Pasadena, CA 91125, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lin Lin",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "California Institute of Technology, Pasadena, CA 91125, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Philosophies"
+    ],
+    "volume": "7",
+    "issue": "2",
+    "page": "30",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          9
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.3390/philosophies7020030",
+    "links": [
+      {
+        "URL": "https://www.mdpi.com/2409-9287/7/2/30/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              9
+            ]
+          ],
+          "date-time": "2022-03-09T00:00:00Z",
+          "timestamp": 1646784000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.3897/JHR.32.4685",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Phylogeny of hornets: a total evidence approach (Hymenoptera, Vespidae, Vespinae, Vespa)"
+    ],
+    "authors": [
+      {
+        "given": "Adrien",
+        "family": "Perrard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kurt",
+        "family": "Pickett",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claire",
+        "family": "Villemant",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jun-ichi",
+        "family": "Kojima",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Carpenter",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [
+      "Journal of Hymenoptera Research"
+    ],
+    "volume": "32",
+    "issue": null,
+    "page": "1-15",
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          24
+        ]
+      ]
+    },
+    "type": "journal-article",
+    "update_to": null,
+    "url": "https://doi.org/10.3897/jhr.32.4685",
+    "links": [
+      {
+        "URL": "http://jhr.pensoft.net/article_preview.php?id=1636&skip_redirect=1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              4,
+              24
+            ]
+          ],
+          "date-time": "2013-04-24T00:00:00Z",
+          "timestamp": 1366761600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/3.0/"
+      }
+    ]
+  },
+  {
+    "doi": "10.5281/zenodo.20567719",
+    "status": 200,
+    "provider": "datacite",
+    "title": [
+      {
+        "title": "BioEval â€” Bioinformatics Paper Evaluator"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Dietz, Joel",
+        "nameType": "Personal",
+        "givenName": "Joel",
+        "familyName": "Dietz",
+        "nameIdentifiers": [
+          {
+            "nameIdentifier": "0009-0007-4948-9192",
+            "nameIdentifierScheme": "ORCID"
+          }
+        ],
+        "affiliation": []
+      }
+    ],
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "published": "2026",
+    "type": {
+      "ris": "COMP",
+      "bibtex": "misc",
+      "citeproc": "article",
+      "schemaOrg": "SoftwareSourceCode",
+      "resourceType": "",
+      "resourceTypeGeneral": "Software"
+    },
+    "update_to": null,
+    "url": "https://zenodo.org/doi/10.5281/zenodo.20567719",
+    "links": null,
+    "license": null
+  },
+  {
+    "doi": "10.5281/zenodo.20622878",
+    "status": 200,
+    "provider": "datacite",
+    "title": [
+      {
+        "title": "NeuroEval: Evaluating Data Transparency, Reproducibility, and Neural-Coding Rigor in Computational and Biohybrid/Wetware Neuroscience Papers"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Dietz, Joel",
+        "nameType": "Personal",
+        "givenName": "Joel",
+        "familyName": "Dietz",
+        "nameIdentifiers": [
+          {
+            "nameIdentifier": "0009-0007-4948-9192",
+            "nameIdentifierScheme": "ORCID"
+          }
+        ],
+        "affiliation": []
+      }
+    ],
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "published": "2026",
+    "type": {
+      "ris": "GEN",
+      "bibtex": "misc",
+      "citeproc": "article",
+      "schemaOrg": "CreativeWork",
+      "resourceType": "",
+      "resourceTypeGeneral": "Preprint"
+    },
+    "update_to": null,
+    "url": "https://zenodo.org/doi/10.5281/zenodo.20622878",
+    "links": null,
+    "license": null
+  },
+  {
+    "doi": "10.5281/zenodo.23680705",
+    "status": 200,
+    "provider": "datacite",
+    "title": [
+      {
+        "title": "MorphoEval: Nanopublication-Backed Evaluation of Morphology Implementations"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Dietz, Joel",
+        "nameType": "Personal",
+        "givenName": "Joel",
+        "familyName": "Dietz",
+        "nameIdentifiers": [],
+        "affiliation": []
+      }
+    ],
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "published": "2026",
+    "type": {
+      "ris": "GEN",
+      "bibtex": "misc",
+      "citeproc": "article",
+      "schemaOrg": "CreativeWork",
+      "resourceType": "",
+      "resourceTypeGeneral": "Preprint"
+    },
+    "update_to": null,
+    "url": "https://zenodo.org/doi/10.5281/zenodo.23680705",
+    "links": null,
+    "license": null
+  },
+  {
+    "doi": "10.5962/bhl.title.11332",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "On growth and form"
+    ],
+    "authors": [
+      {
+        "given": "D'Arcy Wentworth",
+        "family": "Thompson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [],
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          1917
+        ]
+      ]
+    },
+    "type": "monograph",
+    "update_to": null,
+    "url": "https://doi.org/10.5962/bhl.title.11332",
+    "links": null,
+    "license": null
+  },
+  {
+    "doi": "10.5962/bhl.title.147382",
+    "status": 200,
+    "provider": "crossref-retry",
+    "title": [
+      "Historia animalium"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2052-1391",
+        "authenticated-orcid": false,
+        "family": "Aristotle.",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D'Arcy Wentworth",
+        "family": "Thompson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container": [],
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          1910
+        ]
+      ]
+    },
+    "type": "monograph",
+    "update_to": null,
+    "url": "https://doi.org/10.5962/bhl.title.147382",
+    "links": null,
+    "license": null
+  }
+]

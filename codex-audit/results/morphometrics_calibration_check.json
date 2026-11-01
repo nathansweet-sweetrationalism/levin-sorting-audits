@@ -1,0 +1,24 @@
+{
+  "original_landmark_sha256_verified": true,
+  "n_landmark_species": 791,
+  "calibration_reestimated": {
+    "BDmax_over_SL": {
+      "n": 710,
+      "alpha": -0.010133883453388892,
+      "beta": 1.0182831978209772,
+      "max_abs_coefficient_difference": 4.440892098500626e-16
+    },
+    "CPD_over_SL": {
+      "n": 711,
+      "alpha": 0.0049200505871830336,
+      "beta": 0.8676245899023962,
+      "max_abs_coefficient_difference": 0.0
+    }
+  },
+  "interpretive_rate_ratio_check": {
+    "791_species_loading_ratio": 3.2616238723108952,
+    "10303_species_loading_ratio": 9.265375884814107,
+    "units": "ratio of variance-loading percentages; not change per unit time"
+  },
+  "GPA_implementation_boundary": "Uses source GPA and registered proxy definitions, so this verifies recomputation but is not a fully independent morphometrics implementation."
+}

@@ -1,0 +1,10 @@
+'MathOfBiology.ZhangSortingMorphogenesis.bubble_adjacent_swap_preserves_left_partition' depends on axioms: [propext,
+ Quot.sound]
+'MathOfBiology.ZhangSortingMorphogenesis.insertion_freeze_reset_unblocks_and_checks_post_frozen_order' does not depend on any axioms
+'MathOfBiology.ZhangSortingMorphogenesis.lyapunov_descent_vs_monotonicity_error_projection_artifact' does not depend on any axioms
+'MathOfBiology.ZhangSortingMorphogenesis.adjacent_swap_strictly_decreases_inversions_window3' depends on axioms: [propext,
+ Quot.sound]
+'MathOfBiology.ZhangSortingMorphogenesis.selection_nonlocal_swap_strictly_decreases_inversions_window3' depends on axioms: [propext,
+ Quot.sound]
+'MathOfBiology.ZhangSortingMorphogenesis.chimeric_segregation_vs_alternating_list_bounds' does not depend on any axioms
+'MathOfBiology.ZhangSortingMorphogenesis.hoel_ce2_sorting_inversion_emergence_vs_error_loss' does not depend on any axioms

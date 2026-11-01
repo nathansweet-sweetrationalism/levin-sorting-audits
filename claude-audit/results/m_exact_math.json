@@ -1,0 +1,174 @@
+{
+  "M1": {
+    "claim": "[2,4,1,3]->[2,1,4,3]: I 3->2, E 1->2",
+    "source": "Dietz Claim 2; Sweet 'A rising score'",
+    "pass": true,
+    "detail": {
+      "I": [
+        3,
+        2
+      ],
+      "E": [
+        1,
+        2
+      ]
+    }
+  },
+  "M2": {
+    "claim": "Every adjacent strict-inversion swap lowers I by exactly 1 (exhaustive, n<=8 distinct keys)",
+    "source": "Dietz Claim 2; Sweet (checked through 8 keys)",
+    "pass": true,
+    "detail": {
+      "dI_counts": {
+        "-1": 158323
+      },
+      "dE_counts": {
+        "-1": 86867,
+        "0": 52774,
+        "1": 18682
+      },
+      "fraction_of_downhill_swaps_where_E_rises": 0.11799927995300746
+    }
+  },
+  "M2b": {
+    "claim": "Same with duplicate keys (strict inversions, alphabet 3, n<=7)",
+    "source": "extension",
+    "pass": true,
+    "detail": {
+      "-1": 6015
+    }
+  },
+  "M3": {
+    "claim": "Non-adjacent swap of an inverted pair lowers I by 1+2k (odd, can exceed 1); swapping a non-inverted pair raises I. So 'dI=-1 on every single swap' holds only for adjacent swaps",
+    "source": "Dietz Claim 2 verdict vs. Selection long-range swaps",
+    "pass": true,
+    "detail": {
+      "observed_dI_values": [
+        -11,
+        -9,
+        -7,
+        -5,
+        -3,
+        -1,
+        1,
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    }
+  },
+  "M4": {
+    "claim": "I has no non-global local minimum under adjacent transpositions (n<=8)",
+    "source": "Dietz Conclusion 'permutations have no local minima'",
+    "pass": true,
+    "detail": "standard (Knuth TAOCP 3, 5.1.1)"
+  },
+  "M5": {
+    "claim": "[2a,2b,1c] swap first/last -> [1c,2b,2a]: equal keys reversed without being compared",
+    "source": "Sweet, 'Clustering formation and persistence'",
+    "pass": true,
+    "detail": [
+      [
+        1,
+        "c"
+      ],
+      [
+        2,
+        "b"
+      ],
+      [
+        2,
+        "a"
+      ]
+    ]
+  },
+  "M6": {
+    "claim": "E[H/N] = [b(b-1)+s(s-1)]/N^2; equal counts -> 1/2 - 1/N; N=80 -> 0.4875, N=100 -> 0.49",
+    "source": "Sweet (0.4875); Dietz/paper ('0.50')",
+    "pass": true,
+    "detail": {
+      "symbolic_equal_counts": "(N - 2)/(2*N)",
+      "N80": 0.4875,
+      "N100": 0.49,
+      "alt_denominator_N_minus_1_equal_counts_N80": 0.4936708860759494,
+      "alt_iid_coinflip_labels_N80": 0.49375
+    }
+  },
+  "M7": {
+    "claim": "Endpoint chance benchmark holds for EVERY sort whose permutation ignores labels (stable or not); a departure refutes label-independence of movement, not stability as such",
+    "source": "bears on Dietz 'critics predict flat 0.50' and Sweet's acceptance of it",
+    "pass": true,
+    "detail": {
+      "stable": "1/3",
+      "antistable": "1/3",
+      "arbitrary": "1/3"
+    }
+  },
+  "M8": {
+    "claim": "Serotonin (z=+1) equilibrium ratio across -20 vs -60 mV is ~4.7",
+    "source": "Dietz Claim 5",
+    "pass": true,
+    "detail": {
+      "20C": 4.8716073270246705,
+      "25C": 4.743948376801821,
+      "37C": 4.4666245972410445
+    }
+  },
+  "M9": {
+    "claim": "Scoreboard arithmetic reproduces 77.6, 65.7, 88.1; the superseded pillar mean is 81.68 (81.7) from exact cards, 81.6 only from rounded inputs with Thompson written as 96.0 instead of 96.1",
+    "source": "Dietz 'The Score'",
+    "pass": true,
+    "detail": {
+      "per_claim_pct": {
+        "C1": 66.667,
+        "C2": 13.514,
+        "C3": 86.486,
+        "C4": 96.096,
+        "C5": 95.045,
+        "C6": 95.045,
+        "C7": 90.09
+      },
+      "mean7_exact": 77.56327756327757,
+      "mean7_from_rounded": 77.55714285714286,
+      "pillar_mean": 81.68168168168168,
+      "four_claim_mean": 65.69069069069069,
+      "structural": 88.1,
+      "thompson_stated_as_96.0_in_pillar_formula_but_32/33.3=": 96.09609609609609,
+      "implied_dualist_deductions_points": {
+        "C1": 3.7,
+        "C2": 7.396296296296296,
+        "C3": 1.5
+      },
+      "share_of_sorting_deductions_that_are_dualist": 0.8511011011011012,
+      "93.4_check_81.6_over_87.4": 0.9336384439359267,
+      "insertion_ablation_ratio_21.95_over_4.90": 4.479591836734693
+    }
+  },
+  "M10": {
+    "claim": "57.9% (7 Thompson modes) <= 86.2% (7-PC PCA) is required by Eckart-Young; '+13% to +48%' over 2.4% are ratios 6.4x-21x, so '15x' needs a stated base",
+    "source": "Dietz Claim 4",
+    "pass": true,
+    "detail": {
+      "ratio_low": 6.416666666666667,
+      "ratio_high": 21.0,
+      "if_points_are_relative_percent": [
+        1.13,
+        1.48
+      ]
+    }
+  },
+  "M11": {
+    "claim": "Landauer kT ln 2 at 300 K ~ 2.87e-21 J per erased unbiased bit",
+    "source": "Sweet",
+    "pass": true,
+    "detail": 2.870978885078724e-21
+  },
+  "M12": {
+    "claim": "A = H/N = (N - R)/N, so the chance benchmark is the Wald-Wolfowitz runs-test null: E[R] = 1 + 2bs/N",
+    "source": "classical anchor for Sweet's E[A]",
+    "pass": true,
+    "detail": "Wald & Wolfowitz 1940, doi:10.1214/aoms/1177731909"
+  }
+}

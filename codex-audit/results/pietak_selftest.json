@@ -1,0 +1,14 @@
+{
+  "name": "pietak_selftest",
+  "command": [
+    "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\.venv\\Scripts\\python.exe",
+    "-X",
+    "utf8",
+    "C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py",
+    "--self-test"
+  ],
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py\", line 2057, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py\", line 2041, in main\n    return self_test()\n           ^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py\", line 1952, in self_test\n    d3 = verify_pass3_dataset_sha256()\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\micom\\.codex\\visualizations\\2026\\11\\01\\01a197d4-b3e0-7cf2-b915-56e81fb4ce42\\levin_dietz_audit\\external\\morpholib\\models\\2017-pietak-bioelectric-morphogen-coupling.py\", line 148, in verify_pass3_dataset_sha256\n    raise FileNotFoundError(f\"Missing Pass 3 dataset file: {rel}\")\nFileNotFoundError: Missing Pass 3 dataset file: datasets/bioelectric_morphogen_coupling/voronoi_ca_ip3_branching_reference.json\n",
+  "seconds": 30.67055349999282
+}

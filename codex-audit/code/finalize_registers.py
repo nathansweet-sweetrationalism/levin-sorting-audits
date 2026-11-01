@@ -1,0 +1,26 @@
+from pathlib import Path
+import json,urllib.request,hashlib,re,html
+ROOT=Path(__file__).resolve().parents[1]
+a=json.loads((ROOT/'results/recommended_literature.json').read_text(encoding='utf8'));bad=[x for x in a if x['doi']=='10.3233/SW-140160'];(ROOT/'results/rejected_reference_candidates.json').write_text(json.dumps([{'candidate':bad[0],'reason':'DOI candidate rejected because registry title is about SPARQL, not content-addressed artifacts; never use it as authority for trusty URIs.'}],indent=2),encoding='utf8')
+d='10.1109/TKDE.2015.2419657';u='https://api.crossref.org/works/'+d
+with urllib.request.urlopen(urllib.request.Request(u,headers={'User-Agent':'RCF-audit/1.0'}),timeout=25) as f:b=f.read()
+p=ROOT/'sources/recommended_metadata'/(hashlib.sha256(d.encode()).hexdigest()[:16]+'.json');p.write_bytes(b);m=json.loads(b)['message'];assert m['title'][0]=='Making Digital Artifacts on the Web Verifiable and Reliable'
+a=[x for x in a if x['doi']!='10.3233/SW-140160'];a.append({'doi':d,'purpose':'Content-addressed artifacts and reference-tree integrity','title':m['title'],'author':m['author'],'published':m['published'],'container':m['container-title'],'metadata_status':'verified','reading_scope':'Primary authors abstract/record consulted; metadata verified.'});(ROOT/'results/recommended_literature.json').write_text(json.dumps(a,indent=2),encoding='utf8')
+# Explicit target-to-target quotes are checkable against supplied text, not independent scientific evidence.
+q=json.loads((ROOT/'results/quote_checks.json').read_text(encoding='utf8'));dietz=(ROOT/'inputs/dietz.txt').read_text(encoding='utf8');orig=(ROOT/'sources/primary/sweet_original.plain.txt').read_text(encoding='utf8');com=json.loads((ROOT/'results/symposium_comment_excerpts.json').read_text(encoding='utf8'))
+for x in q:
+ if x['article']=='sweet' and x['line'] in [95,100]:x.update(status='verified_against_supplied_dietz_article',evidence='inputs/dietz.txt; this verifies attribution, not truth of quoted characterization')
+ if x['article']=='sweet' and x['line']==36:x.update(status='verified_against_preserved_original_article',evidence='sources/primary/sweet_original.html')
+ if x['article']=='sweet' and x['line']==89:x.update(status='verified_in_public_comment_4350_context_preserved',evidence='sources/primary/symposium.html#comment-4350')
+ if x['article']=='sweet' and x['line'] in [54,70,186,263,285]:x.update(status='constructed_contrast_or_hypothetical_not_attributed_verbatim_speech')
+ if x['article']=='dietz' and x['line'] in [317,416]:x.update(status='authors_own_instruction_or_section_label')
+(ROOT/'results/quote_checks.json').write_text(json.dumps(q,indent=2,ensure_ascii=False),encoding='utf8')
+# Confirm all missing self-test references are absent from the entire pinned Git tree.
+tree={x['path'] for x in json.loads((ROOT/'sources/morpholib_tree.json').read_text(encoding='utf8'))['tree']};missing=['datasets/bioelectric_morphogen_coupling/voronoi_ca_ip3_branching_reference.json','datasets/xenopus_craniofacial_remap/cartilage_mmp_zymography_reference.json','datasets/xenobot_evolutionary_biobots/lattice3d_stokes_capture_reference.json'];assert not any(x in tree for x in missing);(ROOT/'results/missing_public_fixtures.json').write_text(json.dumps({'snapshot':'35d30f4cfd5397ee1ed769f96494e018603e293d','tree_truncated':False,'absent_paths':missing,'effect':'All three public self-tests fail before full model validation; no local reconstruction substituted.'},indent=2),encoding='utf8')
+for name,txt in {
+ '01_sources.md':'41 unique input DOIs, 37 explicit URL strings, 135 curly-quoted candidates extracted. Sources frozen with raw registry responses, both repository trees and exact source commits. Four target reference mismatches confirmed. Access failures preserved separately from invalidity.',
+ '06_robustness_and_source.md':'120 fresh surrogate runs under the saved 2x2 protocol all sorted; peak effects vary by scheduling/reset. 120 actual-source transition-search runs found no inversion-rise counterexample; failed-search branch retained, not promoted to a theorem. Frozen primary Bubble cells may move as passive swap targets; immovable and movable cases must be distinguished.',
+ '07_reference_and_quote_checks.md':'All 41 input DOI identities checked; 4 mismatched references. 135 quote candidates have individual typed statuses. Public comments 4345,4350,4449 retrieved. Important private wording, Reddit quotations and video/slideshow locators remain identified rather than certified. A candidate DOI in the auditor own reading list failed title matching and was replaced with verified TKDE.2015.2419657; rejected candidate retained.',
+ '08_formal_and_biology.md':'Lean 4.35.0 kernel accepted seven printed sorting declarations with standard or no axioms, no sorryAx. Exact theorem-to-claim mapping required. Three biology self-tests fail for fixtures absent from complete pinned tree. Cervera script explicitly qualitative, full paper not consulted by script author. Article 105-degree xenobot claim not substantiated by supplied 65-degree public script/fixtures.',
+ }.items():(ROOT/'checkpoints'/name).write_text('# Checkpoint '+name.split('_')[0]+'\n\n'+txt+'\n',encoding='utf8')
+print('corrected own reference candidate; typed checkpoints and missingness saved')

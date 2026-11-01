@@ -1,0 +1,29 @@
+{
+ "source_bundle": "levin-sorting-audit (Claude, private original)",
+ "removed": [
+  {
+   "path": "ARTICLE_EDITS_2026-11-01.md",
+   "sha256": "a6fea7f3df11e5299546fb56f38a0ad0f811a150785971a51685bc78bd0f2a2d",
+   "bytes": 27848,
+   "reason": "private editing worksheet for the author's own article"
+  },
+  {
+   "path": "ARTICLE_two_audits_2026-11-01.md",
+   "sha256": "c617dbf8831f16eceab1f633617f96dcb89ad83e66722ae34ef261fc9fde126d",
+   "bytes": 34344,
+   "reason": "moved to repository root as CROSS_AUDIT.md"
+  },
+  {
+   "path": "sources/ing3.txt",
+   "sha256": "940e3f6234af3479eb4fa01641e758f37a0c65d9d1de9fa31716b3049d55c300",
+   "bytes": 149973,
+   "reason": "full-text extraction of Levin, Ingressing Minds, PsyArXiv v3 (third-party copyright)"
+  },
+  {
+   "path": "sources/zhang.txt",
+   "sha256": "730a7c22f224d936b8b5ef3595f0a286053508e792a5833aeb8a00a1848be20b",
+   "bytes": 106149,
+   "reason": "full-text extraction of Zhang, Goldstein & Levin arXiv:2401.05375 (third-party copyright)"
+  }
+ ]
+}

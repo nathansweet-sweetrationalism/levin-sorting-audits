@@ -1,0 +1,1498 @@
+{
+ "source_bundle": "Levin_Dietz_Sweet_Audit_2026-11-01(Codex).zip (private original)",
+ "kept_files": 1495,
+ "removed_files": 184,
+ "kept_third_party_with_licence": {
+  "FishShapes_specimensv1.csv": "Price et al. 2022, Dryad doi:10.5061/dryad.vt4b8gtvf, CC0-1.0",
+  "wing_landmarks.tab": "Abels & Wedmann, PANGAEA doi:10.1594/PANGAEA.937651, CC-BY-4.0",
+  "wing_specimens.tab": "Abels & Wedmann, PANGAEA doi:10.1594/PANGAEA.937635, CC-BY-4.0",
+  "lean_sorting.lean": "fractastical/morpholib, MIT",
+  "morpholib_LICENSE": "fractastical/morpholib, MIT",
+  "nanopub_published_manifest_prod.txt": "fractastical/morpholib, MIT",
+  "old_ablation.py": "fractastical/morpholib @ bfe377c, MIT",
+  "old_commit.json": "GitHub API metadata for fractastical/morpholib (factual record)",
+  "old_metrics.json": "fractastical/morpholib @ bfe377c, MIT",
+  "old_model.py": "fractastical/morpholib @ bfe377c, MIT",
+  "old_renderer.py": "fractastical/morpholib @ bfe377c, MIT",
+  "port_js.mjs": "fractastical/morpholib, MIT",
+  "thompson_pcm_downstream_implications.json": "fractastical/morpholib, MIT",
+  "thompson1913_ocr.txt": "D'Arcy Thompson, On Aristotle as a Biologist (1913), public domain",
+  "upstream_commit.json": "GitHub API metadata for Zhangtaining/cell_research (factual record)",
+  "upstream_tree.json": "GitHub API tree listing for Zhangtaining/cell_research (factual record)",
+  "sweet_*": "Nathan Sweet's own articles (the release author)"
+ },
+ "removed": [
+  {
+   "path": "external/cell_research/__init__.py",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "bytes": 0,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/cell_type_aggregation_analysis.py",
+   "sha256": "5d2203e77da8416c8429766289ea424f534acf7accbc66ab9be26a676d62426c",
+   "bytes": 36255,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/cell_type_distribution_change.py",
+   "sha256": "7354fafd128b1da05233ec266ab17333d292faa3615f3199e17253dd915c7f25",
+   "bytes": 7830,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/cell_type_distribution_in_group.py",
+   "sha256": "85d3ec6f46be9ee99e22c6f3dd2aa9df7efd74c5bbc6ba0f5e6de1e87f830f2c",
+   "bytes": 52,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/delay_gratification_analysis.py",
+   "sha256": "1c74190426c9bc7551926e027fe0208acf7ddfe0828bf0a8a9f884ccc9f3dfb0",
+   "bytes": 14890,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/delay_gratification_analysis_for_not_move.py",
+   "sha256": "7ebf961eb7cced1ab196f2314718c007e2b9d164b8dfa161d407dae6086bc721",
+   "bytes": 15339,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/delay_gratification_analysis_spearsman.py",
+   "sha256": "d3e887944446751f79ddc9a9a63423ed050f2f6613a60dfe71e9d8f954544b17",
+   "bytes": 16268,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/efficiency_analysis.py",
+   "sha256": "1208c35a6fd68df10181f06586c477ad52b37539fcf75fe24fdf7d5ed824d620",
+   "bytes": 3862,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/frozen_cell_moving_attempt.py",
+   "sha256": "207ae5f0b2466090d17baff9c092ed928d400baec0e78c84346f9a726d2c0587",
+   "bytes": 2014,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/frozen_spearmans_distance_results.py",
+   "sha256": "9e1fb1edd6a889675176ad0464144427d28416a15b94666aaa7b4dc4c7e7e9d8",
+   "bytes": 9105,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/frozen_success_compare.py",
+   "sha256": "e6aec7e3450a33e9de935c969d1c3566306c6a8552100fdfe625dba36643b03b",
+   "bytes": 13125,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/performance_analysis.py",
+   "sha256": "94f1f471f3853621f8c94d664df5ea9dcfc42da14832c519202b0b8926b1b13f",
+   "bytes": 2722,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/points_cloud_size_change.py",
+   "sha256": "972ddce05e466e0416090505a07c78c10940cae575ae5eee70e450f42478717b",
+   "bytes": 2861,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/utils.py",
+   "sha256": "8115d41cd57602e89cbb07b563aec1e59fb8d8e5f249c22c09c53a524126ec6b",
+   "bytes": 361,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/analysis/valid_move_analysis.py",
+   "sha256": "c03dc9bb887eb323ea37753ac364d3357f023a02521277999cfd5bd27be6dcd7",
+   "bytes": 1662,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/freezing_sorting_analysis.py",
+   "sha256": "f6774f9e77f277e838fef0efc11e66d7d50cb8362fc680915a9460a5f5fad1d8",
+   "bytes": 7268,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/Cell.py",
+   "sha256": "3e9328c8d164331a1e570120e4e99c8330e374b0db956933fee9defe61048a76",
+   "bytes": 1950,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/Cell2D.py",
+   "sha256": "8cc3eae40a5c4770bf484c0a9e61b08f7d29267ee974825324fe81276369cd14",
+   "bytes": 4216,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/CellWithVisualization.py",
+   "sha256": "0d7d517a141193f709cb46b2c572be18b284faac61cfbc57a384dab765be60f0",
+   "bytes": 3127,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/__init__.py",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "bytes": 0,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/BubbleSortCell.py",
+   "sha256": "40b58682c1089c03df790e069880b1d937684825895047d0e8a5822399218438",
+   "bytes": 3982,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/CellGroup.py",
+   "sha256": "9b7c8b4d33acc8ff3a02226078b8417b72be0496b9311f4da593acb9b1cc32b0",
+   "bytes": 4376,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/InsertionSortCell.py",
+   "sha256": "790a6e510a3933848df751499946a6149aa711af6d19ee1e13d2095b4f641507",
+   "bytes": 4606,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/MergeSortCell.py",
+   "sha256": "1d1b5f9e25b474a111c4464150c67da881ee55f3b5d4347fa670b99ea828af28",
+   "bytes": 2861,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/MultiThreadCell.py",
+   "sha256": "a720f5bd38d893fdd4f6d1487f3c69c2194367f7d953c1b56ac1e99a6de7f6b9",
+   "bytes": 4030,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/MultiThreadCellBubbleSort(deprecated).py",
+   "sha256": "2e3cc6efacc45f459488cfe74d0cbcec0ad42bcee6d6a49a4216f7b903f40d5a",
+   "bytes": 1518,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/MultiThreadCellForVisualize.py",
+   "sha256": "4c539c3e1128b925a3daa166d636bd06cdb860bcd6c83b017ae13e1c1929dd7f",
+   "bytes": 2682,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/SelectionSortCell.py",
+   "sha256": "3afdadf02831402541314cb17b3fc8d58127a7c87a28cecb97ecd5b2c7bf0ad1",
+   "bytes": 4880,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/StatusProbe.py",
+   "sha256": "618951a8da18b7f13c402974d7b822da4dce2de2ebaba0abec943374034572a6",
+   "bytes": 619,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/modules/multithread/__init__.py",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "bytes": 0,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multi_dimentions/multi_dimention_angles.py",
+   "sha256": "ddbf64402e401ee0e559665484287afe42bdbefdeaf88683c939aa6ffbef4aa4",
+   "bytes": 1118,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multi_dimentions/multi_dimention_colors.py",
+   "sha256": "b82deaf202540c30a43408b6e4452d6db2e95e139c34c992a16fcba7e0cef8a9",
+   "bytes": 1218,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multi_dimentions/multi_dimention_last_move.py",
+   "sha256": "ef4a5f21195b4f3bc15d023a08a059ace3d65bdcbccf8b14c82d10a5cce8a16c",
+   "bytes": 2040,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multi_dimentions/multi_dimention_matrix_calculation.py",
+   "sha256": "e73fd0fbf76a37d5eebf8139d936c4d799e663ba849651a97b0822ebeaf09cb0",
+   "bytes": 1442,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multi_dimentions/multi_dimention_monotonicity.py",
+   "sha256": "5898a32e41e67b8603477a8cc5ea845bade8badc0ea84517e7177d58e753c660",
+   "bytes": 19071,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multi_dimentions/multi_dimention_monotonicity_copy.py",
+   "sha256": "4452424d3f3bc31f163e392be4f1624172d3aae9a6cf7f5477af301377cb9afb",
+   "bytes": 4556,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multi_dimentions/multi_dimention_tsne.py",
+   "sha256": "679d6e31b08cfa04e29e97929452ceaff507ef5d939a5f43487acc153a5d5d92",
+   "bytes": 1654,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multi_dimentions/multi_dimention_tsne_multi_experiment.py",
+   "sha256": "7e7edb6230b57da789c518b6417e143d66a2b0716148ac6dc5d414831c0fde25",
+   "bytes": 1841,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_cell_group_sorting.py",
+   "sha256": "0782fd14583e83bf9f5a8cedd2317d6a8ef655f2e8302a8e794c74b668e4ea58",
+   "bytes": 4184,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_cell_sorting.py",
+   "sha256": "a5daa1302f8bbaa31dc21d70d29eff4d928522bc5c70f540c91e9a4ea5d36867",
+   "bytes": 2199,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_cell_sorting_20points_steps.py",
+   "sha256": "e0f61cfacb1b632bba2ecb720840f06c7910bb51b01c21b0f8bdf824ffb7477d",
+   "bytes": 5823,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_cell_sorting_analysis(deprecated).py",
+   "sha256": "8893e959ad6878ebbeaab08c6fcd616525682557ebe5ad8044d05acda832fa75",
+   "bytes": 4529,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_cell_sorting_steps.py",
+   "sha256": "5016d1874e86c0b2f9c5de94e893848d35806d7ff775119850c14d519ee60a32",
+   "bytes": 7376,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_cell_sorting_with_frozen_debug.py",
+   "sha256": "6a85e44e711d7ef3caa65b1fba3fd0f7b5438664d94c2bce9229c7a6e3cd9165",
+   "bytes": 5815,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_cell_sorting_with_frozen_steps.py",
+   "sha256": "768187bdc774895fb84cbde5423487f761c11d2d71a7657d9d3a88eb7a449d70",
+   "bytes": 11226,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_sorting_cell_aggregation_analysis.py",
+   "sha256": "15edc2fedf230ae8bf1d3a3d5743decc51e9865d47b6a23f9287118b952afe6c",
+   "bytes": 7948,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_sorting_cell_aggregation_disorder.py",
+   "sha256": "3b5741b46bb2e44a276ba042c73f5c97d2cca5a9f61795493df3607f6f74fd04",
+   "bytes": 8308,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/multithread_sorting_cell_type_analysis.py",
+   "sha256": "acec535e3c14be81b2e269d61d6fb3ce8295359912eec2d7ed4ad927cf51b13b",
+   "bytes": 5058,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/sorting_2d_cell_visual.py",
+   "sha256": "5ea3c455c167ee48a135504b64a03e42355a48f3193e55b7d6bda31dbb049748",
+   "bytes": 2304,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/sorting_cells.py",
+   "sha256": "5fe0ceb1b8a2af18ad232db7225f97883dcdf959a9fa016cba944c3a36fadf29",
+   "bytes": 2162,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/sorting_cells_2d.py",
+   "sha256": "2b42b7d68eae2a7c727382e0727ffa17b6417510cbcbabe6cbddd9976d6f83ed",
+   "bytes": 3139,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/sorting_cells_multithread.py",
+   "sha256": "b876e2ec5b1dfab6102bec1f588568d5ec3199f202b8e4e26e0432efde3447d2",
+   "bytes": 1650,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/sorting_with_annimation_visualization.py",
+   "sha256": "b45eea3eac2287deeb1c682dc1ead6463037aba9e0db095820e5d7106df9ce2e",
+   "bytes": 1288,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/sorting_with_annimation_visualization_multi.py",
+   "sha256": "351eec82a3c28d05b9bcb62414c4a578a04295c4bc8b2d3c0ac30b724bac9357",
+   "bytes": 1290,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/visualization/CellGroupImage.py",
+   "sha256": "b8e0add7a6dbdac6227ecdc02cef608911f7e6ed2a55a9c12126ee39815ca72a",
+   "bytes": 2027,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/visualization/CellImage.py",
+   "sha256": "0db375805c4e42b8a2ff6cb49f958abdcd930fcf4eb08417e99228e72826343a",
+   "bytes": 2308,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "external/cell_research/visualization/__init__.py",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "bytes": 0,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "Zhangtaining/cell_research has no licence file; fetch it at commit 1fd2bd5 instead"
+  },
+  {
+   "path": "inputs/dietz.txt",
+   "sha256": "09cd81e63a142be71a5f4b6c31bde0eb7a99d7d964ba9a7affb8ba345b0ab4cd",
+   "bytes": 66115,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full text of Joel Dietz's article (third-party copyright); link and hash retained"
+  },
+  {
+   "path": "results/ingressing_quote_page.png",
+   "sha256": "79a538aa2d2fd5ed88eedd0b03608e4d5ea5b3b2041556e9a98d0af088188a21",
+   "bytes": 330544,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "page image from Levin's paper (third-party copyright)"
+  },
+  {
+   "path": "results/private_chronology_check.json",
+   "sha256": "dd1d9d48688c6ebfbf8187110613af52f67b912233f4c250ed1f38986b9e8c37",
+   "bytes": 559,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "private correspondence metadata (mailbox message identifier)"
+  },
+  {
+   "path": "sources/europepmc/PMC12827727.txt",
+   "sha256": "07b6a4b13e93c39ab3a996369c5afec217e06d398eda11e6583823a7f54cefae",
+   "bytes": 56485,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC12827727.xml",
+   "sha256": "e234b2ba61225fcbbe3fc9e5a617a039ac5d696c51eda24ebc77f16693a72980",
+   "bytes": 127863,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC3084216.txt",
+   "sha256": "0e16ba51874f97293090e76b9a1b789120983c8ab443ff20de8daa2347fac030",
+   "bytes": 21995,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC3084216.xml",
+   "sha256": "5bb4f745b225b4a2ce57b1251528fdf607b4c8a21f355c83a9649b38fd490786",
+   "bytes": 49665,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC3812051.txt",
+   "sha256": "8b85c837683c2ed8788c7e8b40b362b6185576c0cdb4cd55f030bebb6be1dfaa",
+   "bytes": 20242,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC3812051.xml",
+   "sha256": "6c72197e487de37923690bca0e31fd21cfb0f37d0a5eb313594df9661810fe71",
+   "bytes": 47522,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC4237352.txt",
+   "sha256": "56a706888fa4feb83a4671d3ad4aef59a55de65f1d525f9f4ff0c0eb28218ce7",
+   "bytes": 49852,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC4237352.xml",
+   "sha256": "9249e3bc9955ff349401e1114d7af9f328ef2c6b2256e6911bee6d74a33b69d1",
+   "bytes": 116916,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC4792175.txt",
+   "sha256": "1bebb2d901c51c254aa6716112e33464f376b8df08e3e4269bf261263a6e2864",
+   "bytes": 39036,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC4792175.xml",
+   "sha256": "115aad84296a79b847ae3c4e3664f3fc4e90e5589fe10a1fccbb6af767f45ac7",
+   "bytes": 88700,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC4933718.txt",
+   "sha256": "e15ca58ab7560e7e53d9c9ba0b4343487a67be185ddc968c771fc2dd9f8e97f9",
+   "bytes": 119023,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC4933718.xml",
+   "sha256": "406a35fa0d6eb73808e611d57106cc69d9ff4a1d494242569660d6a473381ceb",
+   "bytes": 315738,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC6994979.txt",
+   "sha256": "2f69f5a7a71412b7a48cb9c5f9cc11640d0d30c470ab0f84734794e29cc64a0e",
+   "bytes": 38955,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC6994979.xml",
+   "sha256": "2de9c4c19d0177886b1816f1e4200b69825a591ce107945d797cd3839b6dafdf",
+   "bytes": 85799,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC7959648.txt",
+   "sha256": "e5ec33b569dbd6606b76e4735a32183a7128ae2b0721ab2819757cc775a0004a",
+   "bytes": 64407,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC7959648.xml",
+   "sha256": "2d542ddffbc568edbe6b9cc7edc99dcd22185b48282c4df975df9709b19d2fb2",
+   "bytes": 117136,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC8670470.txt",
+   "sha256": "241f4c72dfd3d3021340102f22d4ed4664837aa7d440f8c36c0592d2a7542c0a",
+   "bytes": 51067,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC8670470.xml",
+   "sha256": "90396563fb01c119a3c2ebc2fa0008d92b6f299285ef5a55734bb2f7067afeb1",
+   "bytes": 99350,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC8970361.txt",
+   "sha256": "17b01f05e0b7f05dbc607ed431fdee505288e924f0530741c7ea3ced9a96fb7d",
+   "bytes": 28933,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article extraction (third-party copyright)"
+  },
+  {
+   "path": "sources/europepmc/PMC8970361.xml",
+   "sha256": "e548bd1f664e8feb16760f9e0cb376b6ba16474e6a82afac059ade759f7fd2f3",
+   "bytes": 46061,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "full-text article XML (third-party copyright)"
+  },
+  {
+   "path": "sources/primary/aristotle_soul_mit.html",
+   "sha256": "9b0541f4584a9a69cd030cbb726d21ed560ec4ab414bfb9a51c27ef00e4e9e21",
+   "bytes": 99730,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/aristotle_soul_mit.plain.txt",
+   "sha256": "1c2bde9fe1c4fa3b5242133e66464d98ab29a764c401be631eb9724bc45a3f27",
+   "bytes": 74597,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/causal_hoel2013.html",
+   "sha256": "40d630120e376a6fcb151972d508704c401cd71f27c8fcab34d6eabc7cc02373",
+   "bytes": 21474,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/causal_hoel2013.plain.txt",
+   "sha256": "bd2720a373ebd7bff5d9f54a00fd39272cd6e439952d925cd2ad247890473b70",
+   "bytes": 167,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_brown.html",
+   "sha256": "5cf633a61c79525e2e489e52a273c270e7cdbf1610a0838cdaa66b20cb23701f",
+   "bytes": 45695,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_brown.links.json",
+   "sha256": "00b8c58ebd5dc1d9927bc840b31277c5a9e8495b65b86c06864a17875bd63742",
+   "bytes": 7254,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_brown.plain.txt",
+   "sha256": "d2cb9428b4c93dae03dc4b03a00d3b5e0f73b60ea5a60bcb841b6e3f809387eb",
+   "bytes": 11669,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_brown.text.txt",
+   "sha256": "d2cb9428b4c93dae03dc4b03a00d3b5e0f73b60ea5a60bcb841b6e3f809387eb",
+   "bytes": 11669,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_fluckiger.html",
+   "sha256": "f01b6a5234df4e08e265e7c22f461b51ac155308b2a5b04bbd551f941179e34e",
+   "bytes": 45635,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_fluckiger.links.json",
+   "sha256": "d3ab90ff3020beb0061ff50513cc065a1c2c13d1a005e4b14fa18880956c1e04",
+   "bytes": 7727,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_fluckiger.plain.txt",
+   "sha256": "10afa39df52929479b764bbc514c59fff235d10069ef70f31cc70cdc1424d97e",
+   "bytes": 11368,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_fluckiger.text.txt",
+   "sha256": "10afa39df52929479b764bbc514c59fff235d10069ef70f31cc70cdc1424d97e",
+   "bytes": 11368,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_georgiou.html",
+   "sha256": "114fdd8f628a8acc2047991234a0d75317a6d8379c905842787152482c544587",
+   "bytes": 44347,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_georgiou.links.json",
+   "sha256": "e89d782d37d7dd8e9fc68d7de0250aa48320594ee9ce191f76b4adbe05fbf743",
+   "bytes": 7112,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_georgiou.plain.txt",
+   "sha256": "7e5ceb7262b20751d9ae9bfae7d0b9070446f87c9429d16be8008f2d5081a1c5",
+   "bytes": 11165,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/compiler_georgiou.text.txt",
+   "sha256": "7e5ceb7262b20751d9ae9bfae7d0b9070446f87c9429d16be8008f2d5081a1c5",
+   "bytes": 11165,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/dietz_fish.pdf",
+   "sha256": "be1c527cc916bd81819312bbd42e15058844e343ea6851cde207405148e6f652",
+   "bytes": 15468408,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/dietz_fish.txt",
+   "sha256": "96b2e3dd3a525bef22841d57b8b4adf856171d7048b4e726fa59ad754612e92e",
+   "bytes": 96491,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/dietz_methods.pdf",
+   "sha256": "6967b15e1d680968e6dfc4de9fb493f5235f2a757d152fed81a72d8803105117",
+   "bytes": 3725080,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/dietz_methods.txt",
+   "sha256": "33849f7b022716e7022670ccde044c57a1397275d45bef6447a7856ae292eba2",
+   "bytes": 17828,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/dietz_sorting.pdf",
+   "sha256": "6f2fe9b0e0abaac44baa35d0d3a1687d350fb9e678c557036e769fdb1bef5ddc",
+   "bytes": 2324983,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/dietz_sorting.txt",
+   "sha256": "1a9453fa9632fd837c80b23c389e252bfc463b6f825d3208a192827460821107",
+   "bytes": 34309,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/discovery_2004.html",
+   "sha256": "8d5a7a15869f04a32b06932a21ca4b6f122a843f43e26f63556d54a608ce0435",
+   "bytes": 105737,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/discovery_2004.plain.txt",
+   "sha256": "e555d1310f7dc436b3833d6281ffbea6af231a39073645e126e77412fd8ea6e1",
+   "bytes": 5569,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/durant_2017.pdf",
+   "sha256": "ee2eed0f3e4284bc663cd4cea47a6ac58a0d38c7b0847183baf275e93b46d8a8",
+   "bytes": 1878756,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/durant_2017.txt",
+   "sha256": "71fccab1e83266c90a0a1705bb56b767440cd662de6cc6e0f95921cbf205152a",
+   "bytes": 74695,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/feynman.html",
+   "sha256": "1a58551e7dd962800ec8f188caae643ce3679ce18fe1172844ccbcbf80f560d4",
+   "bytes": 37467,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/feynman.links.json",
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "bytes": 2,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/feynman.plain.txt",
+   "sha256": "1b86f2f9e4e998002d778753984ef8ecfc1b8571b665541e0bfa7286ad67e9b1",
+   "bytes": 23129,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/feynman.text.txt",
+   "sha256": "80d864512b9a06341ff8791f07d1bd5772fa9018c591bdaf9fd54770f94acf93",
+   "bytes": 22637,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/film_clips.html",
+   "sha256": "4d248b0f876abca812053262300875938cf757910b40db3795a46660d0d87379",
+   "bytes": 47042,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/film_clips.plain.txt",
+   "sha256": "cc43a6496d8085945e3697c4a908dbc4f0264c300eacb5199af8baa23e374895",
+   "bytes": 1758,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/hivemind.pdf",
+   "sha256": "c1ac82916d2f76aa501e96a50466030d432c67eec42fdb8ddc11344f83a152fe",
+   "bytes": 19683877,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/hivemind.txt",
+   "sha256": "bc9acd846017adde163320321a6cfe0f4b8d9d3496fde2f91035ea197e9a5f1d",
+   "bytes": 260036,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/ingressing.pdf",
+   "sha256": "d347f3b9043c49d07db72d1c9f2f265c8d380c23292524fc82de48158fa017a3",
+   "bytes": 44107740,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/ingressing.txt",
+   "sha256": "f875f9771c6ef3131bf4c06b797788b7acbe8141446ef51cbfafc0adc8e72089",
+   "bytes": 210697,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/levin_post.html",
+   "sha256": "ecbf591b46fe30c7c8f7faeaf8dac3eb9ba3685bbae0b5600d6723c539cd6e6f",
+   "bytes": 162818,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/levin_post.links.json",
+   "sha256": "f68683414cc3e8f7e7963e49a9badc42f9b0e16ebf0a4c5550378de6c02048a1",
+   "bytes": 4281,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/levin_post.plain.txt",
+   "sha256": "17ecda1cf5f2231af22b2bf85afecd11cc1b9e9c42577360788b9f571e5210ac",
+   "bytes": 7190,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/levin_post.text.txt",
+   "sha256": "17ecda1cf5f2231af22b2bf85afecd11cc1b9e9c42577360788b9f571e5210ac",
+   "bytes": 7190,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/levin_post_mirror.html",
+   "sha256": "ad7ac9d66d46e996dff9f303a08a2bb29a5aff38b3ab79ef7c64c6842a7025cb",
+   "bytes": 126801,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/levin_post_mirror.links.json",
+   "sha256": "8397438b70e429744aee03a02aa85a25d84023da5e1ed0f61cdce257dee6444a",
+   "bytes": 20620,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/levin_post_mirror.plain.txt",
+   "sha256": "67f24bc0a8edda3d9dc649a587445ee12c857afb0f0bf9a0c819ead34c2d4b45",
+   "bytes": 19161,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/levin_post_mirror.text.txt",
+   "sha256": "67f24bc0a8edda3d9dc649a587445ee12c857afb0f0bf9a0c819ead34c2d4b45",
+   "bytes": 19161,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/lex_transcript.html",
+   "sha256": "bede9c721173033063fa7dff2b0e2cb36bac5b7211321bc19a4516d1c95be3b4",
+   "bytes": 413118,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/lex_transcript.plain.txt",
+   "sha256": "493e38fb72f56c20a152cd4a8930f258491c51a5b2813e8544350cb07ba45d7f",
+   "bytes": 264825,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/planarian_beane.html",
+   "sha256": "d1760c9699b4ff0978cafbc43ddde6650e4c678b905d4df1e0b8ea50ebb0751e",
+   "bytes": 21474,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/planarian_beane.plain.txt",
+   "sha256": "bd2720a373ebd7bff5d9f54a00fd39272cd6e439952d925cd2ad247890473b70",
+   "bytes": 167,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/planarian_oviedo.html",
+   "sha256": "f2f849c94cd4a475922c943b36190a905d4806626914afe97925c9e116a57028",
+   "bytes": 21474,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/planarian_oviedo.plain.txt",
+   "sha256": "bd2720a373ebd7bff5d9f54a00fd39272cd6e439952d925cd2ad247890473b70",
+   "bytes": 167,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/plato_letter7.html",
+   "sha256": "e4cf5abf5f5b084841f44a22cb7d6c9a7bcc8ba58e4373d57b0d1f4b65a9e40d",
+   "bytes": 101073,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/plato_letter7.plain.txt",
+   "sha256": "8261b27337494958ef429fc2a275ba547b4ea525a87b7f617688997e38a79ee3",
+   "bytes": 77438,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/platonic_representation.pdf",
+   "sha256": "fa9b7cc99c1e852960733b2ac89069bf448b2451bd198b4fc2d93aedb533e858",
+   "bytes": 3268833,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/platonic_representation.txt",
+   "sha256": "eb80de302f7d312ed75327438e5eae32da0d6418775c11394b0dd0a12c48a0d0",
+   "bytes": 192801,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sep_biology.html",
+   "sha256": "217c5f07035bc3e73df88f58d84cc2ee45feca6dfb758eb266201d3030e1a239",
+   "bytes": 211126,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sep_biology.links.json",
+   "sha256": "a4eff0e4513ea9a70f43e011684b02c9874b47305bbe63e73e0181d137140896",
+   "bytes": 18816,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sep_biology.plain.txt",
+   "sha256": "fefdc364b9be498cf65061bfae881ce84793c711a071d6e68a9a256489b3ef85",
+   "bytes": 185623,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sep_biology.text.txt",
+   "sha256": "fefdc364b9be498cf65061bfae881ce84793c711a071d6e68a9a256489b3ef85",
+   "bytes": 185623,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sep_reduction.html",
+   "sha256": "210a2e9aa244fae2bc1d0d23f7040b81dd24435f4f5993ce350b7842ddbfbd69",
+   "bytes": 150809,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sep_reduction.links.json",
+   "sha256": "b78389ed6df3000da2fd19f4072db58812e791017da85de55b01e30040cf8e6a",
+   "bytes": 11189,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sep_reduction.plain.txt",
+   "sha256": "ea574a7ddf4ad689c5e2381519948f19a3a02c91bb53d3a0c4b85465739d2c0b",
+   "bytes": 131713,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sep_reduction.text.txt",
+   "sha256": "ea574a7ddf4ad689c5e2381519948f19a3a02c91bb53d3a0c4b85465739d2c0b",
+   "bytes": 131713,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sorting_arxiv.pdf",
+   "sha256": "f4e78ddc8a83f7c983d088713c916adac01c4c90eebe28d1bc9018ddef0098ca",
+   "bytes": 2306261,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/sorting_arxiv.txt",
+   "sha256": "b37124179ca28c4ee0bf11771cacc8f196d1df8eb14de03bab34dacff3b24c44",
+   "bytes": 99444,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/symposium.html",
+   "sha256": "1acf7ca2e466dc8db8ce220bae83b3e737e82e1f3959bc1e6b20049d97e0a2dd",
+   "bytes": 1284368,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/symposium.plain.txt",
+   "sha256": "fbd0a4aa255709d4e3a27b43f7209b13da3b5eb79c60b1df594d1d20d5b423ea",
+   "bytes": 595487,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/tadpole_vandenberg.html",
+   "sha256": "c777d805bed4b866114f4d623c52702a0d692026f9a501945b731104cf32931c",
+   "bytes": 21474,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/tadpole_vandenberg.plain.txt",
+   "sha256": "bd2720a373ebd7bff5d9f54a00fd39272cd6e439952d925cd2ad247890473b70",
+   "bytes": 167,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/thompson1917_catalog.html",
+   "sha256": "2d80d68e3116657dd556aceaabdec7e9d0141f1717e3ac3785897facc456bf98",
+   "bytes": 25047,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/thompson1917_catalog.links.json",
+   "sha256": "ee8a63a224d11cc8c738ce89ebc06897b68f221074ae84993e2ff7d61ca0527f",
+   "bytes": 6756,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/thompson1917_catalog.plain.txt",
+   "sha256": "7556b4874fa4cb60796d06cfb1a11679ec7d4029f2a793c61c22e91ae2fd8aa3",
+   "bytes": 4779,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/thompson1917_catalog.text.txt",
+   "sha256": "7556b4874fa4cb60796d06cfb1a11679ec7d4029f2a793c61c22e91ae2fd8aa3",
+   "bytes": 4779,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/upstream_BubbleSortCell.py",
+   "sha256": "40b58682c1089c03df790e069880b1d937684825895047d0e8a5822399218438",
+   "bytes": 3982,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/upstream_InsertionSortCell.py",
+   "sha256": "790a6e510a3933848df751499946a6149aa711af6d19ee1e13d2095b4f641507",
+   "bytes": 4606,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/upstream_MultiThreadCell.py",
+   "sha256": "a720f5bd38d893fdd4f6d1487f3c69c2194367f7d953c1b56ac1e99a6de7f6b9",
+   "bytes": 4030,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/primary/upstream_SelectionSortCell.py",
+   "sha256": "3afdadf02831402541314cb17b3fc8d58127a7c87a28cecb97ecd5b2c7bf0ad1",
+   "bytes": 4880,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "third-party document or page capture (copyright); identity retained by hash"
+  },
+  {
+   "path": "sources/urls/0712409d38113613.bin",
+   "sha256": "6d051d84cd883f148793fd247f0ebde9f9e9872a50be822365886eeba8f92d3e",
+   "bytes": 158762,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/08f3c113c61ea752.bin",
+   "sha256": "bede9c721173033063fa7dff2b0e2cb36bac5b7211321bc19a4516d1c95be3b4",
+   "bytes": 413118,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/1c4322105f295f60.bin",
+   "sha256": "f658c6d7d03d93423dfd49100a0f4fe5e4dcf8082d3f21a7c169b3ea0d0e99d5",
+   "bytes": 44065,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/244bd136ca74c4bb.bin",
+   "sha256": "d50ca22f73e31ff4c169863cff943d9455297d721cd2920508aabf529ab24a7c",
+   "bytes": 2690,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/2de01450d968d851.bin",
+   "sha256": "8b9ff6e2e0e1264ea673875d39d150c089016cec3e41c85bb286bd0a18e9810b",
+   "bytes": 2684,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/3de12231abfa36e2.bin",
+   "sha256": "f01b6a5234df4e08e265e7c22f461b51ac155308b2a5b04bbd551f941179e34e",
+   "bytes": 45635,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/454746250c0f4d38.bin",
+   "sha256": "6f2fe9b0e0abaac44baa35d0d3a1687d350fb9e678c557036e769fdb1bef5ddc",
+   "bytes": 2324983,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/4ebebf465379227b.bin",
+   "sha256": "b62ec5c4c5cce3618b2e40d12cb75769c2e7b8322e2c0d184df8f12126a6c5ed",
+   "bytes": 1258801,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/5cde738383d38f9f.bin",
+   "sha256": "e698acf393b50ec845c645923acfb1738d67a5633cc4a1875e208ba9a8ad7f32",
+   "bytes": 166432,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/65b2dd4e8251647e.bin",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "bytes": 0,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/6da94c7d07adfc20.bin",
+   "sha256": "96e1e8f2056d40d4ec39f3b40762c26f5f3c82057c20705431609048f1ccb082",
+   "bytes": 159362,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/71a33caf41cd471b.bin",
+   "sha256": "7d4617d73ada07b5b2a94cc1e8a30f0baf627bdc44a2ea0c718b08d5bf55f7b1",
+   "bytes": 240757,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/76793e630f353cb6.bin",
+   "sha256": "27da9d6ff3e304fdf563655e49d6e823403aae9f6db0abcea27a1f7502ffcf14",
+   "bytes": 1468233,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/780583d2110717e3.bin",
+   "sha256": "114fdd8f628a8acc2047991234a0d75317a6d8379c905842787152482c544587",
+   "bytes": 44347,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/79ff7bf5d102b5d9.bin",
+   "sha256": "6967b15e1d680968e6dfc4de9fb493f5235f2a757d152fed81a72d8803105117",
+   "bytes": 3725080,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/8d286cf6b9540d3c.bin",
+   "sha256": "2ce2bb17462c13fdbe1f50701335ed8a8ff5b06251d1148a897ac7a7ae4f6380",
+   "bytes": 565793,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/97fa9627e20cd6ab.bin",
+   "sha256": "3955fea36d29f4051f1b7bcce54d3523089757635c799079848a1ca476baa1d6",
+   "bytes": 328492,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/a0a1629fee4daf75.bin",
+   "sha256": "d779d713811d66d5bd499d2bfa43d87ea214834f3e5f0c45c92d2ab3753cf1c8",
+   "bytes": 245074,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/aa78a0a4cc87751a.bin",
+   "sha256": "be1c527cc916bd81819312bbd42e15058844e343ea6851cde207405148e6f652",
+   "bytes": 15468408,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/bc7cb0b09a8ced47.bin",
+   "sha256": "28ad308943a73b80b3b0406d6617550f5fc4c4f753849f23e8dbae08b9af187e",
+   "bytes": 7057,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/c9b7f3f67a1aef0c.bin",
+   "sha256": "28ad308943a73b80b3b0406d6617550f5fc4c4f753849f23e8dbae08b9af187e",
+   "bytes": 7057,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/d2ddc57723095dc1.bin",
+   "sha256": "5cf633a61c79525e2e489e52a273c270e7cdbf1610a0838cdaa66b20cb23701f",
+   "bytes": 45695,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/d33ebe7a1ab3f4e7.bin",
+   "sha256": "076221d79faaf5c4a01b675570e2638134017681f65c08c5330655929a4d1767",
+   "bytes": 161357,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/d8eed54126a544bd.bin",
+   "sha256": "28ad308943a73b80b3b0406d6617550f5fc4c4f753849f23e8dbae08b9af187e",
+   "bytes": 7057,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/f5688c9ba4f43278.bin",
+   "sha256": "2d4049b80586a0ebb7ac036cfde96e044e54ca68ac4e15b02ddedf334bd52d09",
+   "bytes": 350454,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/f966b222b83f13ca.bin",
+   "sha256": "98a4d135f4beec3eded641f2024f38471905b3a730b0d3fcc2382d888a424d0f",
+   "bytes": 249334,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/fb56cf1760c61403.bin",
+   "sha256": "2552f8c5dac3df850ae49a85576282fe7eddfc3b3f38b0a302caaa452aaf6f69",
+   "bytes": 547591,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  },
+  {
+   "path": "sources/urls/fde1cb91f44821f9.bin",
+   "sha256": "bc2b054326ead750cdd3d02c14a2f07a4bebdd73607adfeac7a04b75bd0e8402",
+   "bytes": 218554,
+   "in_original_manifest": true,
+   "original_manifest_sha256_matches": true,
+   "reason": "captured third-party web pages"
+  }
+ ]
+}

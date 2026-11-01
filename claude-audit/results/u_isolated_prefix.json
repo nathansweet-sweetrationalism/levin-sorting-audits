@@ -1,0 +1,6 @@
+{
+ "prefix": "[3, frozen 1]",
+ "upstream_is_enable_to_move": true,
+ "freeze_branch_removed": false,
+ "pass": true
+}

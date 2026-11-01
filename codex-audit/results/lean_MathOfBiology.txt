@@ -1,0 +1,76 @@
+'MathOfBiology.rule30_anf_equiv' does not depend on any axioms
+'MathOfBiology.jen_1990_left_bijective' does not depend on any axioms
+'MathOfBiology.jen_1990_barrier_shielding' does not depend on any axioms
+'MathOfBiology.rule30_quadrant_pde_backward_bijective' does not depend on any axioms
+'MathOfBiology.rule30_or_gate_absorption' does not depend on any axioms
+'MathOfBiology.rule30_antiperiodic_complement_pair_sum' does not depend on any axioms
+'MathOfBiology.rule30_horizon_preserving_left_step' does not depend on any axioms
+'MathOfBiology.rule30_left_boundary_lightcone_contradiction' does not depend on any axioms
+'MathOfBiology.rule30_dyadic_corner_mahler_identity' does not depend on any axioms
+'MathOfBiology.rule30_weight2_mixed_mahler_5term_cancellation' does not depend on any axioms
+'MathOfBiology.rule30_1down_forcing' does not depend on any axioms
+'MathOfBiology.rule30_0right_forcing' does not depend on any axioms
+'MathOfBiology.rule30_universal_010_garden_of_eden' does not depend on any axioms
+'MathOfBiology.rule30_universal_110_garden_of_eden' does not depend on any axioms
+'MathOfBiology.rule30_f0_oscillator_nodd_to_n10' depends on axioms: [propext]
+'MathOfBiology.rule30_f0_oscillator_n10_to_nodd' depends on axioms: [propext]
+'MathOfBiology.rule30_zero_step_gate1_keeps_r1_true' does not depend on any axioms
+'MathOfBiology.rule30_odd1_entry1_forces_next_gate0' does not depend on any axioms
+'MathOfBiology.rule30_top_row_defect_mirror_cancellation' does not depend on any axioms
+'MathOfBiology.rule30_odd1_entry0_forces_exit1' does not depend on any axioms
+'MathOfBiology.rule30_even2_entry1_step2_exit1' does not depend on any axioms
+'MathOfBiology.rule30_depth_d_boundary_deterministic_when_mid1' does not depend on any axioms
+'MathOfBiology.rule30_mobius_shell_to_diagonal_collapse_1bit' does not depend on any axioms
+'MathOfBiology.rule30_first_mismatch_one_gate_contradiction' does not depend on any axioms
+'MathOfBiology.rule30_oliva_conus_10_right_wall_source' does not depend on any axioms
+'MathOfBiology.rule30_adjacent_10_walls_orthogonal' does not depend on any axioms
+'MathOfBiology.rule30_center_to_left_opaque_mirror' does not depend on any axioms
+'MathOfBiology.rule30_period_pi_defect_d2_linear' depends on axioms: [propext]
+'MathOfBiology.rule30_left_cone_1run_alternating_profile_a3' depends on axioms: [propext]
+'MathOfBiology.rule30_horizon_falling_edge_predecessor' does not depend on any axioms
+'MathOfBiology.rule30_horizon_idempotent_shift_and_vacuum' does not depend on any axioms
+'MathOfBiology.rule30_horizon_condensate_and_complement_shift' does not depend on any axioms
+'MathOfBiology.rule30_inward_defect_wavefront_step' depends on axioms: [propext]
+'MathOfBiology.rule30_band1_and_band2_1run_defect_tunneling_step' does not depend on any axioms
+'MathOfBiology.meinhardt_basal_quiescence' depends on axioms: [propext]
+'MathOfBiology.ermentrout_oster_neural_gate_eq_rule30' does not depend on any axioms
+'MathOfBiology.rule30_ermentrout_oster_10_transition_forces_quench' does not depend on any axioms
+'MathOfBiology.rule90_reflection_symmetric' does not depend on any axioms
+'MathOfBiology.rule30_chiral_reflection_asymmetry' does not depend on any axioms
+'MathOfBiology.rule30_right_jacobian_center_gated' does not depend on any axioms
+'MathOfBiology.vogel_constant_annulus_area' depends on axioms: [propext]
+'MathOfBiology.vogel_fibonacci_parastichy_cascade' does not depend on any axioms
+'MathOfBiology.douady_couder_kernel_symmetric' does not depend on any axioms
+'MathOfBiology.swinton_rim_dislocation_nonincreasing' depends on axioms: [propext, Quot.sound]
+'MathOfBiology.raup_whorl_expansion_recovery' does not depend on any axioms
+'MathOfBiology.raup_translation_rate_recovery' depends on axioms: [propext]
+'MathOfBiology.tps_kernel_zero_at_origin' depends on axioms: [propext]
+'MathOfBiology.thompson_unit_shear_area_preserving' depends on axioms: [propext]
+'MathOfBiology.gray_scott_homogeneous_equilibrium' depends on axioms: [propext]
+'MathOfBiology.turing_equal_diffusion_no_instability' depends on axioms: [propext, Quot.sound]
+'MathOfBiology.turing_differential_diffusion_instability' does not depend on any axioms
+'MathOfBiology.pearson_saddle_node_discriminant' depends on axioms: [propext, Quot.sound]
+'MathOfBiology.cervera_equipotential_zero_current' depends on axioms: [propext]
+'MathOfBiology.cervera_bell_boltzmann_symmetric' depends on axioms: [propext]
+'MathOfBiology.lobo_2013_wildtype_dimensions' does not depend on any axioms
+'MathOfBiology.lobo_2014_three_segment_axis' does not depend on any axioms
+'MathOfBiology.sulston_nuclear_lerp_endpoints' depends on axioms: [propext]
+'MathOfBiology.hoffmann_shoelace_antisymmetric' depends on axioms: [propext]
+'MathOfBiology.eshghi_isotropic_zero_elongation' depends on axioms: [propext]
+'MathOfBiology.chindapol_zero_flow_diffusive' depends on axioms: [propext]
+'MathOfBiology.sum_gamma_powers_append' depends on axioms: [propext]
+'MathOfBiology.murray_1926_tree_conservation' depends on axioms: [propext]
+'MathOfBiology.runions_2005_rng_lune_iff' depends on axioms: [propext]
+'MathOfBiology.runions_2005_rng_lune_symmetric' depends on axioms: [propext]
+'MathOfBiology.katifori_2012_tree_zero_cycles' depends on axioms: [propext]
+'MathOfBiology.katifori_2012_anastomosis_adds_cycle' depends on axioms: [propext]
+'MathOfBiology.katifori_2012_edge_deletion_merges_areoles' depends on axioms: [propext, Quot.sound]
+'MathOfBiology.ermentrout_cowan_tunnel_rings' depends on axioms: [propext]
+'MathOfBiology.ermentrout_cowan_funnel_rays' depends on axioms: [propext]
+'MathOfBiology.ermentrout_cowan_log_spiral' depends on axioms: [propext, Quot.sound]
+'MathOfBiology.bressloff_roll_fixed_point' depends on axioms: [propext]
+'MathOfBiology.bressloff_roll_transverse_growth' depends on axioms: [propext]
+'MathOfBiology.bressloff_roll_stable_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'MathOfBiology.bressloff_fig38_roll_unstable' does not depend on any axioms
+'MathOfBiology.rule_2011_harmonic_returns_each_period' depends on axioms: [propext]
+'MathOfBiology.rule_2011_period_doubling_even_odd' depends on axioms: [propext, Quot.sound]
