@@ -5,3 +5,11 @@ mpmath==1.3.0
 scipy==1.18.1
 xdis==6.3.0
 matplotlib==3.11.2
+# needed by morpholib's thompson modules imported in t_alignment_null.py
+scikit-image==0.26.0
+pillow==12.3.0
+imageio==2.38.1
+networkx==3.7
+tifffile==2026.9.20
+lazy-loader==0.6
+packaging==26.3
