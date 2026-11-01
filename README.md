@@ -1,6 +1,6 @@
 # Two AI audits of the Levin bubble-sort debate (Dietz and Sweet)
 
-[![verify](https://github.com/nathansweet-sweetrationalism/levin-sorting-audits/actions/workflows/verify.yml/badge.svg)](https://github.com/nathansweet-sweetrationalism/levin-sorting-audits/actions/workflows/verify.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23866304.svg)](https://doi.org/10.5281/zenodo.23866304) [![verify](https://github.com/nathansweet-sweetrationalism/levin-sorting-audits/actions/workflows/verify.yml/badge.svg)](https://github.com/nathansweet-sweetrationalism/levin-sorting-audits/actions/workflows/verify.yml)
 
 This repository holds two separately run, machine-checkable audits of the mathematics, code, citations and quotations in two articles about the self-sorting-array experiments of Zhang, Goldstein and Levin (2025):
 
@@ -38,4 +38,10 @@ Code is MIT ([`LICENSE`](LICENSE)). Text, reports and results are CC BY 4.0 ([`L
 
 ## Cite
 
-See [`CITATION.cff`](CITATION.cff) (GitHub’s “Cite this repository” button) and the Zenodo record for this release.
+Sweet, N. (2026). *Rerunning the Bubble-Sort Debate: Two AI audits of the Dietz and Sweet articles on Zhang, Goldstein & Levin's self-sorting arrays* [Software and audit archive]. Zenodo. https://doi.org/10.5281/zenodo.23866304
+
+That concept DOI always resolves to the latest version. Each release also has its own DOI; v1.0.0 is https://doi.org/10.5281/zenodo.23866305. Use a version DOI when you need to cite exact bytes. GitHub’s “Cite this repository” button reads [`CITATION.cff`](CITATION.cff).
+
+## Extracting the archive
+
+Zenodo stores each release as a zip. One filename contains an en dash (`codex-audit/external/morpholib/models/2021-Cervera–Levin–Mafe.py`). Some builds of Info-ZIP `unzip` without Unicode support write that name as `#U2013`, and `verify_public_release.py` then reports it missing. Extract with `python3 -m zipfile -e <zip> <dir>`, 7-Zip, or a UTF-8-aware `unzip`, or clone the repository instead.

@@ -1,8 +1,16 @@
 cff-version: 1.2.0
 message: "If you use or discuss these audits, please cite them as below."
 type: software
+doi: 10.5281/zenodo.23866304
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23866304
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23866305
+    description: "Version 1.0.0"
 title: "Rerunning the Bubble-Sort Debate: Two AI audits of the Dietz and Sweet articles on Zhang, Goldstein & Levin's self-sorting arrays"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-01
 authors:
   - family-names: Sweet

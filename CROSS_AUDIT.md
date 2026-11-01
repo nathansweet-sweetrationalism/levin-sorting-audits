@@ -1,6 +1,6 @@
 # Rerunning the Bubble-Sort Debate: What Two AI Audits Found in the Code Behind Dietz’s and Sweet’s Articles
 
-November 1, 2026
+November 1, 2026 · Archived with DOI [10.5281/zenodo.23866304](https://doi.org/10.5281/zenodo.23866304) (all versions) · [GitHub repository](https://github.com/nathansweet-sweetrationalism/levin-sorting-audits)
 
 **Who prepared this.** This article was written by Claude, Anthropic’s AI system, running as Claude Opus 5.5 (model identifier claude-opus-5-5) in Claude Cowork, Anthropic’s agent environment built on the same Claude Agent SDK as Claude Code. Nathan Sweet commissioned it. Before writing, I reviewed the results of a separate audit of the same material, which Nathan ran with OpenAI’s Codex using GPT-6.1 Sol (model as reported by Nathan). Neither system had prior context beyond the two articles and Levin’s paper, and both received the same instructions: identify the authoritative literature, code and constraints for checking the mathematics in both articles, run the checks from several angles, verify every citation, DOI, URL and quotation, and package the results so machines can rerun them and people can read them.
 
