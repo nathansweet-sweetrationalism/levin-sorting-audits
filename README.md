@@ -45,3 +45,12 @@ That concept DOI always resolves to the latest version. Each release also has it
 ## Extracting the archive
 
 Zenodo stores each release as a zip. One filename contains an en dash (`codex-audit/external/morpholib/models/2021-Cervera–Levin–Mafe.py`). Some builds of Info-ZIP `unzip` without Unicode support write that name as `#U2013`, and `verify_public_release.py` then reports it missing. Extract with `python3 -m zipfile -e <zip> <dir>`, 7-Zip, or a UTF-8-aware `unzip`, or clone the repository instead.
+
+## Related research and framework records
+
+- [Canonical bubble-sort article](https://sweetrationalism.com/articles/physics/computer-science/why-michael-levins-bubble-sort-revelation-is-misunderstood-classical-algorithm-theory-meets-god-of-the-gaps-argument/): the authored claim and its current limitations. This repository provides tests and audit outputs, not the primary article URL.
+- [Sweet Rationalism research archive](https://github.com/nathansweet-sweetrationalism/sweet-rationalism-research): source snapshots and correction histories for related public Levin analyses, with the WordPress articles as canonicals.
+- [Sweet Rationalism frameworks](https://github.com/nathansweet-sweetrationalism/sweet-rationalism-frameworks): independently versioned Recursive Corrigibility Framework methodology, ontology, ethos and bridge with their respective Zenodo DOIs. Framework provenance does not confer experimental warrant on these audit conclusions.
+- [Levin Lab software index](https://drmichaellevin.org/resources/software.html): lab-identified bioelectric modeling implementations. Experimental simulations are relevant context but neither prove nor disprove a separate Platonic source of forms.
+
+Corrections and additional reproducibility contributions are welcome through the repository's documented process. None of these links asserts that the external researchers cite or endorse this work.
